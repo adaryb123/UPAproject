@@ -20,6 +20,9 @@ class Region(DynamicDocument):
         super().__init__(*args, **values)
         self.name = name
 
+def delete_existing():
+    collection = Region.objects()
+    collection.delete()
 
 def insert_population_csv(file_path_population, encoding_population, file_path_facilities, encoding_facilities):
     # Loading csv to pandas dataframe
