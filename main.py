@@ -20,7 +20,8 @@ def get_domain_dict(df_fac, reg_name, domains_list):
     df_domain_region = df_fac[df_fac['Okres'] == reg_name]
     df_domain_region['OborPece'] = df_domain_region['OborPece'].fillna('neznamy')
     for dom in domains_list:
-        domain_dict[dom] = {}
+        if dom in df_domain_region['OborPece'].tolist():
+            domain_dict[dom] = {}
 
     for idx, row_fac in df_domain_region.iterrows():
         facility_dict = {}
@@ -41,6 +42,7 @@ def insert_population_csv(file_path_population, encoding_population, file_path_f
     # Loading csv to pandas dataframe
     df_pop = pd.read_csv(file_path_population, encoding=encoding_population)
     df_fac = pd.read_csv(file_path_facilities, encoding=encoding_facilities, delimiter=';', header=0)
+    df_fac = df_fac.drop_duplicates()
 
     print(df_pop.sort_values(['vuzemi_txt', 'casref_do', 'vek_txt']).head(10))
     print('Regions to save: '+ str(df_pop['vuzemi_txt'].nunique()))
@@ -53,6 +55,7 @@ def insert_population_csv(file_path_population, encoding_population, file_path_f
     region = rg.Region('')
     pop_dict = {}
     first_iteration = True
+
     # Creating list of domains
     domains_list = ['neznamy' if x is np.nan else x for x in df_fac['OborPece'].unique()]
 
