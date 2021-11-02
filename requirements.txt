@@ -1,3 +1,5 @@
 pandas
-pymongo
+numpy
+jupyter
+mongoengine
 certifi
