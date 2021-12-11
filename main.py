@@ -3,7 +3,9 @@ import Database_driver as driver
 import pandas as pd
 import numpy as np
 import Region as rg
-
+from pandas import json_normalize
+from pymongo import MongoClient
+import certifi
 
 csv_file_path_population = r'Dataset/130142-21data043021.csv'
 csv_file_path_facilities = r'Dataset/export-sluzby-2021-10.csv'
@@ -101,11 +103,19 @@ def insert_population_csv(file_path_population, encoding_population, file_path_f
 
     region.save()
 
+def export_to_csv():
+    ca = certifi.where()
+    conn = MongoClient('mongodb+srv://dbUser:potkan420@cluster0.bkic2.mongodb.net/public_health_system?retryWrites=true&w=majority', tlsCAFile=ca)
+    db = conn['public_health_system']
+    cursor = db['region'].find({})
+    df = pd.DataFrame(list(cursor))
+    print(df)
+    df.to_csv("out.csv")
 
 driver.connect_to_db()
-delete_existing()
-insert_population_csv(csv_file_path_population,'utf8', csv_file_path_facilities, 'cp1250')
-
+#delete_existing()
+#insert_population_csv(csv_file_path_population,'utf8', csv_file_path_facilities, 'cp1250')
+export_to_csv()
 
 
 
