@@ -3,9 +3,11 @@ import Database_driver as driver
 import pandas as pd
 import numpy as np
 import Region as rg
+
 from pandas import json_normalize
 from pymongo import MongoClient
 import certifi
+from flatten_json import flatten
 
 csv_file_path_population = r'Dataset/130142-21data043021.csv'
 csv_file_path_facilities = r'Dataset/export-sluzby-2021-10.csv'
