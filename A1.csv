@@ -1,0 +1,3325 @@
+,Region,Domain,Facility_ID
+0,Blansko,Dentální hygienistka,3472
+1,Blansko,Dentální hygienistka,7074
+2,Blansko,Dentální hygienistka,9485
+3,Blansko,Dentální hygienistka,12644
+4,Blansko,Dentální hygienistka,23004
+5,Blansko,Dentální hygienistka,23826
+6,Blansko,Dentální hygienistka,55952
+7,Blansko,Fyzioterapeut,2876
+8,Blansko,Fyzioterapeut,6681
+9,Blansko,Fyzioterapeut,10584
+10,Blansko,Fyzioterapeut,10585
+11,Blansko,Fyzioterapeut,10586
+12,Blansko,Fyzioterapeut,11601
+13,Blansko,Fyzioterapeut,12236
+14,Blansko,Fyzioterapeut,12237
+15,Blansko,Fyzioterapeut,12238
+16,Blansko,Fyzioterapeut,23813
+17,Blansko,Fyzioterapeut,24742
+18,Blansko,Fyzioterapeut,32552
+19,Blansko,Fyzioterapeut,32690
+20,Blansko,Fyzioterapeut,32691
+21,Blansko,Fyzioterapeut,33655
+22,Blansko,Fyzioterapeut,40804
+23,Blansko,Fyzioterapeut,43085
+24,Blansko,Fyzioterapeut,43086
+25,Blansko,Fyzioterapeut,45742
+26,Blansko,Fyzioterapeut,59888
+27,Blansko,Klinický logoped,21524
+28,Blansko,Klinický logoped,24884
+29,Blansko,Klinický logoped,43081
+30,Blansko,Klinický logoped,43082
+31,Blansko,Klinický logoped,44739
+32,Blansko,Klinický logoped,44838
+33,Blansko,Klinický logoped,59883
+34,Blansko,Klinický psycholog,32697
+35,Blansko,Klinický psycholog,40790
+36,Blansko,Klinický psycholog,43087
+37,Blansko,Klinický psycholog,43088
+38,Blansko,Klinický psycholog,45843
+39,Blansko,Klinický psycholog,59882
+40,Blansko,chirurgie,8548
+41,Blansko,chirurgie,34705
+42,Blansko,chirurgie,37319
+43,Blansko,chirurgie,40809
+44,Blansko,chirurgie,40810
+45,Blansko,chirurgie,40811
+46,Blansko,chirurgie,50625
+47,Blansko,chirurgie,59849
+48,Blansko,chirurgie,59869
+49,Blansko,kardiologie,9616
+50,Blansko,kardiologie,24873
+51,Blansko,kardiologie,40800
+52,Blansko,kardiologie,50586
+53,Blansko,kardiologie,59870
+54,Blansko,nefrologie,13032
+55,Blansko,nefrologie,32067
+56,Blansko,nefrologie,59873
+57,Blansko,neurologie,14492
+58,Blansko,neurologie,21680
+59,Blansko,neurologie,35309
+60,Blansko,neurologie,40791
+61,Blansko,neurologie,59853
+62,Blansko,neurologie,59856
+63,Blansko,neurologie,59874
+64,Blansko,praktické lékařství pro děti a dorost,2304
+65,Blansko,praktické lékařství pro děti a dorost,2305
+66,Blansko,praktické lékařství pro děti a dorost,7138
+67,Blansko,praktické lékařství pro děti a dorost,10294
+68,Blansko,praktické lékařství pro děti a dorost,14159
+69,Blansko,praktické lékařství pro děti a dorost,14502
+70,Blansko,praktické lékařství pro děti a dorost,20987
+71,Blansko,praktické lékařství pro děti a dorost,25288
+72,Blansko,praktické lékařství pro děti a dorost,31126
+73,Blansko,praktické lékařství pro děti a dorost,33828
+74,Blansko,praktické lékařství pro děti a dorost,35894
+75,Blansko,praktické lékařství pro děti a dorost,37117
+76,Blansko,praktické lékařství pro děti a dorost,39411
+77,Blansko,praktické lékařství pro děti a dorost,40403
+78,Blansko,praktické lékařství pro děti a dorost,40788
+79,Blansko,praktické lékařství pro děti a dorost,40962
+80,Blansko,praktické lékařství pro děti a dorost,41644
+81,Blansko,praktické lékařství pro děti a dorost,45993
+82,Blansko,praktické lékařství pro děti a dorost,46926
+83,Blansko,praktické lékařství pro děti a dorost,50589
+84,Blansko,praktické lékařství pro děti a dorost,53061
+85,Blansko,praktické lékařství pro děti a dorost,53071
+86,Blansko,praktické lékárenství,3871
+87,Blansko,praktické lékárenství,4650
+88,Blansko,praktické lékárenství,5708
+89,Blansko,praktické lékárenství,7901
+90,Blansko,praktické lékárenství,12014
+91,Blansko,praktické lékárenství,12798
+92,Blansko,praktické lékárenství,19758
+93,Blansko,praktické lékárenství,19997
+94,Blansko,praktické lékárenství,21723
+95,Blansko,praktické lékárenství,24404
+96,Blansko,praktické lékárenství,24754
+97,Blansko,praktické lékárenství,25002
+98,Blansko,praktické lékárenství,25043
+99,Blansko,praktické lékárenství,25499
+100,Blansko,praktické lékárenství,25500
+101,Blansko,praktické lékárenství,27117
+102,Blansko,praktické lékárenství,30821
+103,Blansko,praktické lékárenství,32068
+104,Blansko,praktické lékárenství,34714
+105,Blansko,praktické lékárenství,34716
+106,Blansko,praktické lékárenství,37013
+107,Blansko,praktické lékárenství,40830
+108,Blansko,praktické lékárenství,40833
+109,Blansko,praktické lékárenství,42822
+110,Blansko,praktické lékárenství,55572
+111,Blansko,praktické lékárenství,57424
+112,Blansko,praktické lékárenství,57469
+113,Blansko,praktické lékárenství,58034
+114,Blansko,praktické lékárenství,59860
+115,Blansko,všeobecné praktické lékařství,1158
+116,Blansko,všeobecné praktické lékařství,3089
+117,Blansko,všeobecné praktické lékařství,3564
+118,Blansko,všeobecné praktické lékařství,4271
+119,Blansko,všeobecné praktické lékařství,4706
+120,Blansko,všeobecné praktické lékařství,4715
+121,Blansko,všeobecné praktické lékařství,4764
+122,Blansko,všeobecné praktické lékařství,4765
+123,Blansko,všeobecné praktické lékařství,5479
+124,Blansko,všeobecné praktické lékařství,8649
+125,Blansko,všeobecné praktické lékařství,11699
+126,Blansko,všeobecné praktické lékařství,12506
+127,Blansko,všeobecné praktické lékařství,12654
+128,Blansko,všeobecné praktické lékařství,14122
+129,Blansko,všeobecné praktické lékařství,14234
+130,Blansko,všeobecné praktické lékařství,14235
+131,Blansko,všeobecné praktické lékařství,14236
+132,Blansko,všeobecné praktické lékařství,14237
+133,Blansko,všeobecné praktické lékařství,14897
+134,Blansko,všeobecné praktické lékařství,14949
+135,Blansko,všeobecné praktické lékařství,14950
+136,Blansko,všeobecné praktické lékařství,15153
+137,Blansko,všeobecné praktické lékařství,15154
+138,Blansko,všeobecné praktické lékařství,16675
+139,Blansko,všeobecné praktické lékařství,16676
+140,Blansko,všeobecné praktické lékařství,18493
+141,Blansko,všeobecné praktické lékařství,18494
+142,Blansko,všeobecné praktické lékařství,18496
+143,Blansko,všeobecné praktické lékařství,18498
+144,Blansko,všeobecné praktické lékařství,20113
+145,Blansko,všeobecné praktické lékařství,20883
+146,Blansko,všeobecné praktické lékařství,20884
+147,Blansko,všeobecné praktické lékařství,22309
+148,Blansko,všeobecné praktické lékařství,23231
+149,Blansko,všeobecné praktické lékařství,23232
+150,Blansko,všeobecné praktické lékařství,23418
+151,Blansko,všeobecné praktické lékařství,26541
+152,Blansko,všeobecné praktické lékařství,26542
+153,Blansko,všeobecné praktické lékařství,27603
+154,Blansko,všeobecné praktické lékařství,30181
+155,Blansko,všeobecné praktické lékařství,30182
+156,Blansko,všeobecné praktické lékařství,32114
+157,Blansko,všeobecné praktické lékařství,32168
+158,Blansko,všeobecné praktické lékařství,34739
+159,Blansko,všeobecné praktické lékařství,34764
+160,Blansko,všeobecné praktické lékařství,39029
+161,Blansko,všeobecné praktické lékařství,40786
+162,Blansko,všeobecné praktické lékařství,40787
+163,Blansko,všeobecné praktické lékařství,41604
+164,Blansko,všeobecné praktické lékařství,41645
+165,Blansko,všeobecné praktické lékařství,42349
+166,Blansko,všeobecné praktické lékařství,44361
+167,Blansko,všeobecné praktické lékařství,44736
+168,Blansko,všeobecné praktické lékařství,45118
+169,Blansko,všeobecné praktické lékařství,46627
+170,Blansko,všeobecné praktické lékařství,46927
+171,Blansko,všeobecné praktické lékařství,46929
+172,Blansko,všeobecné praktické lékařství,48477
+173,Blansko,všeobecné praktické lékařství,48478
+174,Blansko,všeobecné praktické lékařství,48480
+175,Blansko,všeobecné praktické lékařství,48481
+176,Blansko,všeobecné praktické lékařství,48482
+177,Blansko,všeobecné praktické lékařství,50624
+178,Blansko,všeobecné praktické lékařství,53064
+179,Blansko,všeobecné praktické lékařství,53065
+180,Blansko,všeobecné praktické lékařství,53068
+181,Blansko,všeobecné praktické lékařství,53070
+182,Blansko,všeobecné praktické lékařství,53072
+183,Blansko,všeobecné praktické lékařství,53078
+184,Blansko,všeobecné praktické lékařství,55950
+185,Blansko,všeobecné praktické lékařství,55951
+186,Blansko,všeobecné praktické lékařství,55956
+187,Blansko,všeobecné praktické lékařství,55957
+188,Blansko,zubní lékařství,5789
+189,Blansko,zubní lékařství,8645
+190,Blansko,zubní lékařství,10478
+191,Blansko,zubní lékařství,10569
+192,Blansko,zubní lékařství,12863
+193,Blansko,zubní lékařství,13299
+194,Blansko,zubní lékařství,13300
+195,Blansko,zubní lékařství,14123
+196,Blansko,zubní lékařství,14603
+197,Blansko,zubní lékařství,17474
+198,Blansko,zubní lékařství,21639
+199,Blansko,zubní lékařství,21727
+200,Blansko,zubní lékařství,22071
+201,Blansko,zubní lékařství,23233
+202,Blansko,zubní lékařství,23234
+203,Blansko,zubní lékařství,23820
+204,Blansko,zubní lékařství,23825
+205,Blansko,zubní lékařství,24096
+206,Blansko,zubní lékařství,24804
+207,Blansko,zubní lékařství,24805
+208,Blansko,zubní lékařství,24886
+209,Blansko,zubní lékařství,26535
+210,Blansko,zubní lékařství,26536
+211,Blansko,zubní lékařství,26671
+212,Blansko,zubní lékařství,27178
+213,Blansko,zubní lékařství,27179
+214,Blansko,zubní lékařství,30190
+215,Blansko,zubní lékařství,30911
+216,Blansko,zubní lékařství,32810
+217,Blansko,zubní lékařství,33580
+218,Blansko,zubní lékařství,34467
+219,Blansko,zubní lékařství,35942
+220,Blansko,zubní lékařství,38695
+221,Blansko,zubní lékařství,39680
+222,Blansko,zubní lékařství,39682
+223,Blansko,zubní lékařství,40198
+224,Blansko,zubní lékařství,45511
+225,Blansko,zubní lékařství,45827
+226,Blansko,zubní lékařství,48474
+227,Blansko,zubní lékařství,50584
+228,Blansko,zubní lékařství,50590
+229,Blansko,zubní lékařství,53062
+230,Blansko,zubní lékařství,53063
+231,Blansko,zubní lékařství,53066
+232,Blansko,zubní lékařství,53067
+233,Blansko,zubní lékařství,53069
+234,Blansko,zubní lékařství,53073
+235,Blansko,zubní lékařství,53076
+236,Blansko,zubní lékařství,53077
+237,Blansko,zubní lékařství,53079
+238,Blansko,zubní lékařství,55953
+239,Blansko,zubní lékařství,55954
+240,Blansko,zubní lékařství,55955
+241,Blansko,zubní lékařství,56797
+242,Brno-město,Dentální hygienistka,26
+243,Brno-město,Dentální hygienistka,67
+244,Brno-město,Dentální hygienistka,310
+245,Brno-město,Dentální hygienistka,359
+246,Brno-město,Dentální hygienistka,647
+247,Brno-město,Dentální hygienistka,1424
+248,Brno-město,Dentální hygienistka,1456
+249,Brno-město,Dentální hygienistka,2571
+250,Brno-město,Dentální hygienistka,2962
+251,Brno-město,Dentální hygienistka,3397
+252,Brno-město,Dentální hygienistka,4249
+253,Brno-město,Dentální hygienistka,4705
+254,Brno-město,Dentální hygienistka,5162
+255,Brno-město,Dentální hygienistka,6784
+256,Brno-město,Dentální hygienistka,7072
+257,Brno-město,Dentální hygienistka,7236
+258,Brno-město,Dentální hygienistka,8910
+259,Brno-město,Dentální hygienistka,9220
+260,Brno-město,Dentální hygienistka,9224
+261,Brno-město,Dentální hygienistka,10124
+262,Brno-město,Dentální hygienistka,11477
+263,Brno-město,Dentální hygienistka,11917
+264,Brno-město,Dentální hygienistka,11919
+265,Brno-město,Dentální hygienistka,12571
+266,Brno-město,Dentální hygienistka,13411
+267,Brno-město,Dentální hygienistka,13741
+268,Brno-město,Dentální hygienistka,14770
+269,Brno-město,Dentální hygienistka,14879
+270,Brno-město,Dentální hygienistka,15004
+271,Brno-město,Dentální hygienistka,15036
+272,Brno-město,Dentální hygienistka,16278
+273,Brno-město,Dentální hygienistka,19723
+274,Brno-město,Dentální hygienistka,20105
+275,Brno-město,Dentální hygienistka,20303
+276,Brno-město,Dentální hygienistka,20327
+277,Brno-město,Dentální hygienistka,20978
+278,Brno-město,Dentální hygienistka,20989
+279,Brno-město,Dentální hygienistka,21186
+280,Brno-město,Dentální hygienistka,23043
+281,Brno-město,Dentální hygienistka,23044
+282,Brno-město,Dentální hygienistka,23197
+283,Brno-město,Dentální hygienistka,23408
+284,Brno-město,Dentální hygienistka,23815
+285,Brno-město,Dentální hygienistka,23823
+286,Brno-město,Dentální hygienistka,24662
+287,Brno-město,Dentální hygienistka,24802
+288,Brno-město,Dentální hygienistka,24811
+289,Brno-město,Dentální hygienistka,24856
+290,Brno-město,Dentální hygienistka,25119
+291,Brno-město,Dentální hygienistka,27879
+292,Brno-město,Dentální hygienistka,29054
+293,Brno-město,Dentální hygienistka,29266
+294,Brno-město,Dentální hygienistka,29274
+295,Brno-město,Dentální hygienistka,30207
+296,Brno-město,Dentální hygienistka,30897
+297,Brno-město,Dentální hygienistka,32569
+298,Brno-město,Dentální hygienistka,35738
+299,Brno-město,Dentální hygienistka,40413
+300,Brno-město,Dentální hygienistka,46920
+301,Brno-město,Dentální hygienistka,60076
+302,Brno-město,Dentální hygienistka,60605
+303,Brno-město,Fyzioterapeut,16
+304,Brno-město,Fyzioterapeut,64
+305,Brno-město,Fyzioterapeut,65
+306,Brno-město,Fyzioterapeut,73
+307,Brno-město,Fyzioterapeut,225
+308,Brno-město,Fyzioterapeut,311
+309,Brno-město,Fyzioterapeut,487
+310,Brno-město,Fyzioterapeut,643
+311,Brno-město,Fyzioterapeut,644
+312,Brno-město,Fyzioterapeut,747
+313,Brno-město,Fyzioterapeut,748
+314,Brno-město,Fyzioterapeut,937
+315,Brno-město,Fyzioterapeut,1020
+316,Brno-město,Fyzioterapeut,1027
+317,Brno-město,Fyzioterapeut,1084
+318,Brno-město,Fyzioterapeut,1096
+319,Brno-město,Fyzioterapeut,1102
+320,Brno-město,Fyzioterapeut,1105
+321,Brno-město,Fyzioterapeut,1106
+322,Brno-město,Fyzioterapeut,1113
+323,Brno-město,Fyzioterapeut,1363
+324,Brno-město,Fyzioterapeut,1420
+325,Brno-město,Fyzioterapeut,1452
+326,Brno-město,Fyzioterapeut,1453
+327,Brno-město,Fyzioterapeut,1496
+328,Brno-město,Fyzioterapeut,1564
+329,Brno-město,Fyzioterapeut,1582
+330,Brno-město,Fyzioterapeut,1590
+331,Brno-město,Fyzioterapeut,1796
+332,Brno-město,Fyzioterapeut,2049
+333,Brno-město,Fyzioterapeut,2229
+334,Brno-město,Fyzioterapeut,2290
+335,Brno-město,Fyzioterapeut,2291
+336,Brno-město,Fyzioterapeut,2306
+337,Brno-město,Fyzioterapeut,2398
+338,Brno-město,Fyzioterapeut,2506
+339,Brno-město,Fyzioterapeut,2512
+340,Brno-město,Fyzioterapeut,2793
+341,Brno-město,Fyzioterapeut,2818
+342,Brno-město,Fyzioterapeut,2868
+343,Brno-město,Fyzioterapeut,2878
+344,Brno-město,Fyzioterapeut,3331
+345,Brno-město,Fyzioterapeut,3439
+346,Brno-město,Fyzioterapeut,3473
+347,Brno-město,Fyzioterapeut,3816
+348,Brno-město,Fyzioterapeut,4251
+349,Brno-město,Fyzioterapeut,4252
+350,Brno-město,Fyzioterapeut,4262
+351,Brno-město,Fyzioterapeut,5332
+352,Brno-město,Fyzioterapeut,5502
+353,Brno-město,Fyzioterapeut,5607
+354,Brno-město,Fyzioterapeut,5608
+355,Brno-město,Fyzioterapeut,5704
+356,Brno-město,Fyzioterapeut,5933
+357,Brno-město,Fyzioterapeut,5949
+358,Brno-město,Fyzioterapeut,5951
+359,Brno-město,Fyzioterapeut,6070
+360,Brno-město,Fyzioterapeut,6073
+361,Brno-město,Fyzioterapeut,6208
+362,Brno-město,Fyzioterapeut,6651
+363,Brno-město,Fyzioterapeut,6732
+364,Brno-město,Fyzioterapeut,6779
+365,Brno-město,Fyzioterapeut,6875
+366,Brno-město,Fyzioterapeut,7364
+367,Brno-město,Fyzioterapeut,7400
+368,Brno-město,Fyzioterapeut,7503
+369,Brno-město,Fyzioterapeut,7952
+370,Brno-město,Fyzioterapeut,7953
+371,Brno-město,Fyzioterapeut,7957
+372,Brno-město,Fyzioterapeut,8174
+373,Brno-město,Fyzioterapeut,9417
+374,Brno-město,Fyzioterapeut,9710
+375,Brno-město,Fyzioterapeut,9711
+376,Brno-město,Fyzioterapeut,9997
+377,Brno-město,Fyzioterapeut,10009
+378,Brno-město,Fyzioterapeut,10782
+379,Brno-město,Fyzioterapeut,10981
+380,Brno-město,Fyzioterapeut,10985
+381,Brno-město,Fyzioterapeut,11046
+382,Brno-město,Fyzioterapeut,11124
+383,Brno-město,Fyzioterapeut,11380
+384,Brno-město,Fyzioterapeut,11756
+385,Brno-město,Fyzioterapeut,11797
+386,Brno-město,Fyzioterapeut,11817
+387,Brno-město,Fyzioterapeut,12085
+388,Brno-město,Fyzioterapeut,12170
+389,Brno-město,Fyzioterapeut,12171
+390,Brno-město,Fyzioterapeut,12190
+391,Brno-město,Fyzioterapeut,12232
+392,Brno-město,Fyzioterapeut,12414
+393,Brno-město,Fyzioterapeut,12416
+394,Brno-město,Fyzioterapeut,12668
+395,Brno-město,Fyzioterapeut,12817
+396,Brno-město,Fyzioterapeut,13259
+397,Brno-město,Fyzioterapeut,13518
+398,Brno-město,Fyzioterapeut,14001
+399,Brno-město,Fyzioterapeut,14002
+400,Brno-město,Fyzioterapeut,14450
+401,Brno-město,Fyzioterapeut,14574
+402,Brno-město,Fyzioterapeut,14610
+403,Brno-město,Fyzioterapeut,14890
+404,Brno-město,Fyzioterapeut,14892
+405,Brno-město,Fyzioterapeut,14928
+406,Brno-město,Fyzioterapeut,14955
+407,Brno-město,Fyzioterapeut,15033
+408,Brno-město,Fyzioterapeut,15166
+409,Brno-město,Fyzioterapeut,15167
+410,Brno-město,Fyzioterapeut,16167
+411,Brno-město,Fyzioterapeut,16202
+412,Brno-město,Fyzioterapeut,16347
+413,Brno-město,Fyzioterapeut,17074
+414,Brno-město,Fyzioterapeut,19752
+415,Brno-město,Fyzioterapeut,19836
+416,Brno-město,Fyzioterapeut,20079
+417,Brno-město,Fyzioterapeut,20132
+418,Brno-město,Fyzioterapeut,20981
+419,Brno-město,Fyzioterapeut,20985
+420,Brno-město,Fyzioterapeut,21860
+421,Brno-město,Fyzioterapeut,23033
+422,Brno-město,Fyzioterapeut,23042
+423,Brno-město,Fyzioterapeut,23763
+424,Brno-město,Fyzioterapeut,23764
+425,Brno-město,Fyzioterapeut,23972
+426,Brno-město,Fyzioterapeut,23990
+427,Brno-město,Fyzioterapeut,24660
+428,Brno-město,Fyzioterapeut,24677
+429,Brno-město,Fyzioterapeut,24678
+430,Brno-město,Fyzioterapeut,24686
+431,Brno-město,Fyzioterapeut,24701
+432,Brno-město,Fyzioterapeut,24732
+433,Brno-město,Fyzioterapeut,24733
+434,Brno-město,Fyzioterapeut,24897
+435,Brno-město,Fyzioterapeut,25088
+436,Brno-město,Fyzioterapeut,25152
+437,Brno-město,Fyzioterapeut,25583
+438,Brno-město,Fyzioterapeut,25586
+439,Brno-město,Fyzioterapeut,27405
+440,Brno-město,Fyzioterapeut,27605
+441,Brno-město,Fyzioterapeut,27606
+442,Brno-město,Fyzioterapeut,27694
+443,Brno-město,Fyzioterapeut,27891
+444,Brno-město,Fyzioterapeut,27892
+445,Brno-město,Fyzioterapeut,28572
+446,Brno-město,Fyzioterapeut,28605
+447,Brno-město,Fyzioterapeut,28746
+448,Brno-město,Fyzioterapeut,29845
+449,Brno-město,Fyzioterapeut,30385
+450,Brno-město,Fyzioterapeut,30785
+451,Brno-město,Fyzioterapeut,31065
+452,Brno-město,Fyzioterapeut,31079
+453,Brno-město,Fyzioterapeut,31652
+454,Brno-město,Fyzioterapeut,32061
+455,Brno-město,Fyzioterapeut,32062
+456,Brno-město,Fyzioterapeut,32087
+457,Brno-město,Fyzioterapeut,32088
+458,Brno-město,Fyzioterapeut,32141
+459,Brno-město,Fyzioterapeut,32987
+460,Brno-město,Fyzioterapeut,33543
+461,Brno-město,Fyzioterapeut,34151
+462,Brno-město,Fyzioterapeut,34239
+463,Brno-město,Fyzioterapeut,35121
+464,Brno-město,Fyzioterapeut,35311
+465,Brno-město,Fyzioterapeut,35736
+466,Brno-město,Fyzioterapeut,36378
+467,Brno-město,Fyzioterapeut,37388
+468,Brno-město,Fyzioterapeut,37448
+469,Brno-město,Fyzioterapeut,38669
+470,Brno-město,Fyzioterapeut,39525
+471,Brno-město,Fyzioterapeut,40908
+472,Brno-město,Fyzioterapeut,40924
+473,Brno-město,Fyzioterapeut,43369
+474,Brno-město,Fyzioterapeut,43370
+475,Brno-město,Fyzioterapeut,43391
+476,Brno-město,Fyzioterapeut,44767
+477,Brno-město,Fyzioterapeut,45447
+478,Brno-město,Fyzioterapeut,46847
+479,Brno-město,Fyzioterapeut,47667
+480,Brno-město,Fyzioterapeut,47668
+481,Brno-město,Fyzioterapeut,47711
+482,Brno-město,Fyzioterapeut,47946
+483,Brno-město,Fyzioterapeut,48443
+484,Brno-město,Fyzioterapeut,49231
+485,Brno-město,Fyzioterapeut,49314
+486,Brno-město,Fyzioterapeut,49320
+487,Brno-město,Fyzioterapeut,49337
+488,Brno-město,Fyzioterapeut,51931
+489,Brno-město,Fyzioterapeut,51962
+490,Brno-město,Fyzioterapeut,54783
+491,Brno-město,Fyzioterapeut,57452
+492,Brno-město,Fyzioterapeut,59903
+493,Brno-město,Fyzioterapeut,60097
+494,Brno-město,Fyzioterapeut,60106
+495,Brno-město,Fyzioterapeut,60142
+496,Brno-město,Klinický logoped,735
+497,Brno-město,Klinický logoped,1320
+498,Brno-město,Klinický logoped,2642
+499,Brno-město,Klinický logoped,2940
+500,Brno-město,Klinický logoped,5550
+501,Brno-město,Klinický logoped,6556
+502,Brno-město,Klinický logoped,6579
+503,Brno-město,Klinický logoped,6734
+504,Brno-město,Klinický logoped,6994
+505,Brno-město,Klinický logoped,7958
+506,Brno-město,Klinický logoped,10558
+507,Brno-město,Klinický logoped,10819
+508,Brno-město,Klinický logoped,14153
+509,Brno-město,Klinický logoped,14161
+510,Brno-město,Klinický logoped,14162
+511,Brno-město,Klinický logoped,15038
+512,Brno-město,Klinický logoped,15155
+513,Brno-město,Klinický logoped,19755
+514,Brno-město,Klinický logoped,21634
+515,Brno-město,Klinický logoped,21635
+516,Brno-město,Klinický logoped,21636
+517,Brno-město,Klinický logoped,21637
+518,Brno-město,Klinický logoped,21693
+519,Brno-město,Klinický logoped,23758
+520,Brno-město,Klinický logoped,23770
+521,Brno-město,Klinický logoped,30296
+522,Brno-město,Klinický logoped,31870
+523,Brno-město,Klinický logoped,32045
+524,Brno-město,Klinický logoped,43353
+525,Brno-město,Klinický logoped,43354
+526,Brno-město,Klinický logoped,43357
+527,Brno-město,Klinický logoped,43358
+528,Brno-město,Klinický logoped,46375
+529,Brno-město,Klinický logoped,47173
+530,Brno-město,Klinický logoped,47174
+531,Brno-město,Klinický logoped,47423
+532,Brno-město,Klinický logoped,47424
+533,Brno-město,Klinický logoped,47425
+534,Brno-město,Klinický logoped,49355
+535,Brno-město,Klinický logoped,59909
+536,Brno-město,Klinický logoped,60608
+537,Brno-město,Klinický psycholog,597
+538,Brno-město,Klinický psycholog,1454
+539,Brno-město,Klinický psycholog,1761
+540,Brno-město,Klinický psycholog,2400
+541,Brno-město,Klinický psycholog,3066
+542,Brno-město,Klinický psycholog,3277
+543,Brno-město,Klinický psycholog,3391
+544,Brno-město,Klinický psycholog,3411
+545,Brno-město,Klinický psycholog,4217
+546,Brno-město,Klinický psycholog,4219
+547,Brno-město,Klinický psycholog,5309
+548,Brno-město,Klinický psycholog,6504
+549,Brno-město,Klinický psycholog,6555
+550,Brno-město,Klinický psycholog,6557
+551,Brno-město,Klinický psycholog,6785
+552,Brno-město,Klinický psycholog,6793
+553,Brno-město,Klinický psycholog,7396
+554,Brno-město,Klinický psycholog,9987
+555,Brno-město,Klinický psycholog,11215
+556,Brno-město,Klinický psycholog,11459
+557,Brno-město,Klinický psycholog,11819
+558,Brno-město,Klinický psycholog,13397
+559,Brno-město,Klinický psycholog,13398
+560,Brno-město,Klinický psycholog,13418
+561,Brno-město,Klinický psycholog,14163
+562,Brno-město,Klinický psycholog,14164
+563,Brno-město,Klinický psycholog,14245
+564,Brno-město,Klinický psycholog,14710
+565,Brno-město,Klinický psycholog,14732
+566,Brno-město,Klinický psycholog,18582
+567,Brno-město,Klinický psycholog,19304
+568,Brno-město,Klinický psycholog,20124
+569,Brno-město,Klinický psycholog,21278
+570,Brno-město,Klinický psycholog,22108
+571,Brno-město,Klinický psycholog,23007
+572,Brno-město,Klinický psycholog,23009
+573,Brno-město,Klinický psycholog,23010
+574,Brno-město,Klinický psycholog,23011
+575,Brno-město,Klinický psycholog,23013
+576,Brno-město,Klinický psycholog,23021
+577,Brno-město,Klinický psycholog,23754
+578,Brno-město,Klinický psycholog,23755
+579,Brno-město,Klinický psycholog,23771
+580,Brno-město,Klinický psycholog,24889
+581,Brno-město,Klinický psycholog,25084
+582,Brno-město,Klinický psycholog,25360
+583,Brno-město,Klinický psycholog,27255
+584,Brno-město,Klinický psycholog,27680
+585,Brno-město,Klinický psycholog,27949
+586,Brno-město,Klinický psycholog,29021
+587,Brno-město,Klinický psycholog,30302
+588,Brno-město,Klinický psycholog,33667
+589,Brno-město,Klinický psycholog,35828
+590,Brno-město,Klinický psycholog,41630
+591,Brno-město,Klinický psycholog,41986
+592,Brno-město,Klinický psycholog,43355
+593,Brno-město,Klinický psycholog,43356
+594,Brno-město,Klinický psycholog,43373
+595,Brno-město,Klinický psycholog,43374
+596,Brno-město,Klinický psycholog,44568
+597,Brno-město,Klinický psycholog,45110
+598,Brno-město,Klinický psycholog,46918
+599,Brno-město,Klinický psycholog,46962
+600,Brno-město,Klinický psycholog,47175
+601,Brno-město,Klinický psycholog,47176
+602,Brno-město,Klinický psycholog,47426
+603,Brno-město,Klinický psycholog,47427
+604,Brno-město,Klinický psycholog,47428
+605,Brno-město,Klinický psycholog,47429
+606,Brno-město,Klinický psycholog,48460
+607,Brno-město,Klinický psycholog,48461
+608,Brno-město,Klinický psycholog,48468
+609,Brno-město,Klinický psycholog,51920
+610,Brno-město,Klinický psycholog,51960
+611,Brno-město,Klinický psycholog,52853
+612,Brno-město,Klinický psycholog,55573
+613,Brno-město,Klinický psycholog,57875
+614,Brno-město,Klinický psycholog,58203
+615,Brno-město,Klinický psycholog,58217
+616,Brno-město,Klinický psycholog,60084
+617,Brno-město,Klinický psycholog,60143
+618,Brno-město,Klinický psycholog,60494
+619,Brno-město,Klinický psycholog,60495
+620,Brno-město,Klinický psycholog,60496
+621,Brno-město,Klinický psycholog,60609
+622,Brno-město,chirurgie,2443
+623,Brno-město,chirurgie,3546
+624,Brno-město,chirurgie,6409
+625,Brno-město,chirurgie,6877
+626,Brno-město,chirurgie,6878
+627,Brno-město,chirurgie,6883
+628,Brno-město,chirurgie,9996
+629,Brno-město,chirurgie,10109
+630,Brno-město,chirurgie,10247
+631,Brno-město,chirurgie,10250
+632,Brno-město,chirurgie,10421
+633,Brno-město,chirurgie,10422
+634,Brno-město,chirurgie,10423
+635,Brno-město,chirurgie,10424
+636,Brno-město,chirurgie,10425
+637,Brno-město,chirurgie,10426
+638,Brno-město,chirurgie,10427
+639,Brno-město,chirurgie,10428
+640,Brno-město,chirurgie,10429
+641,Brno-město,chirurgie,10430
+642,Brno-město,chirurgie,11435
+643,Brno-město,chirurgie,11565
+644,Brno-město,chirurgie,11566
+645,Brno-město,chirurgie,11567
+646,Brno-město,chirurgie,11615
+647,Brno-město,chirurgie,11795
+648,Brno-město,chirurgie,12235
+649,Brno-město,chirurgie,13771
+650,Brno-město,chirurgie,13772
+651,Brno-město,chirurgie,14090
+652,Brno-město,chirurgie,14577
+653,Brno-město,chirurgie,14930
+654,Brno-město,chirurgie,18752
+655,Brno-město,chirurgie,19600
+656,Brno-město,chirurgie,19807
+657,Brno-město,chirurgie,20747
+658,Brno-město,chirurgie,20853
+659,Brno-město,chirurgie,23973
+660,Brno-město,chirurgie,24672
+661,Brno-město,chirurgie,24703
+662,Brno-město,chirurgie,24872
+663,Brno-město,chirurgie,24953
+664,Brno-město,chirurgie,25748
+665,Brno-město,chirurgie,26675
+666,Brno-město,chirurgie,27403
+667,Brno-město,chirurgie,29257
+668,Brno-město,chirurgie,31659
+669,Brno-město,chirurgie,33514
+670,Brno-město,chirurgie,33524
+671,Brno-město,chirurgie,33864
+672,Brno-město,chirurgie,34012
+673,Brno-město,chirurgie,34181
+674,Brno-město,chirurgie,34183
+675,Brno-město,chirurgie,36377
+676,Brno-město,chirurgie,40904
+677,Brno-město,chirurgie,40909
+678,Brno-město,chirurgie,43385
+679,Brno-město,chirurgie,45375
+680,Brno-město,chirurgie,45497
+681,Brno-město,chirurgie,46839
+682,Brno-město,chirurgie,47065
+683,Brno-město,chirurgie,47066
+684,Brno-město,chirurgie,47067
+685,Brno-město,chirurgie,47068
+686,Brno-město,chirurgie,47254
+687,Brno-město,chirurgie,47255
+688,Brno-město,chirurgie,47256
+689,Brno-město,chirurgie,47257
+690,Brno-město,chirurgie,47700
+691,Brno-město,chirurgie,48457
+692,Brno-město,chirurgie,49222
+693,Brno-město,chirurgie,49372
+694,Brno-město,chirurgie,50619
+695,Brno-město,chirurgie,51935
+696,Brno-město,chirurgie,51944
+697,Brno-město,chirurgie,51970
+698,Brno-město,chirurgie,53059
+699,Brno-město,chirurgie,54770
+700,Brno-město,chirurgie,54771
+701,Brno-město,chirurgie,54772
+702,Brno-město,chirurgie,54773
+703,Brno-město,chirurgie,54774
+704,Brno-město,chirurgie,54775
+705,Brno-město,chirurgie,54792
+706,Brno-město,chirurgie,54793
+707,Brno-město,chirurgie,54794
+708,Brno-město,chirurgie,54795
+709,Brno-město,chirurgie,56255
+710,Brno-město,chirurgie,56799
+711,Brno-město,chirurgie,60080
+712,Brno-město,chirurgie,60081
+713,Brno-město,chirurgie,60082
+714,Brno-město,chirurgie,60111
+715,Brno-město,chirurgie,60115
+716,Brno-město,chirurgie,60122
+717,Brno-město,chirurgie,60474
+718,Brno-město,chirurgie,60519
+719,Brno-město,chirurgie,60531
+720,Brno-město,chirurgie,60550
+721,Brno-město,chirurgie,60577
+722,Brno-město,kardiologie,740
+723,Brno-město,kardiologie,4473
+724,Brno-město,kardiologie,4474
+725,Brno-město,kardiologie,5507
+726,Brno-město,kardiologie,9664
+727,Brno-město,kardiologie,11258
+728,Brno-město,kardiologie,14094
+729,Brno-město,kardiologie,16991
+730,Brno-město,kardiologie,20127
+731,Brno-město,kardiologie,20311
+732,Brno-město,kardiologie,20749
+733,Brno-město,kardiologie,21678
+734,Brno-město,kardiologie,22047
+735,Brno-město,kardiologie,22511
+736,Brno-město,kardiologie,23031
+737,Brno-město,kardiologie,23061
+738,Brno-město,kardiologie,23502
+739,Brno-město,kardiologie,23504
+740,Brno-město,kardiologie,24698
+741,Brno-město,kardiologie,25746
+742,Brno-město,kardiologie,27264
+743,Brno-město,kardiologie,28965
+744,Brno-město,kardiologie,31879
+745,Brno-město,kardiologie,32037
+746,Brno-město,kardiologie,33544
+747,Brno-město,kardiologie,33546
+748,Brno-město,kardiologie,35940
+749,Brno-město,kardiologie,37453
+750,Brno-město,kardiologie,37458
+751,Brno-město,kardiologie,38785
+752,Brno-město,kardiologie,43384
+753,Brno-město,kardiologie,45685
+754,Brno-město,kardiologie,47079
+755,Brno-město,kardiologie,47080
+756,Brno-město,kardiologie,47081
+757,Brno-město,kardiologie,47082
+758,Brno-město,kardiologie,47268
+759,Brno-město,kardiologie,47269
+760,Brno-město,kardiologie,47270
+761,Brno-město,kardiologie,47271
+762,Brno-město,kardiologie,47272
+763,Brno-město,kardiologie,51949
+764,Brno-město,kardiologie,54787
+765,Brno-město,kardiologie,60160
+766,Brno-město,kardiologie,60161
+767,Brno-město,kardiologie,60171
+768,Brno-město,kardiologie,60532
+769,Brno-město,kardiologie,60551
+770,Brno-město,kardiologie,60579
+771,Brno-město,lékařská genetika,7399
+772,Brno-město,lékařská genetika,9988
+773,Brno-město,lékařská genetika,10962
+774,Brno-město,lékařská genetika,27247
+775,Brno-město,lékařská genetika,28327
+776,Brno-město,lékařská genetika,33508
+777,Brno-město,lékařská genetika,40359
+778,Brno-město,lékařská genetika,42330
+779,Brno-město,lékařská genetika,42332
+780,Brno-město,lékařská genetika,45450
+781,Brno-město,lékařská genetika,47098
+782,Brno-město,lékařská genetika,47294
+783,Brno-město,lékařská genetika,57419
+784,Brno-město,lékařská genetika,57456
+785,Brno-město,lékařská genetika,60128
+786,Brno-město,lékařská genetika,60152
+787,Brno-město,nefrologie,20078
+788,Brno-město,nefrologie,23974
+789,Brno-město,nefrologie,24149
+790,Brno-město,nefrologie,28617
+791,Brno-město,nefrologie,36731
+792,Brno-město,nefrologie,45371
+793,Brno-město,nefrologie,45372
+794,Brno-město,nefrologie,47301
+795,Brno-město,nefrologie,47302
+796,Brno-město,nefrologie,47303
+797,Brno-město,nefrologie,47304
+798,Brno-město,nefrologie,47305
+799,Brno-město,nefrologie,51953
+800,Brno-město,nefrologie,60074
+801,Brno-město,nefrologie,60518
+802,Brno-město,nefrologie,60534
+803,Brno-město,nefrologie,60554
+804,Brno-město,nefrologie,60584
+805,Brno-město,neurologie,2230
+806,Brno-město,neurologie,3332
+807,Brno-město,neurologie,6412
+808,Brno-město,neurologie,7397
+809,Brno-město,neurologie,8450
+810,Brno-město,neurologie,10107
+811,Brno-město,neurologie,11792
+812,Brno-město,neurologie,13787
+813,Brno-město,neurologie,14478
+814,Brno-město,neurologie,14772
+815,Brno-město,neurologie,16351
+816,Brno-město,neurologie,17075
+817,Brno-město,neurologie,19226
+818,Brno-město,neurologie,20972
+819,Brno-město,neurologie,21679
+820,Brno-město,neurologie,22772
+821,Brno-město,neurologie,23781
+822,Brno-město,neurologie,23874
+823,Brno-město,neurologie,24270
+824,Brno-město,neurologie,24528
+825,Brno-město,neurologie,24679
+826,Brno-město,neurologie,24684
+827,Brno-město,neurologie,24814
+828,Brno-město,neurologie,24871
+829,Brno-město,neurologie,24902
+830,Brno-město,neurologie,24909
+831,Brno-město,neurologie,25082
+832,Brno-město,neurologie,25102
+833,Brno-město,neurologie,25417
+834,Brno-město,neurologie,25556
+835,Brno-město,neurologie,25645
+836,Brno-město,neurologie,28023
+837,Brno-město,neurologie,28024
+838,Brno-město,neurologie,30233
+839,Brno-město,neurologie,31064
+840,Brno-město,neurologie,33542
+841,Brno-město,neurologie,35346
+842,Brno-město,neurologie,35735
+843,Brno-město,neurologie,35751
+844,Brno-město,neurologie,37449
+845,Brno-město,neurologie,39524
+846,Brno-město,neurologie,40200
+847,Brno-město,neurologie,43363
+848,Brno-město,neurologie,43364
+849,Brno-město,neurologie,43388
+850,Brno-město,neurologie,45361
+851,Brno-město,neurologie,45364
+852,Brno-město,neurologie,47106
+853,Brno-město,neurologie,47107
+854,Brno-město,neurologie,47108
+855,Brno-město,neurologie,47109
+856,Brno-město,neurologie,47313
+857,Brno-město,neurologie,47314
+858,Brno-město,neurologie,47315
+859,Brno-město,neurologie,47316
+860,Brno-město,neurologie,47317
+861,Brno-město,neurologie,47709
+862,Brno-město,neurologie,48500
+863,Brno-město,neurologie,49225
+864,Brno-město,neurologie,51952
+865,Brno-město,neurologie,54705
+866,Brno-město,neurologie,59900
+867,Brno-město,neurologie,60085
+868,Brno-město,neurologie,60130
+869,Brno-město,neurologie,60476
+870,Brno-město,neurologie,60477
+871,Brno-město,neurologie,60478
+872,Brno-město,neurologie,60536
+873,Brno-město,neurologie,60556
+874,Brno-město,neurologie,60586
+875,Brno-město,praktické lékařství pro děti a dorost,781
+876,Brno-město,praktické lékařství pro děti a dorost,938
+877,Brno-město,praktické lékařství pro děti a dorost,1029
+878,Brno-město,praktické lékařství pro děti a dorost,1376
+879,Brno-město,praktické lékařství pro děti a dorost,2835
+880,Brno-město,praktické lékařství pro děti a dorost,5446
+881,Brno-město,praktické lékařství pro děti a dorost,6133
+882,Brno-město,praktické lékařství pro děti a dorost,6134
+883,Brno-město,praktické lékařství pro děti a dorost,6511
+884,Brno-město,praktické lékařství pro děti a dorost,8325
+885,Brno-město,praktické lékařství pro děti a dorost,8647
+886,Brno-město,praktické lékařství pro děti a dorost,8929
+887,Brno-město,praktické lékařství pro děti a dorost,8932
+888,Brno-město,praktické lékařství pro děti a dorost,9415
+889,Brno-město,praktické lékařství pro děti a dorost,9416
+890,Brno-město,praktické lékařství pro děti a dorost,9744
+891,Brno-město,praktické lékařství pro děti a dorost,10642
+892,Brno-město,praktické lékařství pro děti a dorost,11986
+893,Brno-město,praktické lékařství pro děti a dorost,12650
+894,Brno-město,praktické lékařství pro děti a dorost,12831
+895,Brno-město,praktické lékařství pro děti a dorost,13175
+896,Brno-město,praktické lékařství pro děti a dorost,14113
+897,Brno-město,praktické lékařství pro děti a dorost,14982
+898,Brno-město,praktické lékařství pro děti a dorost,16301
+899,Brno-město,praktické lékařství pro děti a dorost,16402
+900,Brno-město,praktické lékařství pro děti a dorost,16700
+901,Brno-město,praktické lékařství pro děti a dorost,19084
+902,Brno-město,praktické lékařství pro děti a dorost,19121
+903,Brno-město,praktické lékařství pro děti a dorost,19835
+904,Brno-město,praktické lékařství pro děti a dorost,20046
+905,Brno-město,praktické lékařství pro děti a dorost,20117
+906,Brno-město,praktické lékařství pro děti a dorost,20974
+907,Brno-město,praktické lékařství pro děti a dorost,21007
+908,Brno-město,praktické lékařství pro děti a dorost,23006
+909,Brno-město,praktické lékařství pro děti a dorost,23025
+910,Brno-město,praktické lékařství pro děti a dorost,23239
+911,Brno-město,praktické lékařství pro děti a dorost,23240
+912,Brno-město,praktické lékařství pro děti a dorost,24285
+913,Brno-město,praktické lékařství pro děti a dorost,24636
+914,Brno-město,praktické lékařství pro děti a dorost,24913
+915,Brno-město,praktické lékařství pro děti a dorost,25173
+916,Brno-město,praktické lékařství pro děti a dorost,25357
+917,Brno-město,praktické lékařství pro děti a dorost,25638
+918,Brno-město,praktické lékařství pro děti a dorost,26399
+919,Brno-město,praktické lékařství pro děti a dorost,28354
+920,Brno-město,praktické lékařství pro děti a dorost,28496
+921,Brno-město,praktické lékařství pro děti a dorost,28717
+922,Brno-město,praktické lékařství pro děti a dorost,28992
+923,Brno-město,praktické lékařství pro děti a dorost,28997
+924,Brno-město,praktické lékařství pro děti a dorost,29850
+925,Brno-město,praktické lékařství pro děti a dorost,30227
+926,Brno-město,praktické lékařství pro děti a dorost,30247
+927,Brno-město,praktické lékařství pro děti a dorost,30297
+928,Brno-město,praktické lékařství pro děti a dorost,30378
+929,Brno-město,praktické lékařství pro děti a dorost,30379
+930,Brno-město,praktické lékařství pro děti a dorost,30381
+931,Brno-město,praktické lékařství pro děti a dorost,30507
+932,Brno-město,praktické lékařství pro děti a dorost,30646
+933,Brno-město,praktické lékařství pro děti a dorost,30918
+934,Brno-město,praktické lékařství pro děti a dorost,32128
+935,Brno-město,praktické lékařství pro děti a dorost,32203
+936,Brno-město,praktické lékařství pro děti a dorost,32223
+937,Brno-město,praktické lékařství pro děti a dorost,33673
+938,Brno-město,praktické lékařství pro děti a dorost,35442
+939,Brno-město,praktické lékařství pro děti a dorost,35444
+940,Brno-město,praktické lékařství pro děti a dorost,36412
+941,Brno-město,praktické lékařství pro děti a dorost,38740
+942,Brno-město,praktické lékařství pro děti a dorost,41639
+943,Brno-město,praktické lékařství pro děti a dorost,42958
+944,Brno-město,praktické lékařství pro děti a dorost,46115
+945,Brno-město,praktické lékařství pro děti a dorost,46618
+946,Brno-město,praktické lékařství pro děti a dorost,46658
+947,Brno-město,praktické lékařství pro děti a dorost,46910
+948,Brno-město,praktické lékařství pro děti a dorost,46911
+949,Brno-město,praktické lékařství pro děti a dorost,47697
+950,Brno-město,praktické lékařství pro děti a dorost,47698
+951,Brno-město,praktické lékařství pro děti a dorost,48469
+952,Brno-město,praktické lékařství pro děti a dorost,49326
+953,Brno-město,praktické lékařství pro děti a dorost,49351
+954,Brno-město,praktické lékařství pro děti a dorost,49353
+955,Brno-město,praktické lékařství pro děti a dorost,49360
+956,Brno-město,praktické lékařství pro děti a dorost,50471
+957,Brno-město,praktické lékařství pro děti a dorost,51918
+958,Brno-město,praktické lékařství pro děti a dorost,51967
+959,Brno-město,praktické lékařství pro děti a dorost,51973
+960,Brno-město,praktické lékařství pro děti a dorost,54704
+961,Brno-město,praktické lékařství pro děti a dorost,55852
+962,Brno-město,praktické lékařství pro děti a dorost,56241
+963,Brno-město,praktické lékařství pro děti a dorost,56247
+964,Brno-město,praktické lékařství pro děti a dorost,57547
+965,Brno-město,praktické lékárenství,62
+966,Brno-město,praktické lékárenství,365
+967,Brno-město,praktické lékárenství,369
+968,Brno-město,praktické lékárenství,372
+969,Brno-město,praktické lékárenství,373
+970,Brno-město,praktické lékárenství,619
+971,Brno-město,praktické lékárenství,919
+972,Brno-město,praktické lékárenství,1144
+973,Brno-město,praktické lékárenství,1624
+974,Brno-město,praktické lékárenství,1669
+975,Brno-město,praktické lékárenství,1799
+976,Brno-město,praktické lékárenství,1802
+977,Brno-město,praktické lékárenství,2570
+978,Brno-město,praktické lékárenství,2598
+979,Brno-město,praktické lékárenství,2695
+980,Brno-město,praktické lékárenství,2949
+981,Brno-město,praktické lékárenství,2953
+982,Brno-město,praktické lékárenství,3278
+983,Brno-město,praktické lékárenství,3414
+984,Brno-město,praktické lékárenství,5128
+985,Brno-město,praktické lékárenství,5707
+986,Brno-město,praktické lékárenství,5782
+987,Brno-město,praktické lékárenství,5783
+988,Brno-město,praktické lékárenství,5784
+989,Brno-město,praktické lékárenství,5785
+990,Brno-město,praktické lékárenství,5786
+991,Brno-město,praktické lékárenství,5787
+992,Brno-město,praktické lékárenství,5788
+993,Brno-město,praktické lékárenství,5804
+994,Brno-město,praktické lékárenství,5820
+995,Brno-město,praktické lékárenství,5832
+996,Brno-město,praktické lékárenství,5836
+997,Brno-město,praktické lékárenství,5953
+998,Brno-město,praktické lékárenství,6172
+999,Brno-město,praktické lékárenství,8887
+1000,Brno-město,praktické lékárenství,8917
+1001,Brno-město,praktické lékárenství,9222
+1002,Brno-město,praktické lékárenství,9650
+1003,Brno-město,praktické lékárenství,10278
+1004,Brno-město,praktické lékárenství,10677
+1005,Brno-město,praktické lékárenství,10693
+1006,Brno-město,praktické lékárenství,11460
+1007,Brno-město,praktické lékárenství,12402
+1008,Brno-město,praktické lékárenství,12645
+1009,Brno-město,praktické lékárenství,12670
+1010,Brno-město,praktické lékárenství,12822
+1011,Brno-město,praktické lékárenství,14456
+1012,Brno-město,praktické lékárenství,14518
+1013,Brno-město,praktické lékárenství,14841
+1014,Brno-město,praktické lékárenství,14847
+1015,Brno-město,praktické lékárenství,14848
+1016,Brno-město,praktické lékárenství,14849
+1017,Brno-město,praktické lékárenství,14850
+1018,Brno-město,praktické lékárenství,14851
+1019,Brno-město,praktické lékárenství,16775
+1020,Brno-město,praktické lékárenství,17225
+1021,Brno-město,praktické lékárenství,18525
+1022,Brno-město,praktické lékárenství,18569
+1023,Brno-město,praktické lékárenství,18571
+1024,Brno-město,praktické lékárenství,18572
+1025,Brno-město,praktické lékárenství,19746
+1026,Brno-město,praktické lékárenství,19823
+1027,Brno-město,praktické lékárenství,20235
+1028,Brno-město,praktické lékárenství,20247
+1029,Brno-město,praktické lékárenství,20870
+1030,Brno-město,praktické lékárenství,20983
+1031,Brno-město,praktické lékárenství,21701
+1032,Brno-město,praktické lékárenství,21714
+1033,Brno-město,praktické lékárenství,21716
+1034,Brno-město,praktické lékárenství,21747
+1035,Brno-město,praktické lékárenství,21761
+1036,Brno-město,praktické lékárenství,21762
+1037,Brno-město,praktické lékárenství,21764
+1038,Brno-město,praktické lékárenství,23000
+1039,Brno-město,praktické lékárenství,24144
+1040,Brno-město,praktické lékárenství,24405
+1041,Brno-město,praktické lékárenství,24469
+1042,Brno-město,praktické lékárenství,24998
+1043,Brno-město,praktické lékárenství,25047
+1044,Brno-město,praktické lékárenství,25086
+1045,Brno-město,praktické lékárenství,25486
+1046,Brno-město,praktické lékárenství,25487
+1047,Brno-město,praktické lékárenství,25490
+1048,Brno-město,praktické lékárenství,25491
+1049,Brno-město,praktické lékárenství,25492
+1050,Brno-město,praktické lékárenství,25493
+1051,Brno-město,praktické lékárenství,25497
+1052,Brno-město,praktické lékárenství,25498
+1053,Brno-město,praktické lékárenství,25501
+1054,Brno-město,praktické lékárenství,25507
+1055,Brno-město,praktické lékárenství,28330
+1056,Brno-město,praktické lékárenství,28476
+1057,Brno-město,praktické lékárenství,28912
+1058,Brno-město,praktické lékárenství,29154
+1059,Brno-město,praktické lékárenství,29173
+1060,Brno-město,praktické lékárenství,29719
+1061,Brno-město,praktické lékárenství,30387
+1062,Brno-město,praktické lékárenství,30728
+1063,Brno-město,praktické lékárenství,31471
+1064,Brno-město,praktické lékárenství,31483
+1065,Brno-město,praktické lékárenství,31489
+1066,Brno-město,praktické lékárenství,32757
+1067,Brno-město,praktické lékárenství,33627
+1068,Brno-město,praktické lékárenství,33723
+1069,Brno-město,praktické lékárenství,33726
+1070,Brno-město,praktické lékárenství,34648
+1071,Brno-město,praktické lékárenství,34709
+1072,Brno-město,praktické lékárenství,35750
+1073,Brno-město,praktické lékárenství,35972
+1074,Brno-město,praktické lékárenství,38758
+1075,Brno-město,praktické lékárenství,39410
+1076,Brno-město,praktické lékárenství,40301
+1077,Brno-město,praktické lékárenství,40570
+1078,Brno-město,praktické lékárenství,40834
+1079,Brno-město,praktické lékárenství,40901
+1080,Brno-město,praktické lékárenství,40960
+1081,Brno-město,praktické lékárenství,41463
+1082,Brno-město,praktické lékárenství,42159
+1083,Brno-město,praktické lékárenství,42190
+1084,Brno-město,praktické lékárenství,42801
+1085,Brno-město,praktické lékárenství,42909
+1086,Brno-město,praktické lékárenství,43327
+1087,Brno-město,praktické lékárenství,43535
+1088,Brno-město,praktické lékárenství,44068
+1089,Brno-město,praktické lékárenství,44553
+1090,Brno-město,praktické lékárenství,44756
+1091,Brno-město,praktické lékárenství,45479
+1092,Brno-město,praktické lékárenství,45483
+1093,Brno-město,praktické lékárenství,46661
+1094,Brno-město,praktické lékárenství,46977
+1095,Brno-město,praktické lékárenství,47179
+1096,Brno-město,praktické lékárenství,47441
+1097,Brno-město,praktické lékárenství,47699
+1098,Brno-město,praktické lékárenství,49220
+1099,Brno-město,praktické lékárenství,49224
+1100,Brno-město,praktické lékárenství,49605
+1101,Brno-město,praktické lékárenství,50027
+1102,Brno-město,praktické lékárenství,50028
+1103,Brno-město,praktické lékárenství,50582
+1104,Brno-město,praktické lékárenství,51312
+1105,Brno-město,praktické lékárenství,51313
+1106,Brno-město,praktické lékárenství,51314
+1107,Brno-město,praktické lékárenství,51983
+1108,Brno-město,praktické lékárenství,54121
+1109,Brno-město,praktické lékárenství,54122
+1110,Brno-město,praktické lékárenství,54768
+1111,Brno-město,praktické lékárenství,55662
+1112,Brno-město,praktické lékárenství,55949
+1113,Brno-město,praktické lékárenství,57396
+1114,Brno-město,praktické lékárenství,57413
+1115,Brno-město,praktické lékárenství,57415
+1116,Brno-město,praktické lékárenství,57448
+1117,Brno-město,praktické lékárenství,57450
+1118,Brno-město,praktické lékárenství,57459
+1119,Brno-město,praktické lékárenství,57467
+1120,Brno-město,praktické lékárenství,57553
+1121,Brno-město,praktické lékárenství,58032
+1122,Brno-město,praktické lékárenství,58035
+1123,Brno-město,praktické lékárenství,58177
+1124,Brno-město,praktické lékárenství,60145
+1125,Brno-město,praktické lékárenství,60469
+1126,Brno-město,praktické lékárenství,60510
+1127,Brno-město,praktické lékárenství,60610
+1128,Brno-město,sexuologie,4713
+1129,Brno-město,sexuologie,8925
+1130,Brno-město,sexuologie,8931
+1131,Brno-město,sexuologie,11216
+1132,Brno-město,sexuologie,11777
+1133,Brno-město,sexuologie,14106
+1134,Brno-město,sexuologie,25104
+1135,Brno-město,sexuologie,29262
+1136,Brno-město,sexuologie,47388
+1137,Brno-město,sexuologie,47389
+1138,Brno-město,sexuologie,49371
+1139,Brno-město,sexuologie,56802
+1140,Brno-město,sexuologie,60093
+1141,Brno-město,sexuologie,60487
+1142,Brno-město,sexuologie,60488
+1143,Brno-město,sexuologie,60498
+1144,Brno-město,všeobecné praktické lékařství,32
+1145,Brno-město,všeobecné praktické lékařství,66
+1146,Brno-město,všeobecné praktické lékařství,371
+1147,Brno-město,všeobecné praktické lékařství,1110
+1148,Brno-město,všeobecné praktické lékařství,1312
+1149,Brno-město,všeobecné praktické lékařství,1313
+1150,Brno-město,všeobecné praktické lékařství,2032
+1151,Brno-město,všeobecné praktické lékařství,2289
+1152,Brno-město,všeobecné praktické lékařství,2297
+1153,Brno-město,všeobecné praktické lékařství,3270
+1154,Brno-město,všeobecné praktické lékařství,4712
+1155,Brno-město,všeobecné praktické lékařství,4731
+1156,Brno-město,všeobecné praktické lékařství,4962
+1157,Brno-město,všeobecné praktické lékařství,4963
+1158,Brno-město,všeobecné praktické lékařství,5163
+1159,Brno-město,všeobecné praktické lékařství,5578
+1160,Brno-město,všeobecné praktické lékařství,5579
+1161,Brno-město,všeobecné praktické lékařství,5632
+1162,Brno-město,všeobecné praktické lékařství,5633
+1163,Brno-město,všeobecné praktické lékařství,5635
+1164,Brno-město,všeobecné praktické lékařství,5636
+1165,Brno-město,všeobecné praktické lékařství,5676
+1166,Brno-město,všeobecné praktické lékařství,5677
+1167,Brno-město,všeobecné praktické lékařství,6154
+1168,Brno-město,všeobecné praktické lékařství,6155
+1169,Brno-město,všeobecné praktické lékařství,6354
+1170,Brno-město,všeobecné praktické lékařství,6407
+1171,Brno-město,všeobecné praktické lékařství,6408
+1172,Brno-město,všeobecné praktické lékařství,6731
+1173,Brno-město,všeobecné praktické lékařství,6777
+1174,Brno-město,všeobecné praktické lékařství,6778
+1175,Brno-město,všeobecné praktické lékařství,7075
+1176,Brno-město,všeobecné praktické lékařství,7135
+1177,Brno-město,všeobecné praktické lékařství,7136
+1178,Brno-město,všeobecné praktické lékařství,7365
+1179,Brno-město,všeobecné praktické lékařství,7404
+1180,Brno-město,všeobecné praktické lékařství,7561
+1181,Brno-město,všeobecné praktické lékařství,7562
+1182,Brno-město,všeobecné praktické lékařství,7954
+1183,Brno-město,všeobecné praktické lékařství,7955
+1184,Brno-město,všeobecné praktické lékařství,8025
+1185,Brno-město,všeobecné praktické lékařství,8630
+1186,Brno-město,všeobecné praktické lékařství,8631
+1187,Brno-město,všeobecné praktické lékařství,8660
+1188,Brno-město,všeobecné praktické lékařství,8933
+1189,Brno-město,všeobecné praktické lékařství,8934
+1190,Brno-město,všeobecné praktické lékařství,9413
+1191,Brno-město,všeobecné praktické lékařství,9414
+1192,Brno-město,všeobecné praktické lékařství,9558
+1193,Brno-město,všeobecné praktické lékařství,9668
+1194,Brno-město,všeobecné praktické lékařství,9669
+1195,Brno-město,všeobecné praktické lékařství,9712
+1196,Brno-město,všeobecné praktické lékařství,9741
+1197,Brno-město,všeobecné praktické lékařství,9742
+1198,Brno-město,všeobecné praktické lékařství,10117
+1199,Brno-město,všeobecné praktické lékařství,10123
+1200,Brno-město,všeobecné praktické lékařství,10522
+1201,Brno-město,všeobecné praktické lékařství,10523
+1202,Brno-město,všeobecné praktické lékařství,10565
+1203,Brno-město,všeobecné praktické lékařství,10603
+1204,Brno-město,všeobecné praktické lékařství,10604
+1205,Brno-město,všeobecné praktické lékařství,10967
+1206,Brno-město,všeobecné praktické lékařství,11144
+1207,Brno-město,všeobecné praktické lékařství,11145
+1208,Brno-město,všeobecné praktické lékařství,11191
+1209,Brno-město,všeobecné praktické lékařství,11257
+1210,Brno-město,všeobecné praktické lékařství,11384
+1211,Brno-město,všeobecné praktické lékařství,11455
+1212,Brno-město,všeobecné praktické lékařství,11617
+1213,Brno-město,všeobecné praktické lékařství,11787
+1214,Brno-město,všeobecné praktické lékařství,11788
+1215,Brno-město,všeobecné praktické lékařství,12270
+1216,Brno-město,všeobecné praktické lékařství,12271
+1217,Brno-město,všeobecné praktické lékařství,12550
+1218,Brno-město,všeobecné praktické lékařství,12551
+1219,Brno-město,všeobecné praktické lékařství,12860
+1220,Brno-město,všeobecné praktické lékařství,12861
+1221,Brno-město,všeobecné praktické lékařství,12899
+1222,Brno-město,všeobecné praktické lékařství,12900
+1223,Brno-město,všeobecné praktické lékařství,13041
+1224,Brno-město,všeobecné praktické lékařství,13044
+1225,Brno-město,všeobecné praktické lékařství,13168
+1226,Brno-město,všeobecné praktické lékařství,13413
+1227,Brno-město,všeobecné praktické lékařství,13414
+1228,Brno-město,všeobecné praktické lékařství,13484
+1229,Brno-město,všeobecné praktické lékařství,13761
+1230,Brno-město,všeobecné praktické lékařství,13762
+1231,Brno-město,všeobecné praktické lékařství,14254
+1232,Brno-město,všeobecné praktické lékařství,14255
+1233,Brno-město,všeobecné praktické lékařství,14566
+1234,Brno-město,všeobecné praktické lékařství,14567
+1235,Brno-město,všeobecné praktické lékařství,14594
+1236,Brno-město,všeobecné praktické lékařství,14595
+1237,Brno-město,všeobecné praktické lékařství,14648
+1238,Brno-město,všeobecné praktické lékařství,14649
+1239,Brno-město,všeobecné praktické lékařství,14894
+1240,Brno-město,všeobecné praktické lékařství,14957
+1241,Brno-město,všeobecné praktické lékařství,14958
+1242,Brno-město,všeobecné praktické lékařství,14967
+1243,Brno-město,všeobecné praktické lékařství,14968
+1244,Brno-město,všeobecné praktické lékařství,14976
+1245,Brno-město,všeobecné praktické lékařství,14977
+1246,Brno-město,všeobecné praktické lékařství,14978
+1247,Brno-město,všeobecné praktické lékařství,14979
+1248,Brno-město,všeobecné praktické lékařství,14980
+1249,Brno-město,všeobecné praktické lékařství,14981
+1250,Brno-město,všeobecné praktické lékařství,15048
+1251,Brno-město,všeobecné praktické lékařství,15049
+1252,Brno-město,všeobecné praktické lékařství,16205
+1253,Brno-město,všeobecné praktické lékařství,16442
+1254,Brno-město,všeobecné praktické lékařství,16626
+1255,Brno-město,všeobecné praktické lékařství,16627
+1256,Brno-město,všeobecné praktické lékařství,16718
+1257,Brno-město,všeobecné praktické lékařství,16924
+1258,Brno-město,všeobecné praktické lékařství,16925
+1259,Brno-město,všeobecné praktické lékařství,16926
+1260,Brno-město,všeobecné praktické lékařství,18530
+1261,Brno-město,všeobecné praktické lékařství,18531
+1262,Brno-město,všeobecné praktické lékařství,19082
+1263,Brno-město,všeobecné praktické lékařství,19083
+1264,Brno-město,všeobecné praktické lékařství,19305
+1265,Brno-město,všeobecné praktické lékařství,20048
+1266,Brno-město,všeobecné praktické lékařství,20049
+1267,Brno-město,všeobecné praktické lékařství,20109
+1268,Brno-město,všeobecné praktické lékařství,20111
+1269,Brno-město,všeobecné praktické lékařství,20112
+1270,Brno-město,všeobecné praktické lékařství,20115
+1271,Brno-město,všeobecné praktické lékařství,20317
+1272,Brno-město,všeobecné praktické lékařství,20318
+1273,Brno-město,všeobecné praktické lékařství,20735
+1274,Brno-město,všeobecné praktické lékařství,20979
+1275,Brno-město,všeobecné praktické lékařství,22490
+1276,Brno-město,všeobecné praktické lékařství,22491
+1277,Brno-město,všeobecné praktické lékařství,23029
+1278,Brno-město,všeobecné praktické lékařství,23030
+1279,Brno-město,všeobecné praktické lékařství,23052
+1280,Brno-město,všeobecné praktické lékařství,23264
+1281,Brno-město,všeobecné praktické lékařství,23265
+1282,Brno-město,všeobecné praktické lékařství,23398
+1283,Brno-město,všeobecné praktické lékařství,23403
+1284,Brno-město,všeobecné praktické lékařství,23840
+1285,Brno-město,všeobecné praktické lékařství,23844
+1286,Brno-město,všeobecné praktické lékařství,23849
+1287,Brno-město,všeobecné praktické lékařství,23850
+1288,Brno-město,všeobecné praktické lékařství,23984
+1289,Brno-město,všeobecné praktické lékařství,24104
+1290,Brno-město,všeobecné praktické lékařství,24275
+1291,Brno-město,všeobecné praktické lékařství,24276
+1292,Brno-město,všeobecné praktické lékařství,24683
+1293,Brno-město,všeobecné praktické lékařství,24700
+1294,Brno-město,všeobecné praktické lékařství,25116
+1295,Brno-město,všeobecné praktické lékařství,25117
+1296,Brno-město,všeobecné praktické lékařství,25151
+1297,Brno-město,všeobecné praktické lékařství,25158
+1298,Brno-město,všeobecné praktické lékařství,25159
+1299,Brno-město,všeobecné praktické lékařství,25255
+1300,Brno-město,všeobecné praktické lékařství,25256
+1301,Brno-město,všeobecné praktické lékařství,25403
+1302,Brno-město,všeobecné praktické lékařství,25409
+1303,Brno-město,všeobecné praktické lékařství,25424
+1304,Brno-město,všeobecné praktické lékařství,25613
+1305,Brno-město,všeobecné praktické lékařství,25635
+1306,Brno-město,všeobecné praktické lékařství,25636
+1307,Brno-město,všeobecné praktické lékařství,25637
+1308,Brno-město,všeobecné praktické lékařství,27437
+1309,Brno-město,všeobecné praktické lékařství,27682
+1310,Brno-město,všeobecné praktické lékařství,27948
+1311,Brno-město,všeobecné praktické lékařství,28494
+1312,Brno-město,všeobecné praktické lékařství,28495
+1313,Brno-město,všeobecné praktické lékařství,29042
+1314,Brno-město,všeobecné praktické lékařství,29057
+1315,Brno-město,všeobecné praktické lékařství,29061
+1316,Brno-město,všeobecné praktické lékařství,29064
+1317,Brno-město,všeobecné praktické lékařství,29066
+1318,Brno-město,všeobecné praktické lékařství,29073
+1319,Brno-město,všeobecné praktické lékařství,29849
+1320,Brno-město,všeobecné praktické lékařství,29968
+1321,Brno-město,všeobecné praktické lékařství,30134
+1322,Brno-město,všeobecné praktické lékařství,30192
+1323,Brno-město,všeobecné praktické lékařství,30236
+1324,Brno-město,všeobecné praktické lékařství,30336
+1325,Brno-město,všeobecné praktické lékařství,30654
+1326,Brno-město,všeobecné praktické lékařství,31005
+1327,Brno-město,všeobecné praktické lékařství,31233
+1328,Brno-město,všeobecné praktické lékařství,32040
+1329,Brno-město,všeobecné praktické lékařství,32041
+1330,Brno-město,všeobecné praktické lékařství,32065
+1331,Brno-město,všeobecné praktické lékařství,32078
+1332,Brno-město,všeobecné praktické lékařství,32079
+1333,Brno-město,všeobecné praktické lékařství,32084
+1334,Brno-město,všeobecné praktické lékařství,32112
+1335,Brno-město,všeobecné praktické lékařství,32113
+1336,Brno-město,všeobecné praktické lékařství,32126
+1337,Brno-město,všeobecné praktické lékařství,32127
+1338,Brno-město,všeobecné praktické lékařství,32140
+1339,Brno-město,všeobecné praktické lékařství,32192
+1340,Brno-město,všeobecné praktické lékařství,32201
+1341,Brno-město,všeobecné praktické lékařství,32205
+1342,Brno-město,všeobecné praktické lékařství,32224
+1343,Brno-město,všeobecné praktické lékařství,32228
+1344,Brno-město,všeobecné praktické lékařství,32229
+1345,Brno-město,všeobecné praktické lékařství,32230
+1346,Brno-město,všeobecné praktické lékařství,32702
+1347,Brno-město,všeobecné praktické lékařství,32804
+1348,Brno-město,všeobecné praktické lékařství,32805
+1349,Brno-město,všeobecné praktické lékařství,33397
+1350,Brno-město,všeobecné praktické lékařství,33578
+1351,Brno-město,všeobecné praktické lékařství,33579
+1352,Brno-město,všeobecné praktické lékařství,33623
+1353,Brno-město,všeobecné praktické lékařství,33624
+1354,Brno-město,všeobecné praktické lékařství,33824
+1355,Brno-město,všeobecné praktické lékařství,33825
+1356,Brno-město,všeobecné praktické lékařství,34235
+1357,Brno-město,všeobecné praktické lékařství,35898
+1358,Brno-město,všeobecné praktické lékařství,35901
+1359,Brno-město,všeobecné praktické lékařství,35938
+1360,Brno-město,všeobecné praktické lékařství,37136
+1361,Brno-město,všeobecné praktické lékařství,37171
+1362,Brno-město,všeobecné praktické lékařství,37445
+1363,Brno-město,všeobecné praktické lékařství,40201
+1364,Brno-město,všeobecné praktické lékařství,40859
+1365,Brno-město,všeobecné praktické lékařství,41601
+1366,Brno-město,všeobecné praktické lékařství,42373
+1367,Brno-město,všeobecné praktické lékařství,43112
+1368,Brno-město,všeobecné praktické lékařství,43381
+1369,Brno-město,všeobecné praktické lékařství,43382
+1370,Brno-město,všeobecné praktické lékařství,43390
+1371,Brno-město,všeobecné praktické lékařství,45013
+1372,Brno-město,všeobecné praktické lékařství,45015
+1373,Brno-město,všeobecné praktické lékařství,45885
+1374,Brno-město,všeobecné praktické lékařství,45889
+1375,Brno-město,všeobecné praktické lékařství,46086
+1376,Brno-město,všeobecné praktické lékařství,46615
+1377,Brno-město,všeobecné praktické lékařství,46616
+1378,Brno-město,všeobecné praktické lékařství,46633
+1379,Brno-město,všeobecné praktické lékařství,46848
+1380,Brno-město,všeobecné praktické lékařství,46912
+1381,Brno-město,všeobecné praktické lékařství,46913
+1382,Brno-město,všeobecné praktické lékařství,46917
+1383,Brno-město,všeobecné praktické lékařství,46923
+1384,Brno-město,všeobecné praktické lékařství,46937
+1385,Brno-město,všeobecné praktické lékařství,47162
+1386,Brno-město,všeobecné praktické lékařství,47414
+1387,Brno-město,všeobecné praktické lékařství,47415
+1388,Brno-město,všeobecné praktické lékařství,47451
+1389,Brno-město,všeobecné praktické lékařství,47452
+1390,Brno-město,všeobecné praktické lékařství,47453
+1391,Brno-město,všeobecné praktické lékařství,47702
+1392,Brno-město,všeobecné praktické lékařství,47706
+1393,Brno-město,všeobecné praktické lékařství,47707
+1394,Brno-město,všeobecné praktické lékařství,47713
+1395,Brno-město,všeobecné praktické lékařství,47718
+1396,Brno-město,všeobecné praktické lékařství,48451
+1397,Brno-město,všeobecné praktické lékařství,48452
+1398,Brno-město,všeobecné praktické lékařství,48453
+1399,Brno-město,všeobecné praktické lékařství,48466
+1400,Brno-město,všeobecné praktické lékařství,48470
+1401,Brno-město,všeobecné praktické lékařství,48471
+1402,Brno-město,všeobecné praktické lékařství,49277
+1403,Brno-město,všeobecné praktické lékařství,49316
+1404,Brno-město,všeobecné praktické lékařství,49318
+1405,Brno-město,všeobecné praktické lékařství,49319
+1406,Brno-město,všeobecné praktické lékařství,49322
+1407,Brno-město,všeobecné praktické lékařství,49327
+1408,Brno-město,všeobecné praktické lékařství,49338
+1409,Brno-město,všeobecné praktické lékařství,49347
+1410,Brno-město,všeobecné praktické lékařství,49348
+1411,Brno-město,všeobecné praktické lékařství,49350
+1412,Brno-město,všeobecné praktické lékařství,49352
+1413,Brno-město,všeobecné praktické lékařství,49364
+1414,Brno-město,všeobecné praktické lékařství,49604
+1415,Brno-město,všeobecné praktické lékařství,50596
+1416,Brno-město,všeobecné praktické lékařství,50597
+1417,Brno-město,všeobecné praktické lékařství,50600
+1418,Brno-město,všeobecné praktické lékařství,50612
+1419,Brno-město,všeobecné praktické lékařství,50621
+1420,Brno-město,všeobecné praktické lékařství,50647
+1421,Brno-město,všeobecné praktické lékařství,51908
+1422,Brno-město,všeobecné praktické lékařství,51909
+1423,Brno-město,všeobecné praktické lékařství,51917
+1424,Brno-město,všeobecné praktické lékařství,51926
+1425,Brno-město,všeobecné praktické lékařství,51937
+1426,Brno-město,všeobecné praktické lékařství,51972
+1427,Brno-město,všeobecné praktické lékařství,51976
+1428,Brno-město,všeobecné praktické lékařství,51982
+1429,Brno-město,všeobecné praktické lékařství,52031
+1430,Brno-město,všeobecné praktické lékařství,54131
+1431,Brno-město,všeobecné praktické lékařství,54132
+1432,Brno-město,všeobecné praktické lékařství,54767
+1433,Brno-město,všeobecné praktické lékařství,54823
+1434,Brno-město,všeobecné praktické lékařství,54850
+1435,Brno-město,všeobecné praktické lékařství,56238
+1436,Brno-město,všeobecné praktické lékařství,56240
+1437,Brno-město,všeobecné praktické lékařství,56245
+1438,Brno-město,všeobecné praktické lékařství,56246
+1439,Brno-město,všeobecné praktické lékařství,56253
+1440,Brno-město,všeobecné praktické lékařství,56268
+1441,Brno-město,všeobecné praktické lékařství,56800
+1442,Brno-město,všeobecné praktické lékařství,57546
+1443,Brno-město,všeobecné praktické lékařství,60098
+1444,Brno-město,všeobecné praktické lékařství,60491
+1445,Brno-město,všeobecné praktické lékařství,60506
+1446,Brno-město,zubní lékařství,68
+1447,Brno-město,zubní lékařství,193
+1448,Brno-město,zubní lékařství,309
+1449,Brno-město,zubní lékařství,358
+1450,Brno-město,zubní lékařství,368
+1451,Brno-město,zubní lékařství,660
+1452,Brno-město,zubní lékařství,931
+1453,Brno-město,zubní lékařství,1028
+1454,Brno-město,zubní lékařství,1280
+1455,Brno-město,zubní lékařství,1423
+1456,Brno-město,zubní lékařství,1455
+1457,Brno-město,zubní lékařství,2382
+1458,Brno-město,zubní lékařství,2950
+1459,Brno-město,zubní lékařství,2994
+1460,Brno-město,zubní lékařství,2995
+1461,Brno-město,zubní lékařství,3628
+1462,Brno-město,zubní lékařství,4268
+1463,Brno-město,zubní lékařství,4654
+1464,Brno-město,zubní lékařství,4704
+1465,Brno-město,zubní lékařství,5598
+1466,Brno-město,zubní lékařství,6068
+1467,Brno-město,zubní lékařství,6503
+1468,Brno-město,zubní lékařství,6652
+1469,Brno-město,zubní lékařství,6676
+1470,Brno-město,zubní lékařství,6735
+1471,Brno-město,zubní lékařství,6776
+1472,Brno-město,zubní lékařství,6780
+1473,Brno-město,zubní lékařství,7029
+1474,Brno-město,zubní lékařství,7200
+1475,Brno-město,zubní lékařství,7201
+1476,Brno-město,zubní lékařství,7203
+1477,Brno-město,zubní lékařství,7235
+1478,Brno-město,zubní lékařství,8550
+1479,Brno-město,zubní lékařství,8877
+1480,Brno-město,zubní lékařství,8886
+1481,Brno-město,zubní lékařství,9104
+1482,Brno-město,zubní lékařství,9223
+1483,Brno-město,zubní lékařství,9548
+1484,Brno-město,zubní lékařství,9574
+1485,Brno-město,zubní lékařství,9587
+1486,Brno-město,zubní lékařství,9888
+1487,Brno-město,zubní lékařství,9986
+1488,Brno-město,zubní lékařství,10113
+1489,Brno-město,zubní lékařství,10180
+1490,Brno-město,zubní lékařství,10458
+1491,Brno-město,zubní lékařství,10459
+1492,Brno-město,zubní lékařství,10581
+1493,Brno-město,zubní lékařství,10602
+1494,Brno-město,zubní lékařství,10607
+1495,Brno-město,zubní lékařství,10826
+1496,Brno-město,zubní lékařství,11225
+1497,Brno-město,zubní lékařství,11261
+1498,Brno-město,zubní lékařství,11700
+1499,Brno-město,zubní lékařství,11741
+1500,Brno-město,zubní lékařství,11836
+1501,Brno-město,zubní lékařství,11916
+1502,Brno-město,zubní lékařství,11918
+1503,Brno-město,zubní lékařství,12648
+1504,Brno-město,zubní lékařství,12835
+1505,Brno-město,zubní lékařství,13212
+1506,Brno-město,zubní lékařství,13601
+1507,Brno-město,zubní lékařství,13764
+1508,Brno-město,zubní lékařství,13770
+1509,Brno-město,zubní lékařství,14118
+1510,Brno-město,zubní lékařství,14224
+1511,Brno-město,zubní lékařství,14228
+1512,Brno-město,zubní lékařství,14244
+1513,Brno-město,zubní lékařství,14249
+1514,Brno-město,zubní lékařství,14451
+1515,Brno-město,zubní lékařství,14503
+1516,Brno-město,zubní lékařství,14504
+1517,Brno-město,zubní lékařství,14579
+1518,Brno-město,zubní lékařství,14587
+1519,Brno-město,zubní lékařství,14590
+1520,Brno-město,zubní lékařství,14602
+1521,Brno-město,zubní lékařství,14604
+1522,Brno-město,zubní lékařství,14876
+1523,Brno-město,zubní lékařství,14927
+1524,Brno-město,zubní lékařství,14934
+1525,Brno-město,zubní lékařství,14939
+1526,Brno-město,zubní lékařství,14946
+1527,Brno-město,zubní lékařství,14954
+1528,Brno-město,zubní lékařství,15000
+1529,Brno-město,zubní lékařství,15035
+1530,Brno-město,zubní lékařství,15045
+1531,Brno-město,zubní lékařství,15047
+1532,Brno-město,zubní lékařství,15073
+1533,Brno-město,zubní lékařství,15074
+1534,Brno-město,zubní lékařství,16149
+1535,Brno-město,zubní lékařství,16150
+1536,Brno-město,zubní lékařství,16195
+1537,Brno-město,zubní lékařství,16200
+1538,Brno-město,zubní lékařství,16206
+1539,Brno-město,zubní lékařství,16283
+1540,Brno-město,zubní lékařství,16297
+1541,Brno-město,zubní lékařství,16514
+1542,Brno-město,zubní lékařství,16737
+1543,Brno-město,zubní lékařství,16910
+1544,Brno-město,zubní lékařství,16911
+1545,Brno-město,zubní lékařství,17223
+1546,Brno-město,zubní lékařství,18490
+1547,Brno-město,zubní lékařství,18491
+1548,Brno-město,zubní lékařství,18502
+1549,Brno-město,zubní lékařství,18517
+1550,Brno-město,zubní lékařství,18568
+1551,Brno-město,zubní lékařství,18586
+1552,Brno-město,zubní lékařství,19120
+1553,Brno-město,zubní lékařství,19241
+1554,Brno-město,zubní lékařství,19564
+1555,Brno-město,zubní lékařství,19797
+1556,Brno-město,zubní lékařství,19816
+1557,Brno-město,zubní lékařství,19830
+1558,Brno-město,zubní lékařství,19900
+1559,Brno-město,zubní lékařství,20044
+1560,Brno-město,zubní lékařství,20047
+1561,Brno-město,zubní lékařství,20051
+1562,Brno-město,zubní lékařství,20082
+1563,Brno-město,zubní lékařství,20083
+1564,Brno-město,zubní lékařství,20084
+1565,Brno-město,zubní lékařství,20104
+1566,Brno-město,zubní lékařství,20302
+1567,Brno-město,zubní lékařství,20880
+1568,Brno-město,zubní lékařství,20881
+1569,Brno-město,zubní lékařství,20927
+1570,Brno-město,zubní lékařství,20965
+1571,Brno-město,zubní lékařství,20973
+1572,Brno-město,zubní lékařství,20977
+1573,Brno-město,zubní lékařství,20988
+1574,Brno-město,zubní lékařství,20990
+1575,Brno-město,zubní lékařství,20993
+1576,Brno-město,zubní lékařství,21008
+1577,Brno-město,zubní lékařství,21185
+1578,Brno-město,zubní lékařství,22111
+1579,Brno-město,zubní lékařství,22527
+1580,Brno-město,zubní lékařství,22759
+1581,Brno-město,zubní lékařství,23230
+1582,Brno-město,zubní lékařství,23404
+1583,Brno-město,zubní lékařství,23407
+1584,Brno-město,zubní lékařství,23814
+1585,Brno-město,zubní lékařství,23824
+1586,Brno-město,zubní lékařství,23829
+1587,Brno-město,zubní lékařství,23853
+1588,Brno-město,zubní lékařství,23856
+1589,Brno-město,zubní lékařství,23876
+1590,Brno-město,zubní lékařství,24668
+1591,Brno-město,zubní lékařství,24738
+1592,Brno-město,zubní lékařství,24745
+1593,Brno-město,zubní lékařství,24801
+1594,Brno-město,zubní lékařství,24810
+1595,Brno-město,zubní lékařství,24812
+1596,Brno-město,zubní lékařství,24819
+1597,Brno-město,zubní lékařství,24855
+1598,Brno-město,zubní lékařství,24859
+1599,Brno-město,zubní lékařství,24883
+1600,Brno-město,zubní lékařství,24890
+1601,Brno-město,zubní lékařství,24904
+1602,Brno-město,zubní lékařství,24905
+1603,Brno-město,zubní lékařství,24997
+1604,Brno-město,zubní lékařství,25118
+1605,Brno-město,zubní lékařství,25265
+1606,Brno-město,zubní lékařství,25267
+1607,Brno-město,zubní lékařství,25505
+1608,Brno-město,zubní lékařství,25739
+1609,Brno-město,zubní lékařství,25973
+1610,Brno-město,zubní lékařství,26504
+1611,Brno-město,zubní lékařství,26519
+1612,Brno-město,zubní lékařství,26520
+1613,Brno-město,zubní lékařství,26527
+1614,Brno-město,zubní lékařství,26528
+1615,Brno-město,zubní lékařství,26539
+1616,Brno-město,zubní lékařství,26540
+1617,Brno-město,zubní lékařství,26558
+1618,Brno-město,zubní lékařství,27608
+1619,Brno-město,zubní lékařství,27689
+1620,Brno-město,zubní lékařství,27877
+1621,Brno-město,zubní lékařství,27888
+1622,Brno-město,zubní lékařství,28336
+1623,Brno-město,zubní lékařství,28372
+1624,Brno-město,zubní lékařství,28793
+1625,Brno-město,zubní lékařství,28971
+1626,Brno-město,zubní lékařství,29026
+1627,Brno-město,zubní lékařství,29058
+1628,Brno-město,zubní lékařství,29059
+1629,Brno-město,zubní lékařství,29190
+1630,Brno-město,zubní lékařství,29193
+1631,Brno-město,zubní lékařství,29264
+1632,Brno-město,zubní lékařství,29277
+1633,Brno-město,zubní lékařství,29325
+1634,Brno-město,zubní lékařství,29565
+1635,Brno-město,zubní lékařství,29589
+1636,Brno-město,zubní lékařství,30196
+1637,Brno-město,zubní lékařství,30206
+1638,Brno-město,zubní lékařství,30208
+1639,Brno-město,zubní lékařství,30896
+1640,Brno-město,zubní lékařství,30945
+1641,Brno-město,zubní lékařství,31714
+1642,Brno-město,zubní lékařství,31882
+1643,Brno-město,zubní lékařství,32064
+1644,Brno-město,zubní lékařství,32074
+1645,Brno-město,zubní lékařství,32082
+1646,Brno-město,zubní lékařství,32132
+1647,Brno-město,zubní lékařství,32159
+1648,Brno-město,zubní lékařství,32160
+1649,Brno-město,zubní lékařství,32162
+1650,Brno-město,zubní lékařství,32166
+1651,Brno-město,zubní lékařství,32181
+1652,Brno-město,zubní lékařství,32182
+1653,Brno-město,zubní lékařství,32204
+1654,Brno-město,zubní lékařství,32226
+1655,Brno-město,zubní lékařství,32554
+1656,Brno-město,zubní lékařství,32989
+1657,Brno-město,zubní lékařství,33254
+1658,Brno-město,zubní lékařství,33628
+1659,Brno-město,zubní lékařství,33858
+1660,Brno-město,zubní lékařství,33862
+1661,Brno-město,zubní lékařství,34182
+1662,Brno-město,zubní lékařství,34263
+1663,Brno-město,zubní lékařství,34596
+1664,Brno-město,zubní lékařství,34713
+1665,Brno-město,zubní lékařství,34778
+1666,Brno-město,zubní lékařství,35081
+1667,Brno-město,zubní lékařství,35086
+1668,Brno-město,zubní lékařství,35533
+1669,Brno-město,zubní lékařství,35737
+1670,Brno-město,zubní lékařství,35752
+1671,Brno-město,zubní lékařství,35776
+1672,Brno-město,zubní lékařství,35827
+1673,Brno-město,zubní lékařství,35909
+1674,Brno-město,zubní lékařství,36382
+1675,Brno-město,zubní lékařství,37447
+1676,Brno-město,zubní lékařství,37613
+1677,Brno-město,zubní lékařství,38116
+1678,Brno-město,zubní lékařství,38739
+1679,Brno-město,zubní lékařství,39674
+1680,Brno-město,zubní lékařství,40586
+1681,Brno-město,zubní lékařství,40969
+1682,Brno-město,zubní lékařství,41612
+1683,Brno-město,zubní lékařství,41636
+1684,Brno-město,zubní lékařství,42174
+1685,Brno-město,zubní lékařství,42195
+1686,Brno-město,zubní lékařství,42346
+1687,Brno-město,zubní lékařství,43109
+1688,Brno-město,zubní lékařství,43328
+1689,Brno-město,zubní lékařství,43525
+1690,Brno-město,zubní lékařství,43526
+1691,Brno-město,zubní lékařství,43539
+1692,Brno-město,zubní lékařství,43544
+1693,Brno-město,zubní lékařství,44379
+1694,Brno-město,zubní lékařství,44758
+1695,Brno-město,zubní lékařství,44920
+1696,Brno-město,zubní lékařství,44921
+1697,Brno-město,zubní lékařství,45425
+1698,Brno-město,zubní lékařství,45775
+1699,Brno-město,zubní lékařství,45809
+1700,Brno-město,zubní lékařství,45955
+1701,Brno-město,zubní lékařství,45961
+1702,Brno-město,zubní lékařství,45980
+1703,Brno-město,zubní lékařství,46027
+1704,Brno-město,zubní lékařství,46372
+1705,Brno-město,zubní lékařství,46389
+1706,Brno-město,zubní lékařství,46499
+1707,Brno-město,zubní lékařství,46838
+1708,Brno-město,zubní lékařství,46919
+1709,Brno-město,zubní lékařství,47703
+1710,Brno-město,zubní lékařství,47708
+1711,Brno-město,zubní lékařství,47714
+1712,Brno-město,zubní lékařství,47949
+1713,Brno-město,zubní lékařství,48442
+1714,Brno-město,zubní lékařství,48448
+1715,Brno-město,zubní lékařství,48449
+1716,Brno-město,zubní lékařství,48458
+1717,Brno-město,zubní lékařství,49227
+1718,Brno-město,zubní lékařství,49275
+1719,Brno-město,zubní lékařství,49279
+1720,Brno-město,zubní lékařství,49281
+1721,Brno-město,zubní lékařství,49311
+1722,Brno-město,zubní lékařství,49321
+1723,Brno-město,zubní lékařství,49329
+1724,Brno-město,zubní lékařství,49333
+1725,Brno-město,zubní lékařství,49334
+1726,Brno-město,zubní lékařství,49343
+1727,Brno-město,zubní lékařství,49358
+1728,Brno-město,zubní lékařství,49362
+1729,Brno-město,zubní lékařství,49363
+1730,Brno-město,zubní lékařství,49365
+1731,Brno-město,zubní lékařství,49373
+1732,Brno-město,zubní lékařství,49375
+1733,Brno-město,zubní lékařství,50583
+1734,Brno-město,zubní lékařství,50594
+1735,Brno-město,zubní lékařství,50601
+1736,Brno-město,zubní lékařství,50608
+1737,Brno-město,zubní lékařství,50614
+1738,Brno-město,zubní lékařství,50616
+1739,Brno-město,zubní lékařství,50620
+1740,Brno-město,zubní lékařství,50690
+1741,Brno-město,zubní lékařství,50692
+1742,Brno-město,zubní lékařství,50697
+1743,Brno-město,zubní lékařství,51099
+1744,Brno-město,zubní lékařství,51903
+1745,Brno-město,zubní lékařství,51904
+1746,Brno-město,zubní lékařství,51905
+1747,Brno-město,zubní lékařství,51906
+1748,Brno-město,zubní lékařství,51907
+1749,Brno-město,zubní lékařství,51911
+1750,Brno-město,zubní lékařství,51912
+1751,Brno-město,zubní lékařství,51914
+1752,Brno-město,zubní lékařství,51915
+1753,Brno-město,zubní lékařství,51916
+1754,Brno-město,zubní lékařství,51921
+1755,Brno-město,zubní lékařství,51922
+1756,Brno-město,zubní lékařství,51923
+1757,Brno-město,zubní lékařství,51927
+1758,Brno-město,zubní lékařství,51928
+1759,Brno-město,zubní lékařství,51969
+1760,Brno-město,zubní lékařství,51971
+1761,Brno-město,zubní lékařství,51974
+1762,Brno-město,zubní lékařství,51975
+1763,Brno-město,zubní lékařství,52128
+1764,Brno-město,zubní lékařství,52135
+1765,Brno-město,zubní lékařství,52856
+1766,Brno-město,zubní lékařství,53074
+1767,Brno-město,zubní lékařství,54738
+1768,Brno-město,zubní lékařství,55853
+1769,Brno-město,zubní lékařství,56242
+1770,Brno-město,zubní lékařství,56249
+1771,Brno-město,zubní lékařství,56254
+1772,Brno-město,zubní lékařství,58017
+1773,Brno-město,zubní lékařství,58183
+1774,Brno-město,zubní lékařství,58186
+1775,Brno-město,zubní lékařství,60109
+1776,Brno-město,zubní lékařství,60492
+1777,Brno-město,zubní lékařství,60516
+1778,Brno-město,zubní lékařství,60525
+1779,Brno-město,zubní lékařství,60602
+1780,Brno-město,soudní lékařství,60511
+1781,Brno-venkov,Dentální hygienistka,5288
+1782,Brno-venkov,Dentální hygienistka,8505
+1783,Brno-venkov,Dentální hygienistka,10643
+1784,Brno-venkov,Dentální hygienistka,15024
+1785,Brno-venkov,Dentální hygienistka,23046
+1786,Brno-venkov,Dentální hygienistka,25121
+1787,Brno-venkov,Dentální hygienistka,29586
+1788,Brno-venkov,Dentální hygienistka,30138
+1789,Brno-venkov,Dentální hygienistka,37173
+1790,Brno-venkov,Fyzioterapeut,17
+1791,Brno-venkov,Fyzioterapeut,1622
+1792,Brno-venkov,Fyzioterapeut,1800
+1793,Brno-venkov,Fyzioterapeut,1801
+1794,Brno-venkov,Fyzioterapeut,2692
+1795,Brno-venkov,Fyzioterapeut,2966
+1796,Brno-venkov,Fyzioterapeut,5833
+1797,Brno-venkov,Fyzioterapeut,7196
+1798,Brno-venkov,Fyzioterapeut,7197
+1799,Brno-venkov,Fyzioterapeut,8335
+1800,Brno-venkov,Fyzioterapeut,8700
+1801,Brno-venkov,Fyzioterapeut,9540
+1802,Brno-venkov,Fyzioterapeut,9561
+1803,Brno-venkov,Fyzioterapeut,9983
+1804,Brno-venkov,Fyzioterapeut,10977
+1805,Brno-venkov,Fyzioterapeut,11008
+1806,Brno-venkov,Fyzioterapeut,11503
+1807,Brno-venkov,Fyzioterapeut,12399
+1808,Brno-venkov,Fyzioterapeut,13298
+1809,Brno-venkov,Fyzioterapeut,15060
+1810,Brno-venkov,Fyzioterapeut,18535
+1811,Brno-venkov,Fyzioterapeut,18581
+1812,Brno-venkov,Fyzioterapeut,24676
+1813,Brno-venkov,Fyzioterapeut,24682
+1814,Brno-venkov,Fyzioterapeut,24894
+1815,Brno-venkov,Fyzioterapeut,26683
+1816,Brno-venkov,Fyzioterapeut,26720
+1817,Brno-venkov,Fyzioterapeut,29051
+1818,Brno-venkov,Fyzioterapeut,30178
+1819,Brno-venkov,Fyzioterapeut,30948
+1820,Brno-venkov,Fyzioterapeut,37385
+1821,Brno-venkov,Fyzioterapeut,56261
+1822,Brno-venkov,Fyzioterapeut,60065
+1823,Brno-venkov,Klinický logoped,14157
+1824,Brno-venkov,Klinický logoped,14158
+1825,Brno-venkov,Klinický logoped,14825
+1826,Brno-venkov,Klinický logoped,22526
+1827,Brno-venkov,Klinický logoped,25100
+1828,Brno-venkov,Klinický logoped,25101
+1829,Brno-venkov,Klinický logoped,31877
+1830,Brno-venkov,Klinický logoped,42905
+1831,Brno-venkov,Klinický logoped,42906
+1832,Brno-venkov,Klinický logoped,46105
+1833,Brno-venkov,Klinický logoped,50634
+1834,Brno-venkov,Klinický logoped,50635
+1835,Brno-venkov,Klinický logoped,58152
+1836,Brno-venkov,Klinický psycholog,2693
+1837,Brno-venkov,Klinický psycholog,12646
+1838,Brno-venkov,Klinický psycholog,12647
+1839,Brno-venkov,Klinický psycholog,14896
+1840,Brno-venkov,Klinický psycholog,57960
+1841,Brno-venkov,chirurgie,8332
+1842,Brno-venkov,chirurgie,9984
+1843,Brno-venkov,chirurgie,14248
+1844,Brno-venkov,chirurgie,15021
+1845,Brno-venkov,chirurgie,25618
+1846,Brno-venkov,chirurgie,27710
+1847,Brno-venkov,chirurgie,49232
+1848,Brno-venkov,chirurgie,50646
+1849,Brno-venkov,chirurgie,57471
+1850,Brno-venkov,chirurgie,57472
+1851,Brno-venkov,chirurgie,57475
+1852,Brno-venkov,chirurgie,60052
+1853,Brno-venkov,chirurgie,60053
+1854,Brno-venkov,kardiologie,2053
+1855,Brno-venkov,kardiologie,14260
+1856,Brno-venkov,kardiologie,19086
+1857,Brno-venkov,kardiologie,19088
+1858,Brno-venkov,kardiologie,26514
+1859,Brno-venkov,kardiologie,28333
+1860,Brno-venkov,kardiologie,45270
+1861,Brno-venkov,kardiologie,60055
+1862,Brno-venkov,nefrologie,2444
+1863,Brno-venkov,nefrologie,2445
+1864,Brno-venkov,nefrologie,13033
+1865,Brno-venkov,nefrologie,45368
+1866,Brno-venkov,neurologie,1712
+1867,Brno-venkov,neurologie,1713
+1868,Brno-venkov,neurologie,3236
+1869,Brno-venkov,neurologie,3237
+1870,Brno-venkov,neurologie,8112
+1871,Brno-venkov,neurologie,8331
+1872,Brno-venkov,neurologie,11502
+1873,Brno-venkov,neurologie,24681
+1874,Brno-venkov,neurologie,26957
+1875,Brno-venkov,neurologie,29036
+1876,Brno-venkov,neurologie,34720
+1877,Brno-venkov,neurologie,50639
+1878,Brno-venkov,neurologie,57961
+1879,Brno-venkov,praktické lékařství pro děti a dorost,74
+1880,Brno-venkov,praktické lékařství pro děti a dorost,1803
+1881,Brno-venkov,praktické lékařství pro děti a dorost,1804
+1882,Brno-venkov,praktické lékařství pro děti a dorost,1805
+1883,Brno-venkov,praktické lékařství pro děti a dorost,5164
+1884,Brno-venkov,praktické lékařství pro děti a dorost,6140
+1885,Brno-venkov,praktické lékařství pro děti a dorost,7333
+1886,Brno-venkov,praktické lékařství pro děti a dorost,8103
+1887,Brno-venkov,praktické lékařství pro děti a dorost,12305
+1888,Brno-venkov,praktické lékařství pro děti a dorost,14692
+1889,Brno-venkov,praktické lékařství pro děti a dorost,18570
+1890,Brno-venkov,praktické lékařství pro děti a dorost,24901
+1891,Brno-venkov,praktické lékařství pro děti a dorost,25105
+1892,Brno-venkov,praktické lékařství pro děti a dorost,25343
+1893,Brno-venkov,praktické lékařství pro děti a dorost,25420
+1894,Brno-venkov,praktické lékařství pro děti a dorost,26510
+1895,Brno-venkov,praktické lékařství pro děti a dorost,26513
+1896,Brno-venkov,praktické lékařství pro děti a dorost,28491
+1897,Brno-venkov,praktické lékařství pro děti a dorost,28604
+1898,Brno-venkov,praktické lékařství pro děti a dorost,28993
+1899,Brno-venkov,praktické lékařství pro děti a dorost,28995
+1900,Brno-venkov,praktické lékařství pro děti a dorost,29041
+1901,Brno-venkov,praktické lékařství pro děti a dorost,35094
+1902,Brno-venkov,praktické lékařství pro děti a dorost,35443
+1903,Brno-venkov,praktické lékařství pro děti a dorost,36406
+1904,Brno-venkov,praktické lékařství pro děti a dorost,38745
+1905,Brno-venkov,praktické lékařství pro děti a dorost,46823
+1906,Brno-venkov,praktické lékařství pro děti a dorost,47448
+1907,Brno-venkov,praktické lékařství pro děti a dorost,50587
+1908,Brno-venkov,praktické lékařství pro děti a dorost,50607
+1909,Brno-venkov,praktické lékařství pro děti a dorost,50636
+1910,Brno-venkov,praktické lékařství pro děti a dorost,50642
+1911,Brno-venkov,praktické lékařství pro děti a dorost,50653
+1912,Brno-venkov,praktické lékařství pro děti a dorost,50654
+1913,Brno-venkov,praktické lékařství pro děti a dorost,50657
+1914,Brno-venkov,praktické lékařství pro děti a dorost,50661
+1915,Brno-venkov,praktické lékařství pro děti a dorost,50665
+1916,Brno-venkov,praktické lékařství pro děti a dorost,50667
+1917,Brno-venkov,praktické lékařství pro děti a dorost,50682
+1918,Brno-venkov,praktické lékařství pro děti a dorost,50684
+1919,Brno-venkov,praktické lékařství pro děti a dorost,50695
+1920,Brno-venkov,praktické lékařství pro děti a dorost,51368
+1921,Brno-venkov,praktické lékařství pro děti a dorost,52052
+1922,Brno-venkov,praktické lékařství pro děti a dorost,54821
+1923,Brno-venkov,praktické lékárenství,724
+1924,Brno-venkov,praktické lékárenství,909
+1925,Brno-venkov,praktické lékárenství,1176
+1926,Brno-venkov,praktické lékárenství,5781
+1927,Brno-venkov,praktické lékárenství,6072
+1928,Brno-venkov,praktické lékárenství,6138
+1929,Brno-venkov,praktické lékárenství,8729
+1930,Brno-venkov,praktické lékárenství,8907
+1931,Brno-venkov,praktické lékárenství,9221
+1932,Brno-venkov,praktické lékárenství,9955
+1933,Brno-venkov,praktické lékárenství,10695
+1934,Brno-venkov,praktické lékárenství,12401
+1935,Brno-venkov,praktické lékárenství,12823
+1936,Brno-venkov,praktické lékárenství,14089
+1937,Brno-venkov,praktické lékárenství,14465
+1938,Brno-venkov,praktické lékárenství,14724
+1939,Brno-venkov,praktické lékárenství,16282
+1940,Brno-venkov,praktické lékárenství,21650
+1941,Brno-venkov,praktické lékárenství,21765
+1942,Brno-venkov,praktické lékárenství,23945
+1943,Brno-venkov,praktické lékárenství,24402
+1944,Brno-venkov,praktické lékárenství,24403
+1945,Brno-venkov,praktické lékárenství,25000
+1946,Brno-venkov,praktické lékárenství,25050
+1947,Brno-venkov,praktické lékárenství,25494
+1948,Brno-venkov,praktické lékárenství,27406
+1949,Brno-venkov,praktické lékárenství,29428
+1950,Brno-venkov,praktické lékárenství,33338
+1951,Brno-venkov,praktické lékárenství,35926
+1952,Brno-venkov,praktické lékárenství,36679
+1953,Brno-venkov,praktické lékárenství,38636
+1954,Brno-venkov,praktické lékárenství,38731
+1955,Brno-venkov,praktické lékárenství,38755
+1956,Brno-venkov,praktické lékárenství,38756
+1957,Brno-venkov,praktické lékárenství,38757
+1958,Brno-venkov,praktické lékárenství,40838
+1959,Brno-venkov,praktické lékárenství,40840
+1960,Brno-venkov,praktické lékárenství,42191
+1961,Brno-venkov,praktické lékárenství,42804
+1962,Brno-venkov,praktické lékárenství,46938
+1963,Brno-venkov,praktické lékárenství,47721
+1964,Brno-venkov,praktické lékárenství,49606
+1965,Brno-venkov,praktické lékárenství,50637
+1966,Brno-venkov,praktické lékárenství,57158
+1967,Brno-venkov,praktické lékárenství,57414
+1968,Brno-venkov,praktické lékárenství,57447
+1969,Brno-venkov,praktické lékárenství,57470
+1970,Brno-venkov,praktické lékárenství,60045
+1971,Brno-venkov,všeobecné praktické lékařství,2050
+1972,Brno-venkov,všeobecné praktické lékařství,4317
+1973,Brno-venkov,všeobecné praktické lékařství,4318
+1974,Brno-venkov,všeobecné praktické lékařství,4319
+1975,Brno-venkov,všeobecné praktické lékařství,4320
+1976,Brno-venkov,všeobecné praktické lékařství,4717
+1977,Brno-venkov,všeobecné praktické lékařství,5459
+1978,Brno-venkov,všeobecné praktické lékařství,5460
+1979,Brno-venkov,všeobecné praktické lékařství,6862
+1980,Brno-venkov,všeobecné praktické lékařství,7208
+1981,Brno-venkov,všeobecné praktické lékařství,7209
+1982,Brno-venkov,všeobecné praktické lékařství,10680
+1983,Brno-venkov,všeobecné praktické lékařství,10780
+1984,Brno-venkov,všeobecné praktické lékařství,11341
+1985,Brno-venkov,všeobecné praktické lékařství,11500
+1986,Brno-venkov,všeobecné praktické lékařství,11501
+1987,Brno-venkov,všeobecné praktické lékařství,12015
+1988,Brno-venkov,všeobecné praktické lékařství,12016
+1989,Brno-venkov,všeobecné praktické lékařství,12017
+1990,Brno-venkov,všeobecné praktické lékařství,12018
+1991,Brno-venkov,všeobecné praktické lékařství,12266
+1992,Brno-venkov,všeobecné praktické lékařství,12267
+1993,Brno-venkov,všeobecné praktické lékařství,13402
+1994,Brno-venkov,všeobecné praktické lékařství,13433
+1995,Brno-venkov,všeobecné praktické lékařství,13440
+1996,Brno-venkov,všeobecné praktické lékařství,13441
+1997,Brno-venkov,všeobecné praktické lékařství,13760
+1998,Brno-venkov,všeobecné praktické lékařství,13913
+1999,Brno-venkov,všeobecné praktické lékařství,13914
+2000,Brno-venkov,všeobecné praktické lékařství,14230
+2001,Brno-venkov,všeobecné praktické lékařství,14231
+2002,Brno-venkov,všeobecné praktické lékařství,14232
+2003,Brno-venkov,všeobecné praktické lékařství,14253
+2004,Brno-venkov,všeobecné praktické lékařství,14528
+2005,Brno-venkov,všeobecné praktické lékařství,15160
+2006,Brno-venkov,všeobecné praktické lékařství,15161
+2007,Brno-venkov,všeobecné praktické lékařství,16203
+2008,Brno-venkov,všeobecné praktické lékařství,16204
+2009,Brno-venkov,všeobecné praktické lékařství,16531
+2010,Brno-venkov,všeobecné praktické lékařství,16532
+2011,Brno-venkov,všeobecné praktické lékařství,16673
+2012,Brno-venkov,všeobecné praktické lékařství,16674
+2013,Brno-venkov,všeobecné praktické lékařství,16689
+2014,Brno-venkov,všeobecné praktické lékařství,17207
+2015,Brno-venkov,všeobecné praktické lékařství,17234
+2016,Brno-venkov,všeobecné praktické lékařství,17235
+2017,Brno-venkov,všeobecné praktické lékařství,17529
+2018,Brno-venkov,všeobecné praktické lékařství,18578
+2019,Brno-venkov,všeobecné praktické lékařství,18579
+2020,Brno-venkov,všeobecné praktické lékařství,20110
+2021,Brno-venkov,všeobecné praktické lékařství,20736
+2022,Brno-venkov,všeobecné praktické lékařství,23399
+2023,Brno-venkov,všeobecné praktické lékařství,23400
+2024,Brno-venkov,všeobecné praktické lékařství,23401
+2025,Brno-venkov,všeobecné praktické lékařství,23402
+2026,Brno-venkov,všeobecné praktické lékařství,24881
+2027,Brno-venkov,všeobecné praktické lékařství,25115
+2028,Brno-venkov,všeobecné praktické lékařství,25141
+2029,Brno-venkov,všeobecné praktické lékařství,25142
+2030,Brno-venkov,všeobecné praktické lékařství,25144
+2031,Brno-venkov,všeobecné praktické lékařství,25150
+2032,Brno-venkov,všeobecné praktické lékařství,25153
+2033,Brno-venkov,všeobecné praktické lékařství,25154
+2034,Brno-venkov,všeobecné praktické lékařství,25155
+2035,Brno-venkov,všeobecné praktické lékařství,25251
+2036,Brno-venkov,všeobecné praktické lékařství,25252
+2037,Brno-venkov,všeobecné praktické lékařství,25353
+2038,Brno-venkov,všeobecné praktické lékařství,25354
+2039,Brno-venkov,všeobecné praktické lékařství,25614
+2040,Brno-venkov,všeobecné praktické lékařství,26679
+2041,Brno-venkov,všeobecné praktické lékařství,26680
+2042,Brno-venkov,všeobecné praktické lékařství,27602
+2043,Brno-venkov,všeobecné praktické lékařství,28337
+2044,Brno-venkov,všeobecné praktické lékařství,28615
+2045,Brno-venkov,všeobecné praktické lékařství,28616
+2046,Brno-venkov,všeobecné praktické lékařství,28795
+2047,Brno-venkov,všeobecné praktické lékařství,29033
+2048,Brno-venkov,všeobecné praktické lékařství,29258
+2049,Brno-venkov,všeobecné praktické lékařství,29259
+2050,Brno-venkov,všeobecné praktické lékařství,29560
+2051,Brno-venkov,všeobecné praktické lékařství,29562
+2052,Brno-venkov,všeobecné praktické lékařství,30136
+2053,Brno-venkov,všeobecné praktické lékařství,30223
+2054,Brno-venkov,všeobecné praktické lékařství,31517
+2055,Brno-venkov,všeobecné praktické lékařství,31710
+2056,Brno-venkov,všeobecné praktické lékařství,31923
+2057,Brno-venkov,všeobecné praktické lékařství,32038
+2058,Brno-venkov,všeobecné praktické lékařství,32039
+2059,Brno-venkov,všeobecné praktické lékařství,32183
+2060,Brno-venkov,všeobecné praktické lékařství,32544
+2061,Brno-venkov,všeobecné praktické lékařství,32545
+2062,Brno-venkov,všeobecné praktické lékařství,35445
+2063,Brno-venkov,všeobecné praktické lékařství,35446
+2064,Brno-venkov,všeobecné praktické lékařství,35447
+2065,Brno-venkov,všeobecné praktické lékařství,35448
+2066,Brno-venkov,všeobecné praktické lékařství,36422
+2067,Brno-venkov,všeobecné praktické lékařství,38786
+2068,Brno-venkov,všeobecné praktické lékařství,40836
+2069,Brno-venkov,všeobecné praktické lékařství,43329
+2070,Brno-venkov,všeobecné praktické lékařství,46242
+2071,Brno-venkov,všeobecné praktické lékařství,46662
+2072,Brno-venkov,všeobecné praktické lékařství,46696
+2073,Brno-venkov,všeobecné praktické lékařství,46924
+2074,Brno-venkov,všeobecné praktické lékařství,47458
+2075,Brno-venkov,všeobecné praktické lékařství,47459
+2076,Brno-venkov,všeobecné praktické lékařství,47674
+2077,Brno-venkov,všeobecné praktické lékařství,49233
+2078,Brno-venkov,všeobecné praktické lékařství,50588
+2079,Brno-venkov,všeobecné praktické lékařství,50606
+2080,Brno-venkov,všeobecné praktické lékařství,50623
+2081,Brno-venkov,všeobecné praktické lékařství,50632
+2082,Brno-venkov,všeobecné praktické lékařství,50633
+2083,Brno-venkov,všeobecné praktické lékařství,50643
+2084,Brno-venkov,všeobecné praktické lékařství,50649
+2085,Brno-venkov,všeobecné praktické lékařství,50660
+2086,Brno-venkov,všeobecné praktické lékařství,50676
+2087,Brno-venkov,všeobecné praktické lékařství,50680
+2088,Brno-venkov,všeobecné praktické lékařství,50683
+2089,Brno-venkov,všeobecné praktické lékařství,50691
+2090,Brno-venkov,všeobecné praktické lékařství,50698
+2091,Brno-venkov,všeobecné praktické lékařství,50699
+2092,Brno-venkov,všeobecné praktické lékařství,52032
+2093,Brno-venkov,všeobecné praktické lékařství,52034
+2094,Brno-venkov,všeobecné praktické lékařství,52036
+2095,Brno-venkov,všeobecné praktické lékařství,52038
+2096,Brno-venkov,všeobecné praktické lékařství,52047
+2097,Brno-venkov,všeobecné praktické lékařství,52050
+2098,Brno-venkov,všeobecné praktické lékařství,54707
+2099,Brno-venkov,všeobecné praktické lékařství,54708
+2100,Brno-venkov,všeobecné praktické lékařství,56273
+2101,Brno-venkov,všeobecné praktické lékařství,60060
+2102,Brno-venkov,všeobecné praktické lékařství,60061
+2103,Brno-venkov,zubní lékařství,1347
+2104,Brno-venkov,zubní lékařství,1397
+2105,Brno-venkov,zubní lékařství,1398
+2106,Brno-venkov,zubní lékařství,1574
+2107,Brno-venkov,zubní lékařství,2967
+2108,Brno-venkov,zubní lékařství,4030
+2109,Brno-venkov,zubní lékařství,4718
+2110,Brno-venkov,zubní lékařství,5107
+2111,Brno-venkov,zubní lékařství,5165
+2112,Brno-venkov,zubní lékařství,5166
+2113,Brno-venkov,zubní lékařství,7137
+2114,Brno-venkov,zubní lékařství,9739
+2115,Brno-venkov,zubní lékařství,11451
+2116,Brno-venkov,zubní lékařství,12901
+2117,Brno-venkov,zubní lékařství,13598
+2118,Brno-venkov,zubní lékařství,14262
+2119,Brno-venkov,zubní lékařství,14888
+2120,Brno-venkov,zubní lékařství,14936
+2121,Brno-venkov,zubní lékařství,16750
+2122,Brno-venkov,zubní lékařství,18524
+2123,Brno-venkov,zubní lékařství,23196
+2124,Brno-venkov,zubní lékařství,23857
+2125,Brno-venkov,zubní lékařství,23999
+2126,Brno-venkov,zubní lékařství,24898
+2127,Brno-venkov,zubní lékařství,25120
+2128,Brno-venkov,zubní lékařství,25337
+2129,Brno-venkov,zubní lékařství,28331
+2130,Brno-venkov,zubní lékařství,29587
+2131,Brno-venkov,zubní lékařství,30202
+2132,Brno-venkov,zubní lékařství,30653
+2133,Brno-venkov,zubní lékařství,32143
+2134,Brno-venkov,zubní lékařství,32158
+2135,Brno-venkov,zubní lékařství,34229
+2136,Brno-venkov,zubní lékařství,34600
+2137,Brno-venkov,zubní lékařství,34813
+2138,Brno-venkov,zubní lékařství,37172
+2139,Brno-venkov,zubní lékařství,42388
+2140,Brno-venkov,zubní lékařství,45990
+2141,Brno-venkov,zubní lékařství,46385
+2142,Brno-venkov,zubní lékařství,50640
+2143,Brno-venkov,zubní lékařství,50648
+2144,Brno-venkov,zubní lékařství,50655
+2145,Brno-venkov,zubní lékařství,50664
+2146,Brno-venkov,zubní lékařství,50679
+2147,Brno-venkov,zubní lékařství,50685
+2148,Brno-venkov,zubní lékařství,50686
+2149,Brno-venkov,zubní lékařství,50687
+2150,Brno-venkov,zubní lékařství,50688
+2151,Brno-venkov,zubní lékařství,50689
+2152,Brno-venkov,zubní lékařství,50694
+2153,Brno-venkov,zubní lékařství,50696
+2154,Brno-venkov,zubní lékařství,50700
+2155,Brno-venkov,zubní lékařství,50703
+2156,Brno-venkov,zubní lékařství,50704
+2157,Brno-venkov,zubní lékařství,52028
+2158,Brno-venkov,zubní lékařství,52030
+2159,Brno-venkov,zubní lékařství,52033
+2160,Brno-venkov,zubní lékařství,52035
+2161,Brno-venkov,zubní lékařství,52037
+2162,Brno-venkov,zubní lékařství,52039
+2163,Brno-venkov,zubní lékařství,52040
+2164,Brno-venkov,zubní lékařství,52042
+2165,Brno-venkov,zubní lékařství,52044
+2166,Brno-venkov,zubní lékařství,52046
+2167,Brno-venkov,zubní lékařství,52049
+2168,Brno-venkov,zubní lékařství,55668
+2169,Břeclav,Dentální hygienistka,8625
+2170,Břeclav,Dentální hygienistka,10606
+2171,Břeclav,Dentální hygienistka,12206
+2172,Břeclav,Dentální hygienistka,26549
+2173,Břeclav,Dentální hygienistka,41681
+2174,Břeclav,Dentální hygienistka,51098
+2175,Břeclav,Fyzioterapeut,565
+2176,Břeclav,Fyzioterapeut,3399
+2177,Břeclav,Fyzioterapeut,6782
+2178,Břeclav,Fyzioterapeut,7370
+2179,Břeclav,Fyzioterapeut,10131
+2180,Břeclav,Fyzioterapeut,10132
+2181,Břeclav,Fyzioterapeut,10133
+2182,Břeclav,Fyzioterapeut,10134
+2183,Břeclav,Fyzioterapeut,14239
+2184,Břeclav,Fyzioterapeut,17929
+2185,Břeclav,Fyzioterapeut,20805
+2186,Břeclav,Fyzioterapeut,21923
+2187,Břeclav,Fyzioterapeut,23395
+2188,Břeclav,Fyzioterapeut,24900
+2189,Břeclav,Fyzioterapeut,27681
+2190,Břeclav,Fyzioterapeut,37411
+2191,Břeclav,Fyzioterapeut,49287
+2192,Břeclav,Fyzioterapeut,52131
+2193,Břeclav,Fyzioterapeut,54729
+2194,Břeclav,Fyzioterapeut,59832
+2195,Břeclav,Fyzioterapeut,59833
+2196,Břeclav,Klinický logoped,2641
+2197,Břeclav,Klinický logoped,2659
+2198,Břeclav,Klinický logoped,21510
+2199,Břeclav,Klinický logoped,21511
+2200,Břeclav,Klinický logoped,23812
+2201,Břeclav,Klinický logoped,46835
+2202,Břeclav,Klinický logoped,59834
+2203,Břeclav,Klinický psycholog,2511
+2204,Břeclav,Klinický psycholog,3078
+2205,Břeclav,Klinický psycholog,24477
+2206,Břeclav,Klinický psycholog,25345
+2207,Břeclav,Klinický psycholog,28602
+2208,Břeclav,Klinický psycholog,37407
+2209,Břeclav,Klinický psycholog,43062
+2210,Břeclav,Klinický psycholog,55958
+2211,Břeclav,Klinický psycholog,55959
+2212,Břeclav,Klinický psycholog,59823
+2213,Břeclav,chirurgie,12578
+2214,Břeclav,chirurgie,14110
+2215,Břeclav,chirurgie,17919
+2216,Břeclav,chirurgie,23805
+2217,Břeclav,chirurgie,24944
+2218,Břeclav,chirurgie,31245
+2219,Břeclav,chirurgie,37402
+2220,Břeclav,chirurgie,41451
+2221,Břeclav,chirurgie,55682
+2222,Břeclav,chirurgie,55683
+2223,Břeclav,chirurgie,59793
+2224,Břeclav,chirurgie,59794
+2225,Břeclav,chirurgie,59795
+2226,Břeclav,kardiologie,2694
+2227,Břeclav,kardiologie,14698
+2228,Břeclav,kardiologie,14699
+2229,Břeclav,kardiologie,17920
+2230,Břeclav,kardiologie,50007
+2231,Břeclav,kardiologie,50009
+2232,Břeclav,kardiologie,59796
+2233,Břeclav,nefrologie,59800
+2234,Břeclav,nefrologie,59824
+2235,Břeclav,neurologie,6348
+2236,Břeclav,neurologie,9980
+2237,Břeclav,neurologie,23879
+2238,Břeclav,neurologie,30500
+2239,Břeclav,neurologie,44617
+2240,Břeclav,neurologie,46829
+2241,Břeclav,neurologie,59801
+2242,Břeclav,neurologie,59802
+2243,Břeclav,neurologie,59803
+2244,Břeclav,praktické lékařství pro děti a dorost,2489
+2245,Břeclav,praktické lékařství pro děti a dorost,5185
+2246,Břeclav,praktické lékařství pro děti a dorost,5548
+2247,Břeclav,praktické lékařství pro děti a dorost,14693
+2248,Břeclav,praktické lékařství pro děti a dorost,16739
+2249,Břeclav,praktické lékařství pro děti a dorost,24731
+2250,Břeclav,praktické lékařství pro děti a dorost,24899
+2251,Břeclav,praktické lékařství pro děti a dorost,28999
+2252,Břeclav,praktické lékařství pro děti a dorost,29000
+2253,Břeclav,praktické lékařství pro děti a dorost,29003
+2254,Břeclav,praktické lékařství pro děti a dorost,31671
+2255,Břeclav,praktické lékařství pro děti a dorost,31672
+2256,Břeclav,praktické lékařství pro děti a dorost,31673
+2257,Břeclav,praktické lékařství pro děti a dorost,37471
+2258,Břeclav,praktické lékařství pro děti a dorost,45516
+2259,Břeclav,praktické lékařství pro děti a dorost,51315
+2260,Břeclav,praktické lékařství pro děti a dorost,52124
+2261,Břeclav,praktické lékařství pro děti a dorost,52125
+2262,Břeclav,praktické lékařství pro děti a dorost,52126
+2263,Břeclav,praktické lékařství pro děti a dorost,55666
+2264,Břeclav,praktické lékařství pro děti a dorost,55667
+2265,Břeclav,praktické lékařství pro děti a dorost,55670
+2266,Břeclav,praktické lékařství pro děti a dorost,55671
+2267,Břeclav,praktické lékařství pro děti a dorost,55676
+2268,Břeclav,praktické lékařství pro děti a dorost,55680
+2269,Břeclav,praktické lékařství pro děti a dorost,59809
+2270,Břeclav,praktické lékárenství,5706
+2271,Břeclav,praktické lékárenství,6455
+2272,Břeclav,praktické lékárenství,7803
+2273,Břeclav,praktické lékárenství,7804
+2274,Břeclav,praktické lékárenství,7805
+2275,Břeclav,praktické lékárenství,8428
+2276,Břeclav,praktické lékárenství,11517
+2277,Břeclav,praktické lékárenství,11993
+2278,Břeclav,praktické lékárenství,18529
+2279,Břeclav,praktické lékárenství,20231
+2280,Břeclav,praktické lékárenství,21743
+2281,Břeclav,praktické lékárenství,24407
+2282,Břeclav,praktické lékárenství,25488
+2283,Břeclav,praktické lékárenství,26311
+2284,Břeclav,praktické lékárenství,26312
+2285,Břeclav,praktické lékárenství,30391
+2286,Břeclav,praktické lékárenství,30392
+2287,Břeclav,praktické lékárenství,31509
+2288,Břeclav,praktické lékárenství,33379
+2289,Břeclav,praktické lékárenství,34381
+2290,Břeclav,praktické lékárenství,36970
+2291,Břeclav,praktické lékárenství,37399
+2292,Břeclav,praktické lékárenství,40681
+2293,Břeclav,praktické lékárenství,40682
+2294,Břeclav,praktické lékárenství,42810
+2295,Břeclav,praktické lékárenství,44377
+2296,Břeclav,praktické lékárenství,44912
+2297,Břeclav,praktické lékárenství,44913
+2298,Břeclav,praktické lékárenství,45477
+2299,Břeclav,praktické lékárenství,47981
+2300,Břeclav,praktické lékárenství,52121
+2301,Břeclav,praktické lékárenství,52122
+2302,Břeclav,praktické lékárenství,57033
+2303,Břeclav,praktické lékárenství,59836
+2304,Břeclav,sexuologie,38624
+2305,Břeclav,sexuologie,38626
+2306,Břeclav,všeobecné praktické lékařství,2603
+2307,Břeclav,všeobecné praktické lékařství,2604
+2308,Břeclav,všeobecné praktické lékařství,5182
+2309,Břeclav,všeobecné praktické lékařství,5183
+2310,Břeclav,všeobecné praktické lékařství,5376
+2311,Břeclav,všeobecné praktické lékařství,5458
+2312,Břeclav,všeobecné praktické lékařství,8155
+2313,Břeclav,všeobecné praktické lékařství,8156
+2314,Břeclav,všeobecné praktické lékařství,8912
+2315,Břeclav,všeobecné praktické lékařství,8913
+2316,Břeclav,všeobecné praktické lékařství,9979
+2317,Břeclav,všeobecné praktické lékařství,11373
+2318,Břeclav,všeobecné praktické lékařství,11374
+2319,Břeclav,všeobecné praktické lékařství,11375
+2320,Břeclav,všeobecné praktické lékařství,11376
+2321,Břeclav,všeobecné praktické lékařství,11437
+2322,Břeclav,všeobecné praktické lékařství,11438
+2323,Břeclav,všeobecné praktické lékařství,11963
+2324,Břeclav,všeobecné praktické lékařství,11964
+2325,Břeclav,všeobecné praktické lékařství,12231
+2326,Břeclav,všeobecné praktické lékařství,12552
+2327,Břeclav,všeobecné praktické lékařství,12553
+2328,Břeclav,všeobecné praktické lékařství,13042
+2329,Břeclav,všeobecné praktické lékařství,13043
+2330,Břeclav,všeobecné praktické lékařství,14048
+2331,Břeclav,všeobecné praktické lékařství,14049
+2332,Břeclav,všeobecné praktické lékařství,14714
+2333,Břeclav,všeobecné praktické lékařství,16951
+2334,Břeclav,všeobecné praktické lékařství,16952
+2335,Břeclav,všeobecné praktické lékařství,16954
+2336,Břeclav,všeobecné praktické lékařství,16955
+2337,Břeclav,všeobecné praktické lékařství,16956
+2338,Břeclav,všeobecné praktické lékařství,16957
+2339,Břeclav,všeobecné praktické lékařství,16959
+2340,Břeclav,všeobecné praktické lékařství,16960
+2341,Břeclav,všeobecné praktické lékařství,17927
+2342,Břeclav,všeobecné praktické lékařství,19543
+2343,Břeclav,všeobecné praktické lékařství,19544
+2344,Břeclav,všeobecné praktické lékařství,19547
+2345,Břeclav,všeobecné praktické lékařství,19548
+2346,Břeclav,všeobecné praktické lékařství,19563
+2347,Břeclav,všeobecné praktické lékařství,21119
+2348,Břeclav,všeobecné praktické lékařství,21121
+2349,Břeclav,všeobecné praktické lékařství,23396
+2350,Břeclav,všeobecné praktické lékařství,23397
+2351,Břeclav,všeobecné praktické lékařství,24142
+2352,Břeclav,všeobecné praktické lékařství,24143
+2353,Břeclav,všeobecné praktické lékařství,25147
+2354,Břeclav,všeobecné praktické lékařství,25148
+2355,Břeclav,všeobecné praktické lékařství,25174
+2356,Břeclav,všeobecné praktické lékařství,25362
+2357,Břeclav,všeobecné praktické lékařství,25363
+2358,Břeclav,všeobecné praktické lékařství,25364
+2359,Břeclav,všeobecné praktické lékařství,26517
+2360,Břeclav,všeobecné praktické lékařství,26518
+2361,Břeclav,všeobecné praktické lékařství,26529
+2362,Břeclav,všeobecné praktické lékařství,26530
+2363,Břeclav,všeobecné praktické lékařství,26531
+2364,Břeclav,všeobecné praktické lékařství,26532
+2365,Břeclav,všeobecné praktické lékařství,26533
+2366,Břeclav,všeobecné praktické lékařství,26681
+2367,Břeclav,všeobecné praktické lékařství,26682
+2368,Břeclav,všeobecné praktické lékařství,26687
+2369,Břeclav,všeobecné praktické lékařství,26688
+2370,Břeclav,všeobecné praktické lékařství,27428
+2371,Břeclav,všeobecné praktické lékařství,27430
+2372,Břeclav,všeobecné praktické lékařství,27617
+2373,Břeclav,všeobecné praktické lékařství,27690
+2374,Břeclav,všeobecné praktické lékařství,28462
+2375,Břeclav,všeobecné praktické lékařství,28503
+2376,Břeclav,všeobecné praktické lékařství,29559
+2377,Břeclav,všeobecné praktické lékařství,29561
+2378,Břeclav,všeobecné praktické lékařství,30502
+2379,Břeclav,všeobecné praktické lékařství,30503
+2380,Břeclav,všeobecné praktické lékařství,30504
+2381,Břeclav,všeobecné praktické lékařství,32089
+2382,Břeclav,všeobecné praktické lékařství,34664
+2383,Břeclav,všeobecné praktické lékařství,34665
+2384,Břeclav,všeobecné praktické lékařství,34775
+2385,Břeclav,všeobecné praktické lékařství,34776
+2386,Břeclav,všeobecné praktické lékařství,34957
+2387,Břeclav,všeobecné praktické lékařství,34958
+2388,Břeclav,všeobecné praktické lékařství,35082
+2389,Břeclav,všeobecné praktické lékařství,35449
+2390,Břeclav,všeobecné praktické lékařství,35792
+2391,Břeclav,všeobecné praktické lékařství,35793
+2392,Břeclav,všeobecné praktické lékařství,37400
+2393,Břeclav,všeobecné praktické lékařství,37401
+2394,Břeclav,všeobecné praktické lékařství,38679
+2395,Břeclav,všeobecné praktické lékařství,40455
+2396,Břeclav,všeobecné praktické lékařství,41614
+2397,Břeclav,všeobecné praktické lékařství,41624
+2398,Břeclav,všeobecné praktické lékařství,46827
+2399,Břeclav,všeobecné praktické lékařství,46828
+2400,Břeclav,všeobecné praktické lékařství,49289
+2401,Břeclav,všeobecné praktické lékařství,50006
+2402,Břeclav,všeobecné praktické lékařství,51095
+2403,Břeclav,všeobecné praktické lékařství,52130
+2404,Břeclav,všeobecné praktické lékařství,52136
+2405,Břeclav,všeobecné praktické lékařství,52140
+2406,Břeclav,všeobecné praktické lékařství,52141
+2407,Břeclav,všeobecné praktické lékařství,52142
+2408,Břeclav,všeobecné praktické lékařství,54717
+2409,Břeclav,všeobecné praktické lékařství,55665
+2410,Břeclav,všeobecné praktické lékařství,55672
+2411,Břeclav,všeobecné praktické lékařství,55688
+2412,Břeclav,všeobecné praktické lékařství,58111
+2413,Břeclav,všeobecné praktické lékařství,59820
+2414,Břeclav,zubní lékařství,2231
+2415,Břeclav,zubní lékařství,2706
+2416,Břeclav,zubní lékařství,8427
+2417,Břeclav,zubní lékařství,8662
+2418,Břeclav,zubní lékařství,10605
+2419,Břeclav,zubní lékařství,12656
+2420,Břeclav,zubní lékařství,14218
+2421,Břeclav,zubní lékařství,14238
+2422,Břeclav,zubní lékařství,14512
+2423,Břeclav,zubní lékařství,14544
+2424,Břeclav,zubní lékařství,14597
+2425,Břeclav,zubní lékařství,14771
+2426,Břeclav,zubní lékařství,16169
+2427,Břeclav,zubní lékařství,16277
+2428,Břeclav,zubní lékařství,18558
+2429,Břeclav,zubní lékařství,18573
+2430,Břeclav,zubní lékařství,19757
+2431,Břeclav,zubní lékařství,21486
+2432,Břeclav,zubní lékařství,23985
+2433,Břeclav,zubní lékařství,24803
+2434,Břeclav,zubní lékařství,25184
+2435,Břeclav,zubní lékařství,26548
+2436,Břeclav,zubní lékařství,27677
+2437,Břeclav,zubní lékařství,27693
+2438,Břeclav,zubní lékařství,29186
+2439,Břeclav,zubní lékařství,29263
+2440,Břeclav,zubní lékařství,29846
+2441,Břeclav,zubní lékařství,32198
+2442,Břeclav,zubní lékařství,33662
+2443,Břeclav,zubní lékařství,35817
+2444,Břeclav,zubní lékařství,37463
+2445,Břeclav,zubní lékařství,40460
+2446,Břeclav,zubní lékařství,41680
+2447,Břeclav,zubní lékařství,47666
+2448,Břeclav,zubní lékařství,49288
+2449,Břeclav,zubní lékařství,50706
+2450,Břeclav,zubní lékařství,51096
+2451,Břeclav,zubní lékařství,51097
+2452,Břeclav,zubní lékařství,52123
+2453,Břeclav,zubní lékařství,52129
+2454,Břeclav,zubní lékařství,52132
+2455,Břeclav,zubní lékařství,52133
+2456,Břeclav,zubní lékařství,52134
+2457,Břeclav,zubní lékařství,54718
+2458,Břeclav,zubní lékařství,55669
+2459,Břeclav,zubní lékařství,55677
+2460,Břeclav,zubní lékařství,55679
+2461,Břeclav,zubní lékařství,55686
+2462,Břeclav,zubní lékařství,55687
+2463,Břeclav,zubní lékařství,59840
+2464,Hodonín,Dentální hygienistka,1065
+2465,Hodonín,Dentální hygienistka,3080
+2466,Hodonín,Dentální hygienistka,6067
+2467,Hodonín,Dentální hygienistka,15012
+2468,Hodonín,Dentální hygienistka,15138
+2469,Hodonín,Dentální hygienistka,19806
+2470,Hodonín,Dentální hygienistka,26552
+2471,Hodonín,Dentální hygienistka,35025
+2472,Hodonín,Fyzioterapeut,1337
+2473,Hodonín,Fyzioterapeut,7543
+2474,Hodonín,Fyzioterapeut,10141
+2475,Hodonín,Fyzioterapeut,10142
+2476,Hodonín,Fyzioterapeut,10143
+2477,Hodonín,Fyzioterapeut,10144
+2478,Hodonín,Fyzioterapeut,10149
+2479,Hodonín,Fyzioterapeut,10150
+2480,Hodonín,Fyzioterapeut,10151
+2481,Hodonín,Fyzioterapeut,10152
+2482,Hodonín,Fyzioterapeut,11523
+2483,Hodonín,Fyzioterapeut,13907
+2484,Hodonín,Fyzioterapeut,13908
+2485,Hodonín,Fyzioterapeut,14493
+2486,Hodonín,Fyzioterapeut,18539
+2487,Hodonín,Fyzioterapeut,18540
+2488,Hodonín,Fyzioterapeut,22677
+2489,Hodonín,Fyzioterapeut,22678
+2490,Hodonín,Fyzioterapeut,22679
+2491,Hodonín,Fyzioterapeut,23885
+2492,Hodonín,Fyzioterapeut,26721
+2493,Hodonín,Fyzioterapeut,43521
+2494,Hodonín,Fyzioterapeut,43522
+2495,Hodonín,Fyzioterapeut,43534
+2496,Hodonín,Fyzioterapeut,48654
+2497,Hodonín,Fyzioterapeut,51414
+2498,Hodonín,Fyzioterapeut,53049
+2499,Hodonín,Fyzioterapeut,59929
+2500,Hodonín,Fyzioterapeut,59930
+2501,Hodonín,Fyzioterapeut,60038
+2502,Hodonín,Klinický logoped,2296
+2503,Hodonín,Klinický logoped,6057
+2504,Hodonín,Klinický logoped,46107
+2505,Hodonín,Klinický logoped,47671
+2506,Hodonín,Klinický logoped,48770
+2507,Hodonín,Klinický logoped,59990
+2508,Hodonín,Klinický psycholog,798
+2509,Hodonín,Klinický psycholog,6985
+2510,Hodonín,Klinický psycholog,6992
+2511,Hodonín,Klinický psycholog,7542
+2512,Hodonín,Klinický psycholog,7632
+2513,Hodonín,Klinický psycholog,8902
+2514,Hodonín,Klinický psycholog,21748
+2515,Hodonín,Klinický psycholog,23884
+2516,Hodonín,Klinický psycholog,29969
+2517,Hodonín,Klinický psycholog,32138
+2518,Hodonín,Klinický psycholog,32682
+2519,Hodonín,Klinický psycholog,44919
+2520,Hodonín,chirurgie,770
+2521,Hodonín,chirurgie,9483
+2522,Hodonín,chirurgie,16373
+2523,Hodonín,chirurgie,16374
+2524,Hodonín,chirurgie,16921
+2525,Hodonín,chirurgie,16922
+2526,Hodonín,chirurgie,29689
+2527,Hodonín,chirurgie,35308
+2528,Hodonín,chirurgie,45661
+2529,Hodonín,chirurgie,59951
+2530,Hodonín,chirurgie,59952
+2531,Hodonín,chirurgie,59953
+2532,Hodonín,chirurgie,60018
+2533,Hodonín,chirurgie,60019
+2534,Hodonín,chirurgie,60020
+2535,Hodonín,kardiologie,10432
+2536,Hodonín,kardiologie,10434
+2537,Hodonín,kardiologie,35528
+2538,Hodonín,kardiologie,48771
+2539,Hodonín,kardiologie,59956
+2540,Hodonín,kardiologie,60021
+2541,Hodonín,nefrologie,7218
+2542,Hodonín,nefrologie,60025
+2543,Hodonín,neurologie,27703
+2544,Hodonín,neurologie,30389
+2545,Hodonín,neurologie,31648
+2546,Hodonín,neurologie,31649
+2547,Hodonín,neurologie,35457
+2548,Hodonín,neurologie,50025
+2549,Hodonín,neurologie,59962
+2550,Hodonín,neurologie,59963
+2551,Hodonín,neurologie,60026
+2552,Hodonín,praktické lékařství pro děti a dorost,4303
+2553,Hodonín,praktické lékařství pro děti a dorost,5186
+2554,Hodonín,praktické lékařství pro děti a dorost,5187
+2555,Hodonín,praktické lékařství pro děti a dorost,7810
+2556,Hodonín,praktické lékařství pro děti a dorost,9608
+2557,Hodonín,praktické lékařství pro děti a dorost,14564
+2558,Hodonín,praktické lékařství pro děti a dorost,16207
+2559,Hodonín,praktické lékařství pro děti a dorost,16268
+2560,Hodonín,praktické lékařství pro děti a dorost,16686
+2561,Hodonín,praktické lékařství pro děti a dorost,17073
+2562,Hodonín,praktické lékařství pro děti a dorost,18469
+2563,Hodonín,praktické lékařství pro děti a dorost,18542
+2564,Hodonín,praktické lékařství pro děti a dorost,18543
+2565,Hodonín,praktické lékařství pro děti a dorost,22830
+2566,Hodonín,praktické lékařství pro děti a dorost,22832
+2567,Hodonín,praktické lékařství pro děti a dorost,22834
+2568,Hodonín,praktické lékařství pro děti a dorost,24268
+2569,Hodonín,praktické lékařství pro děti a dorost,25361
+2570,Hodonín,praktické lékařství pro děti a dorost,30222
+2571,Hodonín,praktické lékařství pro děti a dorost,30274
+2572,Hodonín,praktické lékařství pro děti a dorost,30275
+2573,Hodonín,praktické lékařství pro děti a dorost,30505
+2574,Hodonín,praktické lékařství pro děti a dorost,33385
+2575,Hodonín,praktické lékařství pro děti a dorost,35920
+2576,Hodonín,praktické lékařství pro děti a dorost,35983
+2577,Hodonín,praktické lékařství pro děti a dorost,39543
+2578,Hodonín,praktické lékařství pro děti a dorost,39544
+2579,Hodonín,praktické lékařství pro děti a dorost,42851
+2580,Hodonín,praktické lékařství pro děti a dorost,45586
+2581,Hodonín,praktické lékařství pro děti a dorost,45587
+2582,Hodonín,praktické lékařství pro děti a dorost,46116
+2583,Hodonín,praktické lékařství pro děti a dorost,46387
+2584,Hodonín,praktické lékařství pro děti a dorost,46388
+2585,Hodonín,praktické lékařství pro děti a dorost,48773
+2586,Hodonín,praktické lékařství pro děti a dorost,48774
+2587,Hodonín,praktické lékařství pro děti a dorost,51424
+2588,Hodonín,praktické lékařství pro děti a dorost,51425
+2589,Hodonín,praktické lékařství pro děti a dorost,53050
+2590,Hodonín,praktické lékařství pro děti a dorost,53052
+2591,Hodonín,praktické lékařství pro děti a dorost,53054
+2592,Hodonín,praktické lékařství pro děti a dorost,53057
+2593,Hodonín,praktické lékařství pro děti a dorost,53058
+2594,Hodonín,praktické lékařství pro děti a dorost,54137
+2595,Hodonín,praktické lékařství pro děti a dorost,54140
+2596,Hodonín,praktické lékařství pro děti a dorost,54141
+2597,Hodonín,praktické lékařství pro děti a dorost,54142
+2598,Hodonín,praktické lékařství pro děti a dorost,54144
+2599,Hodonín,praktické lékařství pro děti a dorost,59973
+2600,Hodonín,praktické lékařství pro děti a dorost,59974
+2601,Hodonín,praktické lékařství pro děti a dorost,60028
+2602,Hodonín,praktické lékárenství,469
+2603,Hodonín,praktické lékárenství,1666
+2604,Hodonín,praktické lékárenství,2525
+2605,Hodonín,praktické lékárenství,2526
+2606,Hodonín,praktické lékárenství,3333
+2607,Hodonín,praktické lékárenství,3396
+2608,Hodonín,praktické lékárenství,5401
+2609,Hodonín,praktické lékárenství,6148
+2610,Hodonín,praktické lékárenství,11313
+2611,Hodonín,praktické lékárenství,11461
+2612,Hodonín,praktické lékárenství,13421
+2613,Hodonín,praktické lékárenství,13969
+2614,Hodonín,praktické lékárenství,14220
+2615,Hodonín,praktické lékárenství,14519
+2616,Hodonín,praktické lékárenství,14829
+2617,Hodonín,praktické lékárenství,18512
+2618,Hodonín,praktické lékárenství,20257
+2619,Hodonín,praktické lékárenství,21722
+2620,Hodonín,praktické lékárenství,24406
+2621,Hodonín,praktické lékárenství,25495
+2622,Hodonín,praktické lékárenství,25502
+2623,Hodonín,praktické lékárenství,25504
+2624,Hodonín,praktické lékárenství,25509
+2625,Hodonín,praktické lékárenství,25901
+2626,Hodonín,praktické lékárenství,28976
+2627,Hodonín,praktické lékárenství,30420
+2628,Hodonín,praktické lékárenství,33680
+2629,Hodonín,praktické lékárenství,36682
+2630,Hodonín,praktické lékárenství,37358
+2631,Hodonín,praktické lékárenství,37362
+2632,Hodonín,praktické lékárenství,38639
+2633,Hodonín,praktické lékárenství,40577
+2634,Hodonín,praktické lékárenství,40584
+2635,Hodonín,praktické lékárenství,40839
+2636,Hodonín,praktické lékárenství,40919
+2637,Hodonín,praktické lékárenství,42192
+2638,Hodonín,praktické lékárenství,42807
+2639,Hodonín,praktické lékárenství,42808
+2640,Hodonín,praktické lékárenství,42809
+2641,Hodonín,praktické lékárenství,44380
+2642,Hodonín,praktické lékárenství,44895
+2643,Hodonín,praktické lékárenství,45456
+2644,Hodonín,praktické lékárenství,45457
+2645,Hodonín,praktické lékárenství,46249
+2646,Hodonín,praktické lékárenství,48778
+2647,Hodonín,praktické lékárenství,48779
+2648,Hodonín,praktické lékárenství,50023
+2649,Hodonín,praktické lékárenství,55948
+2650,Hodonín,praktické lékárenství,57159
+2651,Hodonín,praktické lékárenství,57545
+2652,Hodonín,praktické lékárenství,60005
+2653,Hodonín,praktické lékárenství,60007
+2654,Hodonín,všeobecné praktické lékařství,669
+2655,Hodonín,všeobecné praktické lékařství,670
+2656,Hodonín,všeobecné praktické lékařství,2992
+2657,Hodonín,všeobecné praktické lékařství,3594
+2658,Hodonín,všeobecné praktické lékařství,3595
+2659,Hodonín,všeobecné praktické lékařství,7956
+2660,Hodonín,všeobecné praktické lékařství,8114
+2661,Hodonín,všeobecné praktické lékařství,8115
+2662,Hodonín,všeobecné praktické lékařství,11785
+2663,Hodonín,všeobecné praktické lékařství,11786
+2664,Hodonín,všeobecné praktické lékařství,11920
+2665,Hodonín,všeobecné praktické lékařství,11921
+2666,Hodonín,všeobecné praktické lékařství,11922
+2667,Hodonín,všeobecné praktické lékařství,11923
+2668,Hodonín,všeobecné praktické lékařství,12862
+2669,Hodonín,všeobecné praktické lékařství,14121
+2670,Hodonín,všeobecné praktické lékařství,14221
+2671,Hodonín,všeobecné praktické lékařství,14222
+2672,Hodonín,všeobecné praktické lékařství,14223
+2673,Hodonín,všeobecné praktické lékařství,14438
+2674,Hodonín,všeobecné praktické lékařství,14439
+2675,Hodonín,všeobecné praktické lékařství,14899
+2676,Hodonín,všeobecné praktické lékařství,16152
+2677,Hodonín,všeobecné praktické lékařství,16677
+2678,Hodonín,všeobecné praktické lékařství,16678
+2679,Hodonín,všeobecné praktické lékařství,16680
+2680,Hodonín,všeobecné praktické lékařství,16681
+2681,Hodonín,všeobecné praktické lékařství,16685
+2682,Hodonín,všeobecné praktické lékařství,18519
+2683,Hodonín,všeobecné praktické lékařství,18520
+2684,Hodonín,všeobecné praktické lékařství,18521
+2685,Hodonín,všeobecné praktické lékařství,18532
+2686,Hodonín,všeobecné praktické lékařství,18533
+2687,Hodonín,všeobecné praktické lékařství,18560
+2688,Hodonín,všeobecné praktické lékařství,18574
+2689,Hodonín,všeobecné praktické lékařství,18575
+2690,Hodonín,všeobecné praktické lékařství,18576
+2691,Hodonín,všeobecné praktické lékařství,18577
+2692,Hodonín,všeobecné praktické lékařství,18587
+2693,Hodonín,všeobecné praktické lékařství,20073
+2694,Hodonín,všeobecné praktické lékařství,20074
+2695,Hodonín,všeobecné praktické lékařství,20323
+2696,Hodonín,všeobecné praktické lékařství,20984
+2697,Hodonín,všeobecné praktické lékařství,21481
+2698,Hodonín,všeobecné praktické lékařství,21483
+2699,Hodonín,všeobecné praktické lékařství,22109
+2700,Hodonín,všeobecné praktické lékařství,22155
+2701,Hodonín,všeobecné praktické lékařství,22864
+2702,Hodonín,všeobecné praktické lékařství,22865
+2703,Hodonín,všeobecné praktické lékařství,23179
+2704,Hodonín,všeobecné praktické lékařství,23180
+2705,Hodonín,všeobecné praktické lékařství,23181
+2706,Hodonín,všeobecné praktické lékařství,23182
+2707,Hodonín,všeobecné praktické lékařství,23185
+2708,Hodonín,všeobecné praktické lékařství,23843
+2709,Hodonín,všeobecné praktické lékařství,23851
+2710,Hodonín,všeobecné praktické lékařství,24140
+2711,Hodonín,všeobecné praktické lékařství,24141
+2712,Hodonín,všeobecné praktické lékařství,25114
+2713,Hodonín,všeobecné praktické lékařství,25401
+2714,Hodonín,všeobecné praktické lékařství,25557
+2715,Hodonín,všeobecné praktické lékařství,26421
+2716,Hodonín,všeobecné praktické lékařství,26566
+2717,Hodonín,všeobecné praktické lékařství,26676
+2718,Hodonín,všeobecné praktické lékařství,26677
+2719,Hodonín,všeobecné praktické lékařství,27434
+2720,Hodonín,všeobecné praktické lékařství,27503
+2721,Hodonín,všeobecné praktické lékařství,27505
+2722,Hodonín,všeobecné praktické lékařství,27688
+2723,Hodonín,všeobecné praktické lékařství,27851
+2724,Hodonín,všeobecné praktické lékařství,28334
+2725,Hodonín,všeobecné praktické lékařství,28338
+2726,Hodonín,všeobecné praktické lékařství,29065
+2727,Hodonín,všeobecné praktické lékařství,29966
+2728,Hodonín,všeobecné praktické lékařství,30277
+2729,Hodonín,všeobecné praktické lékařství,30339
+2730,Hodonín,všeobecné praktické lékařství,30340
+2731,Hodonín,všeobecné praktické lékařství,30343
+2732,Hodonín,všeobecné praktické lékařství,30344
+2733,Hodonín,všeobecné praktické lékařství,30346
+2734,Hodonín,všeobecné praktické lékařství,31674
+2735,Hodonín,všeobecné praktické lékařství,32179
+2736,Hodonín,všeobecné praktické lékařství,33518
+2737,Hodonín,všeobecné praktické lékařství,35778
+2738,Hodonín,všeobecné praktické lékařství,40988
+2739,Hodonín,všeobecné praktické lékařství,42697
+2740,Hodonín,všeobecné praktické lékařství,42698
+2741,Hodonín,všeobecné praktické lékařství,45757
+2742,Hodonín,všeobecné praktické lékařství,45758
+2743,Hodonín,všeobecné praktické lékařství,46376
+2744,Hodonín,všeobecné praktické lékařství,46657
+2745,Hodonín,všeobecné praktické lékařství,48655
+2746,Hodonín,všeobecné praktické lékařství,48656
+2747,Hodonín,všeobecné praktické lékařství,48658
+2748,Hodonín,všeobecné praktické lékařství,48659
+2749,Hodonín,všeobecné praktické lékařství,50022
+2750,Hodonín,všeobecné praktické lékařství,51394
+2751,Hodonín,všeobecné praktické lékařství,51397
+2752,Hodonín,všeobecné praktické lékařství,51398
+2753,Hodonín,všeobecné praktické lékařství,51406
+2754,Hodonín,všeobecné praktické lékařství,51407
+2755,Hodonín,všeobecné praktické lékařství,51409
+2756,Hodonín,všeobecné praktické lékařství,53051
+2757,Hodonín,všeobecné praktické lékařství,53053
+2758,Hodonín,všeobecné praktické lékařství,54134
+2759,Hodonín,všeobecné praktické lékařství,54135
+2760,Hodonín,všeobecné praktické lékařství,54138
+2761,Hodonín,všeobecné praktické lékařství,54139
+2762,Hodonín,všeobecné praktické lékařství,54143
+2763,Hodonín,všeobecné praktické lékařství,54148
+2764,Hodonín,všeobecné praktické lékařství,54149
+2765,Hodonín,všeobecné praktické lékařství,54827
+2766,Hodonín,všeobecné praktické lékařství,54828
+2767,Hodonín,všeobecné praktické lékařství,54829
+2768,Hodonín,všeobecné praktické lékařství,54830
+2769,Hodonín,všeobecné praktické lékařství,59986
+2770,Hodonín,všeobecné praktické lékařství,59987
+2771,Hodonín,všeobecné praktické lékařství,60035
+2772,Hodonín,všeobecné praktické lékařství,60036
+2773,Hodonín,zubní lékařství,693
+2774,Hodonín,zubní lékařství,1852
+2775,Hodonín,zubní lékařství,2999
+2776,Hodonín,zubní lékařství,3000
+2777,Hodonín,zubní lékařství,3402
+2778,Hodonín,zubní lékařství,5196
+2779,Hodonín,zubní lékařství,6325
+2780,Hodonín,zubní lékařství,7559
+2781,Hodonín,zubní lékařství,8243
+2782,Hodonín,zubní lékařství,10682
+2783,Hodonín,zubní lékařství,13602
+2784,Hodonín,zubní lékařství,14225
+2785,Hodonín,zubní lékařství,14592
+2786,Hodonín,zubní lékařství,15003
+2787,Hodonín,zubní lékařství,15137
+2788,Hodonín,zubní lékařství,15140
+2789,Hodonín,zubní lékařství,16287
+2790,Hodonín,zubní lékařství,17911
+2791,Hodonín,zubní lékařství,18399
+2792,Hodonín,zubní lékařství,18536
+2793,Hodonín,zubní lékařství,18580
+2794,Hodonín,zubní lékařství,23247
+2795,Hodonín,zubní lékařství,23443
+2796,Hodonín,zubní lékařství,23498
+2797,Hodonín,zubní lékařství,23881
+2798,Hodonín,zubní lékařství,23977
+2799,Hodonín,zubní lékařství,23981
+2800,Hodonín,zubní lékařství,24815
+2801,Hodonín,zubní lékařství,26174
+2802,Hodonín,zubní lékařství,26387
+2803,Hodonín,zubní lékařství,26521
+2804,Hodonín,zubní lékařství,26551
+2805,Hodonín,zubní lékařství,29699
+2806,Hodonín,zubní lékařství,30205
+2807,Hodonín,zubní lékařství,31688
+2808,Hodonín,zubní lékařství,32109
+2809,Hodonín,zubní lékařství,32167
+2810,Hodonín,zubní lékařství,32184
+2811,Hodonín,zubní lékařství,32193
+2812,Hodonín,zubní lékařství,32206
+2813,Hodonín,zubní lékařství,35024
+2814,Hodonín,zubní lékařství,35458
+2815,Hodonín,zubní lékařství,35890
+2816,Hodonín,zubní lékařství,37619
+2817,Hodonín,zubní lékařství,38111
+2818,Hodonín,zubní lékařství,39725
+2819,Hodonín,zubní lékařství,41638
+2820,Hodonín,zubní lékařství,42351
+2821,Hodonín,zubní lékařství,43579
+2822,Hodonín,zubní lékařství,46854
+2823,Hodonín,zubní lékařství,47449
+2824,Hodonín,zubní lékařství,47670
+2825,Hodonín,zubní lékařství,48192
+2826,Hodonín,zubní lékařství,48653
+2827,Hodonín,zubní lékařství,48657
+2828,Hodonín,zubní lékařství,50014
+2829,Hodonín,zubní lékařství,50016
+2830,Hodonín,zubní lékařství,50018
+2831,Hodonín,zubní lékařství,50019
+2832,Hodonín,zubní lékařství,50020
+2833,Hodonín,zubní lékařství,50021
+2834,Hodonín,zubní lékařství,51395
+2835,Hodonín,zubní lékařství,51399
+2836,Hodonín,zubní lékařství,51408
+2837,Hodonín,zubní lékařství,51410
+2838,Hodonín,zubní lékařství,51415
+2839,Hodonín,zubní lékařství,51416
+2840,Hodonín,zubní lékařství,51417
+2841,Hodonín,zubní lékařství,51418
+2842,Hodonín,zubní lékařství,51419
+2843,Hodonín,zubní lékařství,51420
+2844,Hodonín,zubní lékařství,51421
+2845,Hodonín,zubní lékařství,51422
+2846,Hodonín,zubní lékařství,51426
+2847,Hodonín,zubní lékařství,51427
+2848,Hodonín,zubní lékařství,51428
+2849,Hodonín,zubní lékařství,53055
+2850,Hodonín,zubní lékařství,53056
+2851,Hodonín,zubní lékařství,54084
+2852,Hodonín,zubní lékařství,54136
+2853,Hodonín,zubní lékařství,54147
+2854,Hodonín,zubní lékařství,54715
+2855,Hodonín,zubní lékařství,54808
+2856,Hodonín,zubní lékařství,54824
+2857,Hodonín,zubní lékařství,54825
+2858,Hodonín,zubní lékařství,54826
+2859,Hodonín,zubní lékařství,54831
+2860,Hodonín,zubní lékařství,58033
+2861,Hodonín,zubní lékařství,59988
+2862,Hodonín,zubní lékařství,59989
+2863,Vyškov,Dentální hygienistka,3234
+2864,Vyškov,Dentální hygienistka,6139
+2865,Vyškov,Fyzioterapeut,1149
+2866,Vyškov,Fyzioterapeut,2237
+2867,Vyškov,Fyzioterapeut,2453
+2868,Vyškov,Fyzioterapeut,3405
+2869,Vyškov,Fyzioterapeut,5703
+2870,Vyškov,Fyzioterapeut,6460
+2871,Vyškov,Fyzioterapeut,12241
+2872,Vyškov,Fyzioterapeut,12264
+2873,Vyškov,Fyzioterapeut,12400
+2874,Vyškov,Fyzioterapeut,12836
+2875,Vyškov,Fyzioterapeut,15139
+2876,Vyškov,Fyzioterapeut,28594
+2877,Vyškov,Fyzioterapeut,34715
+2878,Vyškov,Fyzioterapeut,38777
+2879,Vyškov,Fyzioterapeut,40582
+2880,Vyškov,Fyzioterapeut,51430
+2881,Vyškov,Fyzioterapeut,58943
+2882,Vyškov,Klinický logoped,548
+2883,Vyškov,Klinický logoped,549
+2884,Vyškov,Klinický logoped,5109
+2885,Vyškov,Klinický logoped,5110
+2886,Vyškov,Klinický logoped,5111
+2887,Vyškov,Klinický logoped,5113
+2888,Vyškov,Klinický logoped,45747
+2889,Vyškov,Klinický psycholog,20284
+2890,Vyškov,Klinický psycholog,27414
+2891,Vyškov,Klinický psycholog,27415
+2892,Vyškov,Klinický psycholog,58942
+2893,Vyškov,chirurgie,2951
+2894,Vyškov,chirurgie,2952
+2895,Vyškov,chirurgie,31505
+2896,Vyškov,chirurgie,58920
+2897,Vyškov,chirurgie,58921
+2898,Vyškov,chirurgie,58948
+2899,Vyškov,kardiologie,57154
+2900,Vyškov,nefrologie,2447
+2901,Vyškov,nefrologie,2448
+2902,Vyškov,nefrologie,2450
+2903,Vyškov,nefrologie,2451
+2904,Vyškov,nefrologie,7535
+2905,Vyškov,nefrologie,28743
+2906,Vyškov,nefrologie,58935
+2907,Vyškov,neurologie,19299
+2908,Vyškov,neurologie,19300
+2909,Vyškov,neurologie,25605
+2910,Vyškov,neurologie,27078
+2911,Vyškov,neurologie,39686
+2912,Vyškov,neurologie,51347
+2913,Vyškov,neurologie,51348
+2914,Vyškov,neurologie,58924
+2915,Vyškov,neurologie,58925
+2916,Vyškov,neurologie,58950
+2917,Vyškov,praktické lékařství pro děti a dorost,2851
+2918,Vyškov,praktické lékařství pro děti a dorost,4640
+2919,Vyškov,praktické lékařství pro děti a dorost,4645
+2920,Vyškov,praktické lékařství pro děti a dorost,10281
+2921,Vyškov,praktické lékařství pro děti a dorost,11499
+2922,Vyškov,praktické lékařství pro děti a dorost,14828
+2923,Vyškov,praktické lékařství pro děti a dorost,25657
+2924,Vyškov,praktické lékařství pro děti a dorost,27177
+2925,Vyškov,praktické lékařství pro děti a dorost,29324
+2926,Vyškov,praktické lékařství pro děti a dorost,44759
+2927,Vyškov,praktické lékařství pro děti a dorost,47680
+2928,Vyškov,praktické lékařství pro děti a dorost,47681
+2929,Vyškov,praktické lékařství pro děti a dorost,51323
+2930,Vyškov,praktické lékařství pro děti a dorost,51324
+2931,Vyškov,praktické lékařství pro děti a dorost,51343
+2932,Vyškov,praktické lékařství pro děti a dorost,54093
+2933,Vyškov,praktické lékařství pro děti a dorost,54094
+2934,Vyškov,praktické lékařství pro děti a dorost,54113
+2935,Vyškov,praktické lékařství pro děti a dorost,54115
+2936,Vyškov,praktické lékárenství,3579
+2937,Vyškov,praktické lékárenství,5780
+2938,Vyškov,praktické lékárenství,6137
+2939,Vyškov,praktické lékárenství,7143
+2940,Vyškov,praktické lékárenství,10776
+2941,Vyškov,praktické lékárenství,13596
+2942,Vyškov,praktické lékárenství,16199
+2943,Vyškov,praktické lékárenství,20248
+2944,Vyškov,praktické lékárenství,21724
+2945,Vyškov,praktické lékárenství,25056
+2946,Vyškov,praktické lékárenství,25489
+2947,Vyškov,praktické lékárenství,25503
+2948,Vyškov,praktické lékárenství,25875
+2949,Vyškov,praktické lékárenství,25892
+2950,Vyškov,praktické lékárenství,28478
+2951,Vyškov,praktické lékárenství,33257
+2952,Vyškov,praktické lékárenství,34970
+2953,Vyškov,praktické lékárenství,40683
+2954,Vyškov,praktické lékárenství,50709
+2955,Vyškov,praktické lékárenství,50714
+2956,Vyškov,praktické lékárenství,51329
+2957,Vyškov,praktické lékárenství,51334
+2958,Vyškov,praktické lékárenství,58957
+2959,Vyškov,všeobecné praktické lékařství,2292
+2960,Vyškov,všeobecné praktické lékařství,2945
+2961,Vyškov,všeobecné praktické lékařství,4641
+2962,Vyškov,všeobecné praktické lékařství,5225
+2963,Vyškov,všeobecné praktické lékařství,5226
+2964,Vyškov,všeobecné praktické lékařství,5504
+2965,Vyškov,všeobecné praktické lékařství,7117
+2966,Vyškov,všeobecné praktické lékařství,7270
+2967,Vyškov,všeobecné praktické lékařství,9599
+2968,Vyškov,všeobecné praktické lékařství,11311
+2969,Vyškov,všeobecné praktické lékařství,11312
+2970,Vyškov,všeobecné praktické lékařství,11377
+2971,Vyškov,všeobecné praktické lékařství,11452
+2972,Vyškov,všeobecné praktické lékařství,12272
+2973,Vyškov,všeobecné praktické lékařství,12413
+2974,Vyškov,všeobecné praktické lékařství,13905
+2975,Vyškov,všeobecné praktické lékařství,13954
+2976,Vyškov,všeobecné praktické lékařství,13955
+2977,Vyškov,všeobecné praktické lékařství,14227
+2978,Vyškov,všeobecné praktické lékařství,17907
+2979,Vyškov,všeobecné praktické lékařství,21108
+2980,Vyškov,všeobecné praktické lékařství,24864
+2981,Vyškov,všeobecné praktické lékařství,25160
+2982,Vyškov,všeobecné praktické lékařství,25485
+2983,Vyškov,všeobecné praktické lékařství,26554
+2984,Vyškov,všeobecné praktické lékařství,26555
+2985,Vyškov,všeobecné praktické lékařství,26557
+2986,Vyškov,všeobecné praktické lékařství,27705
+2987,Vyškov,všeobecné praktické lékařství,29323
+2988,Vyškov,všeobecné praktické lékařství,30278
+2989,Vyškov,všeobecné praktické lékařství,30508
+2990,Vyškov,všeobecné praktické lékařství,33575
+2991,Vyškov,všeobecné praktické lékařství,33576
+2992,Vyškov,všeobecné praktické lékařství,39201
+2993,Vyškov,všeobecné praktické lékařství,39202
+2994,Vyškov,všeobecné praktické lékařství,43547
+2995,Vyškov,všeobecné praktické lékařství,43548
+2996,Vyškov,všeobecné praktické lékařství,44898
+2997,Vyškov,všeobecné praktické lékařství,45761
+2998,Vyškov,všeobecné praktické lékařství,46837
+2999,Vyškov,všeobecné praktické lékařství,51327
+3000,Vyškov,všeobecné praktické lékařství,51342
+3001,Vyškov,všeobecné praktické lékařství,54097
+3002,Vyškov,všeobecné praktické lékařství,54105
+3003,Vyškov,všeobecné praktické lékařství,54106
+3004,Vyškov,všeobecné praktické lékařství,54107
+3005,Vyškov,všeobecné praktické lékařství,54108
+3006,Vyškov,všeobecné praktické lékařství,54109
+3007,Vyškov,všeobecné praktické lékařství,54110
+3008,Vyškov,všeobecné praktické lékařství,54111
+3009,Vyškov,všeobecné praktické lékařství,54119
+3010,Vyškov,všeobecné praktické lékařství,54120
+3011,Vyškov,všeobecné praktické lékařství,56798
+3012,Vyškov,všeobecné praktické lékařství,58934
+3013,Vyškov,zubní lékařství,896
+3014,Vyškov,zubní lékařství,2236
+3015,Vyškov,zubní lékařství,2791
+3016,Vyškov,zubní lékařství,13273
+3017,Vyškov,zubní lékařství,13917
+3018,Vyškov,zubní lékařství,18506
+3019,Vyškov,zubní lékařství,18511
+3020,Vyškov,zubní lékařství,19242
+3021,Vyškov,zubní lékařství,19996
+3022,Vyškov,zubní lékařství,20107
+3023,Vyškov,zubní lékařství,20114
+3024,Vyškov,zubní lékařství,20131
+3025,Vyškov,zubní lékařství,20767
+3026,Vyškov,zubní lékařství,23817
+3027,Vyškov,zubní lékařství,23880
+3028,Vyškov,zubní lékařství,24885
+3029,Vyškov,zubní lékařství,24891
+3030,Vyškov,zubní lékařství,26615
+3031,Vyškov,zubní lékařství,33765
+3032,Vyškov,zubní lékařství,45565
+3033,Vyškov,zubní lékařství,47679
+3034,Vyškov,zubní lékařství,51319
+3035,Vyškov,zubní lékařství,51344
+3036,Vyškov,zubní lékařství,51345
+3037,Vyškov,zubní lékařství,51346
+3038,Vyškov,zubní lékařství,54098
+3039,Vyškov,zubní lékařství,54102
+3040,Vyškov,zubní lékařství,54103
+3041,Vyškov,zubní lékařství,54112
+3042,Vyškov,zubní lékařství,54114
+3043,Vyškov,zubní lékařství,54116
+3044,Vyškov,zubní lékařství,54117
+3045,Vyškov,zubní lékařství,54118
+3046,Vyškov,zubní lékařství,58941
+3047,Znojmo,Dentální hygienistka,9429
+3048,Znojmo,Dentální hygienistka,11005
+3049,Znojmo,Dentální hygienistka,13275
+3050,Znojmo,Dentální hygienistka,20326
+3051,Znojmo,Dentální hygienistka,25617
+3052,Znojmo,Dentální hygienistka,30656
+3053,Znojmo,Dentální hygienistka,35102
+3054,Znojmo,Fyzioterapeut,2813
+3055,Znojmo,Fyzioterapeut,3076
+3056,Znojmo,Fyzioterapeut,3077
+3057,Znojmo,Fyzioterapeut,3875
+3058,Znojmo,Fyzioterapeut,4263
+3059,Znojmo,Fyzioterapeut,4267
+3060,Znojmo,Fyzioterapeut,4307
+3061,Znojmo,Fyzioterapeut,4734
+3062,Znojmo,Fyzioterapeut,5500
+3063,Znojmo,Fyzioterapeut,8909
+3064,Znojmo,Fyzioterapeut,11146
+3065,Znojmo,Fyzioterapeut,14014
+3066,Znojmo,Fyzioterapeut,14525
+3067,Znojmo,Fyzioterapeut,14526
+3068,Znojmo,Fyzioterapeut,14527
+3069,Znojmo,Fyzioterapeut,17227
+3070,Znojmo,Fyzioterapeut,22712
+3071,Znojmo,Fyzioterapeut,22713
+3072,Znojmo,Fyzioterapeut,24381
+3073,Znojmo,Fyzioterapeut,30298
+3074,Znojmo,Fyzioterapeut,44918
+3075,Znojmo,Fyzioterapeut,47683
+3076,Znojmo,Fyzioterapeut,60779
+3077,Znojmo,Fyzioterapeut,60780
+3078,Znojmo,Fyzioterapeut,60781
+3079,Znojmo,Fyzioterapeut,60852
+3080,Znojmo,Fyzioterapeut,60853
+3081,Znojmo,Fyzioterapeut,60854
+3082,Znojmo,Klinický logoped,17226
+3083,Znojmo,Klinický logoped,31876
+3084,Znojmo,Klinický logoped,48181
+3085,Znojmo,Klinický logoped,55858
+3086,Znojmo,Klinický logoped,60771
+3087,Znojmo,Klinický logoped,60870
+3088,Znojmo,Klinický psycholog,15031
+3089,Znojmo,Klinický psycholog,22710
+3090,Znojmo,Klinický psycholog,22711
+3091,Znojmo,Klinický psycholog,33394
+3092,Znojmo,Klinický psycholog,60772
+3093,Znojmo,Klinický psycholog,60866
+3094,Znojmo,chirurgie,1562
+3095,Znojmo,chirurgie,14593
+3096,Znojmo,chirurgie,24479
+3097,Znojmo,chirurgie,30186
+3098,Znojmo,chirurgie,30187
+3099,Znojmo,chirurgie,41522
+3100,Znojmo,chirurgie,45116
+3101,Znojmo,chirurgie,60802
+3102,Znojmo,chirurgie,60803
+3103,Znojmo,chirurgie,60804
+3104,Znojmo,chirurgie,60805
+3105,Znojmo,kardiologie,14580
+3106,Znojmo,kardiologie,25010
+3107,Znojmo,kardiologie,31000
+3108,Znojmo,kardiologie,32404
+3109,Znojmo,kardiologie,60806
+3110,Znojmo,lékařská genetika,12939
+3111,Znojmo,nefrologie,24797
+3112,Znojmo,nefrologie,60812
+3113,Znojmo,neurologie,934
+3114,Znojmo,neurologie,1714
+3115,Znojmo,neurologie,9412
+3116,Znojmo,neurologie,11600
+3117,Znojmo,neurologie,25555
+3118,Znojmo,neurologie,31508
+3119,Znojmo,neurologie,60813
+3120,Znojmo,neurologie,60814
+3121,Znojmo,praktické lékařství pro děti a dorost,19085
+3122,Znojmo,praktické lékařství pro děti a dorost,22998
+3123,Znojmo,praktické lékařství pro děti a dorost,22999
+3124,Znojmo,praktické lékařství pro děti a dorost,24914
+3125,Znojmo,praktické lékařství pro děti a dorost,24917
+3126,Znojmo,praktické lékařství pro děti a dorost,24967
+3127,Znojmo,praktické lékařství pro děti a dorost,25083
+3128,Znojmo,praktické lékařství pro děti a dorost,29196
+3129,Znojmo,praktické lékařství pro děti a dorost,29198
+3130,Znojmo,praktické lékařství pro děti a dorost,29200
+3131,Znojmo,praktické lékařství pro děti a dorost,29203
+3132,Znojmo,praktické lékařství pro děti a dorost,40835
+3133,Znojmo,praktické lékařství pro děti a dorost,55857
+3134,Znojmo,praktické lékařství pro děti a dorost,55862
+3135,Znojmo,praktické lékařství pro děti a dorost,55865
+3136,Znojmo,praktické lékařství pro děti a dorost,55867
+3137,Znojmo,praktické lékařství pro děti a dorost,55880
+3138,Znojmo,praktické lékařství pro děti a dorost,55881
+3139,Znojmo,praktické lékařství pro děti a dorost,55882
+3140,Znojmo,praktické lékařství pro děti a dorost,55887
+3141,Znojmo,praktické lékárenství,18
+3142,Znojmo,praktické lékárenství,3094
+3143,Znojmo,praktické lékárenství,3549
+3144,Znojmo,praktické lékárenství,5093
+3145,Znojmo,praktické lékárenství,6151
+3146,Znojmo,praktické lékárenství,10775
+3147,Znojmo,praktické lékárenství,12298
+3148,Znojmo,praktické lékárenství,14713
+3149,Znojmo,praktické lékárenství,14842
+3150,Znojmo,praktické lékárenství,16356
+3151,Znojmo,praktické lékárenství,17429
+3152,Znojmo,praktické lékárenství,25012
+3153,Znojmo,praktické lékárenství,25887
+3154,Znojmo,praktické lékárenství,27417
+3155,Znojmo,praktické lékárenství,30390
+3156,Znojmo,praktické lékárenství,34712
+3157,Znojmo,praktické lékárenství,35924
+3158,Znojmo,praktické lékárenství,35925
+3159,Znojmo,praktické lékárenství,36688
+3160,Znojmo,praktické lékárenství,38730
+3161,Znojmo,praktické lékárenství,41060
+3162,Znojmo,praktické lékárenství,42803
+3163,Znojmo,praktické lékárenství,43080
+3164,Znojmo,praktické lékárenství,48180
+3165,Znojmo,praktické lékárenství,49267
+3166,Znojmo,praktické lékárenství,49268
+3167,Znojmo,praktické lékárenství,50343
+3168,Znojmo,praktické lékárenství,51862
+3169,Znojmo,všeobecné praktické lékařství,562
+3170,Znojmo,všeobecné praktické lékařství,5238
+3171,Znojmo,všeobecné praktické lékařství,14895
+3172,Znojmo,všeobecné praktické lékařství,14923
+3173,Znojmo,všeobecné praktické lékařství,15156
+3174,Znojmo,všeobecné praktické lékařství,15157
+3175,Znojmo,všeobecné praktické lékařství,15158
+3176,Znojmo,všeobecné praktické lékařství,15159
+3177,Znojmo,všeobecné praktické lékařství,15162
+3178,Znojmo,všeobecné praktické lékařství,15163
+3179,Znojmo,všeobecné praktické lékařství,15164
+3180,Znojmo,všeobecné praktické lékařství,15165
+3181,Znojmo,všeobecné praktické lékařství,16154
+3182,Znojmo,všeobecné praktické lékařství,16155
+3183,Znojmo,všeobecné praktické lékařství,16475
+3184,Znojmo,všeobecné praktické lékařství,16476
+3185,Znojmo,všeobecné praktické lékařství,17208
+3186,Znojmo,všeobecné praktické lékařství,18541
+3187,Znojmo,všeobecné praktické lékařství,20108
+3188,Znojmo,všeobecné praktické lékařství,20729
+3189,Znojmo,všeobecné praktické lékařství,20733
+3190,Znojmo,všeobecné praktické lékařství,20734
+3191,Znojmo,všeobecné praktické lékařství,20963
+3192,Znojmo,všeobecné praktické lékařství,20964
+3193,Znojmo,všeobecné praktické lékařství,20982
+3194,Znojmo,všeobecné praktické lékařství,23839
+3195,Znojmo,všeobecné praktické lékařství,24666
+3196,Znojmo,všeobecné praktické lékařství,24667
+3197,Znojmo,všeobecné praktické lékařství,25140
+3198,Znojmo,všeobecné praktické lékařství,25149
+3199,Znojmo,všeobecné praktické lékařství,25196
+3200,Znojmo,všeobecné praktické lékařství,25257
+3201,Znojmo,všeobecné praktické lékařství,25607
+3202,Znojmo,všeobecné praktické lékařství,25609
+3203,Znojmo,všeobecné praktické lékařství,25611
+3204,Znojmo,všeobecné praktické lékařství,25612
+3205,Znojmo,všeobecné praktické lékařství,25686
+3206,Znojmo,všeobecné praktické lékařství,25687
+3207,Znojmo,všeobecné praktické lékařství,25688
+3208,Znojmo,všeobecné praktické lékařství,25689
+3209,Znojmo,všeobecné praktické lékařství,25691
+3210,Znojmo,všeobecné praktické lékařství,25692
+3211,Znojmo,všeobecné praktické lékařství,25747
+3212,Znojmo,všeobecné praktické lékařství,26188
+3213,Znojmo,všeobecné praktické lékařství,26194
+3214,Znojmo,všeobecné praktické lékařství,26560
+3215,Znojmo,všeobecné praktické lékařství,26999
+3216,Znojmo,všeobecné praktické lékařství,27001
+3217,Znojmo,všeobecné praktické lékařství,27509
+3218,Znojmo,všeobecné praktické lékařství,28988
+3219,Znojmo,všeobecné praktické lékařství,29023
+3220,Znojmo,všeobecné praktické lékařství,29044
+3221,Znojmo,všeobecné praktické lékařství,29045
+3222,Znojmo,všeobecné praktické lékařství,29195
+3223,Znojmo,všeobecné praktické lékařství,29197
+3224,Znojmo,všeobecné praktické lékařství,29199
+3225,Znojmo,všeobecné praktické lékařství,29202
+3226,Znojmo,všeobecné praktické lékařství,30139
+3227,Znojmo,všeobecné praktické lékařství,30179
+3228,Znojmo,všeobecné praktické lékařství,30180
+3229,Znojmo,všeobecné praktické lékařství,30388
+3230,Znojmo,všeobecné praktické lékařství,30584
+3231,Znojmo,všeobecné praktické lékařství,30585
+3232,Znojmo,všeobecné praktické lékařství,30998
+3233,Znojmo,všeobecné praktické lékařství,31001
+3234,Znojmo,všeobecné praktické lékařství,31147
+3235,Znojmo,všeobecné praktické lékařství,31148
+3236,Znojmo,všeobecné praktické lékařství,31241
+3237,Znojmo,všeobecné praktické lékařství,32117
+3238,Znojmo,všeobecné praktické lékařství,32118
+3239,Znojmo,všeobecné praktické lékařství,32122
+3240,Znojmo,všeobecné praktické lékařství,32123
+3241,Znojmo,všeobecné praktické lékařství,32124
+3242,Znojmo,všeobecné praktické lékařství,32125
+3243,Znojmo,všeobecné praktické lékařství,32809
+3244,Znojmo,všeobecné praktické lékařství,34024
+3245,Znojmo,všeobecné praktické lékařství,34025
+3246,Znojmo,všeobecné praktické lékařství,35083
+3247,Znojmo,všeobecné praktické lékařství,41626
+3248,Znojmo,všeobecné praktické lékařství,41628
+3249,Znojmo,všeobecné praktické lékařství,55856
+3250,Znojmo,všeobecné praktické lékařství,55860
+3251,Znojmo,všeobecné praktické lékařství,55877
+3252,Znojmo,všeobecné praktické lékařství,55878
+3253,Znojmo,všeobecné praktické lékařství,55886
+3254,Znojmo,všeobecné praktické lékařství,55890
+3255,Znojmo,všeobecné praktické lékařství,55900
+3256,Znojmo,všeobecné praktické lékařství,55905
+3257,Znojmo,všeobecné praktické lékařství,55907
+3258,Znojmo,všeobecné praktické lékařství,55912
+3259,Znojmo,všeobecné praktické lékařství,60844
+3260,Znojmo,všeobecné praktické lékařství,60845
+3261,Znojmo,zubní lékařství,1360
+3262,Znojmo,zubní lékařství,4636
+3263,Znojmo,zubní lékařství,4649
+3264,Znojmo,zubní lékařství,8235
+3265,Znojmo,zubní lékařství,8324
+3266,Znojmo,zubní lékařství,11223
+3267,Znojmo,zubní lékařství,12268
+3268,Znojmo,zubní lékařství,12403
+3269,Znojmo,zubní lékařství,13274
+3270,Znojmo,zubní lékařství,13403
+3271,Znojmo,zubní lékařství,14660
+3272,Znojmo,zubní lékařství,14901
+3273,Znojmo,zubní lékařství,14924
+3274,Znojmo,zubní lékařství,14948
+3275,Znojmo,zubní lékařství,16286
+3276,Znojmo,zubní lékařství,20324
+3277,Znojmo,zubní lékařství,21310
+3278,Znojmo,zubní lékařství,25341
+3279,Znojmo,zubní lékařství,25616
+3280,Znojmo,zubní lékařství,25742
+3281,Znojmo,zubní lékařství,27420
+3282,Znojmo,zubní lékařství,27423
+3283,Znojmo,zubní lékařství,27432
+3284,Znojmo,zubní lékařství,28479
+3285,Znojmo,zubní lékařství,28480
+3286,Znojmo,zubní lékařství,29967
+3287,Znojmo,zubní lékařství,30194
+3288,Znojmo,zubní lékařství,30201
+3289,Znojmo,zubní lékařství,30655
+3290,Znojmo,zubní lékařství,31454
+3291,Znojmo,zubní lékařství,32136
+3292,Znojmo,zubní lékařství,32137
+3293,Znojmo,zubní lékařství,34390
+3294,Znojmo,zubní lékařství,40199
+3295,Znojmo,zubní lékařství,40396
+3296,Znojmo,zubní lékařství,40399
+3297,Znojmo,zubní lékařství,41462
+3298,Znojmo,zubní lékařství,44618
+3299,Znojmo,zubní lékařství,45476
+3300,Znojmo,zubní lékařství,46665
+3301,Znojmo,zubní lékařství,48652
+3302,Znojmo,zubní lékařství,49310
+3303,Znojmo,zubní lékařství,55855
+3304,Znojmo,zubní lékařství,55859
+3305,Znojmo,zubní lékařství,55863
+3306,Znojmo,zubní lékařství,55879
+3307,Znojmo,zubní lékařství,55885
+3308,Znojmo,zubní lékařství,55891
+3309,Znojmo,zubní lékařství,55892
+3310,Znojmo,zubní lékařství,55893
+3311,Znojmo,zubní lékařství,55895
+3312,Znojmo,zubní lékařství,55896
+3313,Znojmo,zubní lékařství,55897
+3314,Znojmo,zubní lékařství,55898
+3315,Znojmo,zubní lékařství,55899
+3316,Znojmo,zubní lékařství,55901
+3317,Znojmo,zubní lékařství,55902
+3318,Znojmo,zubní lékařství,55903
+3319,Znojmo,zubní lékařství,55904
+3320,Znojmo,zubní lékařství,55906
+3321,Znojmo,zubní lékařství,55908
+3322,Znojmo,zubní lékařství,55909
+3323,Znojmo,zubní lékařství,55910

@@ -1,0 +1,5150 @@
+,Domain,Facility_ID,DateFrom
+0,Dentální hygienistka,553,2021-07-01
+1,Dentální hygienistka,715,2021-05-21
+2,Dentální hygienistka,2627,2021-01-01
+3,Dentální hygienistka,4698,2020-03-02
+4,Dentální hygienistka,4699,2020-03-02
+5,Dentální hygienistka,6091,2019-09-01
+6,Dentální hygienistka,7972,2018-11-26
+7,Dentální hygienistka,11040,2017-12-08
+8,Dentální hygienistka,20737,2015-04-12
+9,Dentální hygienistka,21598,2015-03-01
+10,Dentální hygienistka,28199,2013-01-01
+11,Dentální hygienistka,38827,2007-06-01
+12,Dentální hygienistka,54475,1993-01-01
+13,Fyzioterapeut,1709,2021-01-01
+14,Fyzioterapeut,2788,2020-10-01
+15,Fyzioterapeut,3550,2020-05-07
+16,Fyzioterapeut,6419,2019-05-01
+17,Fyzioterapeut,6420,2019-05-01
+18,Fyzioterapeut,6421,2019-05-01
+19,Fyzioterapeut,6422,2019-05-01
+20,Fyzioterapeut,6436,2019-07-01
+21,Fyzioterapeut,6437,2019-07-01
+22,Fyzioterapeut,9441,2018-05-15
+23,Fyzioterapeut,13182,2017-01-01
+24,Fyzioterapeut,17055,2016-03-01
+25,Fyzioterapeut,17056,2016-03-01
+26,Fyzioterapeut,22320,2014-09-01
+27,Fyzioterapeut,23287,2014-04-01
+28,Fyzioterapeut,24269,2014-03-01
+29,Fyzioterapeut,26938,2013-01-01
+30,Fyzioterapeut,26939,2013-01-01
+31,Fyzioterapeut,30287,2012-01-01
+32,Fyzioterapeut,39649,2007-01-01
+33,Fyzioterapeut,39650,2007-01-01
+34,Fyzioterapeut,41863,2005-07-01
+35,Fyzioterapeut,43333,2003-09-01
+36,Fyzioterapeut,46148,1999-09-01
+37,Fyzioterapeut,46729,1997-03-01
+38,kardiologie,1710,2021-01-01
+39,kardiologie,33870,2010-07-01
+40,kardiologie,34477,2010-01-01
+41,kardiologie,34486,2010-01-01
+42,kardiologie,41831,2005-07-01
+43,kardiologie,41843,2005-07-01
+44,sexuologie,46418,1999-05-01
+45,Dentální hygienistka,6478,2019-06-05
+46,Dentální hygienistka,10111,2018-03-01
+47,Fyzioterapeut,788,2021-05-04
+48,Fyzioterapeut,1348,2021-03-05
+49,Fyzioterapeut,1349,2021-02-26
+50,Fyzioterapeut,4420,2020-01-01
+51,Fyzioterapeut,5129,2020-01-06
+52,Fyzioterapeut,5130,2020-01-06
+53,Fyzioterapeut,6335,2019-07-01
+54,Fyzioterapeut,7754,2019-01-01
+55,Fyzioterapeut,7755,2019-01-01
+56,Fyzioterapeut,8800,2018-06-13
+57,Fyzioterapeut,9849,2018-04-13
+58,Fyzioterapeut,12545,2017-05-01
+59,Fyzioterapeut,13415,2017-01-01
+60,Fyzioterapeut,13879,2016-11-01
+61,Fyzioterapeut,14246,2016-09-26
+62,Fyzioterapeut,14247,2016-09-26
+63,Fyzioterapeut,16410,2016-09-01
+64,Fyzioterapeut,17978,2015-11-11
+65,Fyzioterapeut,17979,2015-11-11
+66,Fyzioterapeut,22214,2014-10-22
+67,Fyzioterapeut,24539,2014-01-01
+68,Fyzioterapeut,53786,1995-03-01
+69,kardiologie,4430,2020-01-01
+70,kardiologie,15141,2016-10-01
+71,kardiologie,18015,2016-01-01
+72,kardiologie,18460,2015-11-01
+73,kardiologie,26470,2013-08-16
+74,kardiologie,33893,2010-07-01
+75,kardiologie,35007,2009-06-01
+76,kardiologie,39144,2007-07-01
+77,kardiologie,53793,1995-03-01
+78,kardiologie,53878,1993-01-01
+79,Dentální hygienistka,3472,2020-06-01
+80,Dentální hygienistka,7074,2019-04-08
+81,Dentální hygienistka,9485,2018-05-21
+82,Dentální hygienistka,12644,2017-03-08
+83,Dentální hygienistka,23004,2014-01-01
+84,Dentální hygienistka,23826,2014-01-01
+85,Dentální hygienistka,55952,1993-03-01
+86,Fyzioterapeut,2876,2020-09-09
+87,Fyzioterapeut,6681,2019-03-12
+88,Fyzioterapeut,10584,2018-01-29
+89,Fyzioterapeut,10585,2018-01-29
+90,Fyzioterapeut,10586,2018-01-30
+91,Fyzioterapeut,11601,2013-02-01
+92,Fyzioterapeut,12236,2017-05-09
+93,Fyzioterapeut,12237,2017-05-09
+94,Fyzioterapeut,12238,2017-01-01
+95,Fyzioterapeut,23813,2014-01-01
+96,Fyzioterapeut,24742,2013-02-11
+97,Fyzioterapeut,32552,2011-01-01
+98,Fyzioterapeut,32690,2011-01-01
+99,Fyzioterapeut,32691,2011-01-01
+100,Fyzioterapeut,33655,2010-01-01
+101,Fyzioterapeut,40804,2006-04-01
+102,Fyzioterapeut,43085,2004-06-01
+103,Fyzioterapeut,43086,2004-06-01
+104,Fyzioterapeut,45742,2001-09-01
+105,Fyzioterapeut,59888,1993-01-01
+106,kardiologie,9616,2018-06-01
+107,kardiologie,24873,2013-11-01
+108,kardiologie,40800,2006-04-01
+109,kardiologie,50586,1993-10-01
+110,kardiologie,59870,1993-01-01
+111,Dentální hygienistka,26,2021-09-14
+112,Dentální hygienistka,67,2021-08-17
+113,Dentální hygienistka,310,2021-09-15
+114,Dentální hygienistka,359,2021-09-01
+115,Dentální hygienistka,647,2021-06-04
+116,Dentální hygienistka,1424,2021-03-08
+117,Dentální hygienistka,1456,2021-05-01
+118,Dentální hygienistka,2571,2020-11-04
+119,Dentální hygienistka,2962,2020-08-21
+120,Dentální hygienistka,3397,2020-04-30
+121,Dentální hygienistka,4249,2020-02-13
+122,Dentální hygienistka,4705,2020-03-01
+123,Dentální hygienistka,5162,2019-12-05
+124,Dentální hygienistka,6784,2019-06-01
+125,Dentální hygienistka,7072,2019-04-01
+126,Dentální hygienistka,7236,2019-02-18
+127,Dentální hygienistka,8910,2018-07-01
+128,Dentální hygienistka,9220,2018-06-20
+129,Dentální hygienistka,9224,2018-06-18
+130,Dentální hygienistka,10124,2018-02-08
+131,Dentální hygienistka,11477,2017-10-04
+132,Dentální hygienistka,11917,2017-08-01
+133,Dentální hygienistka,11919,2017-08-01
+134,Dentální hygienistka,12571,2017-04-01
+135,Dentální hygienistka,13411,2017-01-01
+136,Dentální hygienistka,13741,2015-12-01
+137,Dentální hygienistka,14770,2015-11-24
+138,Dentální hygienistka,14879,2012-01-01
+139,Dentální hygienistka,15004,2016-01-01
+140,Dentální hygienistka,15036,2015-11-11
+141,Dentální hygienistka,16278,2016-05-18
+142,Dentální hygienistka,19723,2015-07-14
+143,Dentální hygienistka,20105,2015-01-01
+144,Dentální hygienistka,20303,2012-10-21
+145,Dentální hygienistka,20327,2015-05-01
+146,Dentální hygienistka,20978,2015-05-01
+147,Dentální hygienistka,20989,2014-10-01
+148,Dentální hygienistka,21186,2015-03-17
+149,Dentální hygienistka,23043,2014-03-12
+150,Dentální hygienistka,23044,2014-03-01
+151,Dentální hygienistka,23197,2014-03-27
+152,Dentální hygienistka,23408,2014-01-01
+153,Dentální hygienistka,23815,2014-01-01
+154,Dentální hygienistka,23823,2014-01-01
+155,Dentální hygienistka,24662,2013-08-01
+156,Dentální hygienistka,24802,2013-09-01
+157,Dentální hygienistka,24811,2013-01-01
+158,Dentální hygienistka,24856,2013-08-30
+159,Dentální hygienistka,25119,2013-07-01
+160,Dentální hygienistka,27879,2013-01-01
+161,Dentální hygienistka,29054,2012-01-01
+162,Dentální hygienistka,29266,2012-01-01
+163,Dentální hygienistka,29274,2012-01-01
+164,Dentální hygienistka,30207,2012-01-01
+165,Dentální hygienistka,30897,2011-09-01
+166,Dentální hygienistka,32569,2011-01-01
+167,Dentální hygienistka,35738,2009-02-01
+168,Dentální hygienistka,40413,2006-07-01
+169,Dentální hygienistka,46920,1998-01-01
+170,Dentální hygienistka,60076,1991-01-01
+171,Dentální hygienistka,60605,1991-01-01
+172,Fyzioterapeut,16,2021-10-01
+173,Fyzioterapeut,64,2021-09-01
+174,Fyzioterapeut,65,2021-09-01
+175,Fyzioterapeut,73,2021-08-13
+176,Fyzioterapeut,225,2021-08-11
+177,Fyzioterapeut,311,2021-08-01
+178,Fyzioterapeut,487,2021-09-01
+179,Fyzioterapeut,643,2021-06-08
+180,Fyzioterapeut,644,2021-06-08
+181,Fyzioterapeut,747,2021-05-24
+182,Fyzioterapeut,748,2021-05-24
+183,Fyzioterapeut,937,2021-05-03
+184,Fyzioterapeut,1020,2021-04-26
+185,Fyzioterapeut,1027,2021-04-23
+186,Fyzioterapeut,1084,2021-04-01
+187,Fyzioterapeut,1096,2021-04-01
+188,Fyzioterapeut,1102,2021-03-25
+189,Fyzioterapeut,1105,2021-04-13
+190,Fyzioterapeut,1106,2021-04-13
+191,Fyzioterapeut,1113,2021-05-01
+192,Fyzioterapeut,1363,2021-04-01
+193,Fyzioterapeut,1420,2021-03-09
+194,Fyzioterapeut,1452,2021-02-25
+195,Fyzioterapeut,1453,2021-02-25
+196,Fyzioterapeut,1496,2021-02-17
+197,Fyzioterapeut,1564,2021-02-15
+198,Fyzioterapeut,1582,2021-01-28
+199,Fyzioterapeut,1590,2021-03-01
+200,Fyzioterapeut,1796,2021-01-04
+201,Fyzioterapeut,2049,2021-01-04
+202,Fyzioterapeut,2229,2020-11-28
+203,Fyzioterapeut,2290,2021-01-04
+204,Fyzioterapeut,2291,2021-01-04
+205,Fyzioterapeut,2306,2020-12-09
+206,Fyzioterapeut,2398,2020-11-25
+207,Fyzioterapeut,2506,2020-11-23
+208,Fyzioterapeut,2512,2020-10-16
+209,Fyzioterapeut,2793,2020-09-03
+210,Fyzioterapeut,2818,2020-09-14
+211,Fyzioterapeut,2868,2020-09-10
+212,Fyzioterapeut,2878,2020-10-01
+213,Fyzioterapeut,3331,2020-08-01
+214,Fyzioterapeut,3439,2020-06-03
+215,Fyzioterapeut,3473,2020-06-03
+216,Fyzioterapeut,3816,2020-04-09
+217,Fyzioterapeut,4251,2020-02-27
+218,Fyzioterapeut,4252,2020-02-27
+219,Fyzioterapeut,4262,2020-03-01
+220,Fyzioterapeut,5332,2019-11-15
+221,Fyzioterapeut,5502,2019-10-25
+222,Fyzioterapeut,5607,2019-10-11
+223,Fyzioterapeut,5608,2019-10-11
+224,Fyzioterapeut,5704,2019-09-25
+225,Fyzioterapeut,5933,2019-08-07
+226,Fyzioterapeut,5949,2019-09-02
+227,Fyzioterapeut,5951,2019-10-01
+228,Fyzioterapeut,6070,2019-06-20
+229,Fyzioterapeut,6073,2019-07-22
+230,Fyzioterapeut,6208,2019-07-04
+231,Fyzioterapeut,6651,2019-05-06
+232,Fyzioterapeut,6732,2019-05-06
+233,Fyzioterapeut,6779,2019-05-06
+234,Fyzioterapeut,6875,2019-01-01
+235,Fyzioterapeut,7364,2019-02-11
+236,Fyzioterapeut,7400,2018-12-01
+237,Fyzioterapeut,7503,2019-01-22
+238,Fyzioterapeut,7952,2019-01-01
+239,Fyzioterapeut,7953,2019-01-01
+240,Fyzioterapeut,7957,2018-01-01
+241,Fyzioterapeut,8174,2018-10-17
+242,Fyzioterapeut,9417,2018-06-01
+243,Fyzioterapeut,9710,2018-05-10
+244,Fyzioterapeut,9711,2018-05-10
+245,Fyzioterapeut,9997,2018-01-01
+246,Fyzioterapeut,10009,2018-03-26
+247,Fyzioterapeut,10782,2018-01-01
+248,Fyzioterapeut,10981,2018-02-01
+249,Fyzioterapeut,10985,2018-02-01
+250,Fyzioterapeut,11046,2017-01-01
+251,Fyzioterapeut,11124,2018-01-01
+252,Fyzioterapeut,11380,2017-11-01
+253,Fyzioterapeut,11756,2017-08-28
+254,Fyzioterapeut,11797,2017-07-01
+255,Fyzioterapeut,11817,2017-08-10
+256,Fyzioterapeut,12085,2017-06-20
+257,Fyzioterapeut,12170,2017-06-21
+258,Fyzioterapeut,12171,2017-06-21
+259,Fyzioterapeut,12190,2017-06-05
+260,Fyzioterapeut,12232,2017-06-01
+261,Fyzioterapeut,12414,2017-07-01
+262,Fyzioterapeut,12416,2017-05-04
+263,Fyzioterapeut,12668,2017-03-16
+264,Fyzioterapeut,12817,2017-02-28
+265,Fyzioterapeut,13259,2015-10-21
+266,Fyzioterapeut,13518,2016-12-16
+267,Fyzioterapeut,14001,2017-03-01
+268,Fyzioterapeut,14002,2016-10-27
+269,Fyzioterapeut,14450,2016-09-05
+270,Fyzioterapeut,14574,2015-01-01
+271,Fyzioterapeut,14610,2016-06-13
+272,Fyzioterapeut,14890,2016-08-01
+273,Fyzioterapeut,14892,2016-08-01
+274,Fyzioterapeut,14928,2016-02-15
+275,Fyzioterapeut,14955,2016-01-01
+276,Fyzioterapeut,15033,2016-02-26
+277,Fyzioterapeut,15166,2015-10-02
+278,Fyzioterapeut,15167,2015-10-06
+279,Fyzioterapeut,16167,2016-06-01
+280,Fyzioterapeut,16202,2015-06-01
+281,Fyzioterapeut,16347,2016-05-23
+282,Fyzioterapeut,17074,2016-01-01
+283,Fyzioterapeut,19752,2015-08-01
+284,Fyzioterapeut,19836,2015-08-17
+285,Fyzioterapeut,20079,2014-07-28
+286,Fyzioterapeut,20132,2014-07-01
+287,Fyzioterapeut,20981,2014-05-01
+288,Fyzioterapeut,20985,2014-11-06
+289,Fyzioterapeut,21860,2014-06-11
+290,Fyzioterapeut,23033,2014-01-01
+291,Fyzioterapeut,23042,2016-01-04
+292,Fyzioterapeut,23763,2014-01-01
+293,Fyzioterapeut,23764,2014-01-01
+294,Fyzioterapeut,23972,2014-01-01
+295,Fyzioterapeut,23990,2014-01-01
+296,Fyzioterapeut,24660,2013-11-01
+297,Fyzioterapeut,24677,2013-01-01
+298,Fyzioterapeut,24678,2013-01-01
+299,Fyzioterapeut,24686,2013-01-01
+300,Fyzioterapeut,24701,2013-09-01
+301,Fyzioterapeut,24732,2013-03-01
+302,Fyzioterapeut,24733,2013-03-01
+303,Fyzioterapeut,24897,2013-04-01
+304,Fyzioterapeut,25088,2013-07-01
+305,Fyzioterapeut,25152,2013-01-01
+306,Fyzioterapeut,25583,2013-01-01
+307,Fyzioterapeut,25586,2013-02-01
+308,Fyzioterapeut,27405,2013-01-01
+309,Fyzioterapeut,27605,2013-01-01
+310,Fyzioterapeut,27606,2013-01-01
+311,Fyzioterapeut,27694,2013-01-01
+312,Fyzioterapeut,27891,2013-01-01
+313,Fyzioterapeut,27892,2013-01-01
+314,Fyzioterapeut,28572,2012-01-01
+315,Fyzioterapeut,28605,2012-08-01
+316,Fyzioterapeut,28746,2012-02-01
+317,Fyzioterapeut,29845,2012-04-06
+318,Fyzioterapeut,30385,2012-01-01
+319,Fyzioterapeut,30785,2011-04-01
+320,Fyzioterapeut,31065,2011-09-01
+321,Fyzioterapeut,31079,2011-04-01
+322,Fyzioterapeut,31652,2011-06-01
+323,Fyzioterapeut,32061,2011-02-16
+324,Fyzioterapeut,32062,2011-02-16
+325,Fyzioterapeut,32087,2011-04-01
+326,Fyzioterapeut,32088,2011-04-01
+327,Fyzioterapeut,32141,2011-01-01
+328,Fyzioterapeut,32987,2011-01-01
+329,Fyzioterapeut,33543,2010-07-01
+330,Fyzioterapeut,34151,2010-01-01
+331,Fyzioterapeut,34239,2010-01-01
+332,Fyzioterapeut,35121,2009-07-13
+333,Fyzioterapeut,35311,2009-07-03
+334,Fyzioterapeut,35736,2009-01-01
+335,Fyzioterapeut,36378,2009-01-01
+336,Fyzioterapeut,37388,2008-01-01
+337,Fyzioterapeut,37448,2008-01-01
+338,Fyzioterapeut,38669,2007-07-02
+339,Fyzioterapeut,39525,2007-01-01
+340,Fyzioterapeut,40908,2005-12-19
+341,Fyzioterapeut,40924,2005-12-01
+342,Fyzioterapeut,43369,2002-06-01
+343,Fyzioterapeut,43370,2002-06-01
+344,Fyzioterapeut,43391,2004-01-01
+345,Fyzioterapeut,44767,1994-04-01
+346,Fyzioterapeut,45447,2002-11-01
+347,Fyzioterapeut,46847,1998-10-01
+348,Fyzioterapeut,47667,1996-01-01
+349,Fyzioterapeut,47668,1996-01-01
+350,Fyzioterapeut,47711,1996-01-01
+351,Fyzioterapeut,47946,1997-02-01
+352,Fyzioterapeut,48443,1995-05-01
+353,Fyzioterapeut,49231,1995-03-01
+354,Fyzioterapeut,49314,1994-10-01
+355,Fyzioterapeut,49320,1994-08-01
+356,Fyzioterapeut,49337,1994-05-01
+357,Fyzioterapeut,51931,1976-12-01
+358,Fyzioterapeut,51962,1993-07-01
+359,Fyzioterapeut,54783,1992-07-01
+360,Fyzioterapeut,57452,1998-10-01
+361,Fyzioterapeut,59903,1991-01-01
+362,Fyzioterapeut,60097,1991-01-01
+363,Fyzioterapeut,60106,1991-01-01
+364,Fyzioterapeut,60142,1991-01-01
+365,kardiologie,740,2021-08-01
+366,kardiologie,4473,2020-01-01
+367,kardiologie,4474,2020-01-01
+368,kardiologie,5507,2019-11-01
+369,kardiologie,9664,2018-05-03
+370,kardiologie,11258,2018-01-01
+371,kardiologie,14094,2010-09-13
+372,kardiologie,16991,2014-12-05
+373,kardiologie,20127,2009-11-26
+374,kardiologie,20311,2012-10-01
+375,kardiologie,20749,2011-03-28
+376,kardiologie,21678,2014-12-03
+377,kardiologie,22047,2014-09-01
+378,kardiologie,22511,2014-09-15
+379,kardiologie,23031,2014-01-01
+380,kardiologie,23061,2014-03-01
+381,kardiologie,23502,2014-03-01
+382,kardiologie,23504,2014-04-01
+383,kardiologie,24698,2013-09-01
+384,kardiologie,25746,2013-06-01
+385,kardiologie,27264,2013-01-01
+386,kardiologie,28965,2012-09-01
+387,kardiologie,31879,2011-01-01
+388,kardiologie,32037,2011-01-01
+389,kardiologie,33544,2010-01-01
+390,kardiologie,33546,2010-01-01
+391,kardiologie,35940,2009-01-01
+392,kardiologie,37453,2008-01-01
+393,kardiologie,37458,2008-01-01
+394,kardiologie,38785,2007-01-01
+395,kardiologie,43384,2004-01-01
+396,kardiologie,45685,2002-01-01
+397,kardiologie,47079,1998-01-01
+398,kardiologie,47080,1998-01-01
+399,kardiologie,47081,1998-01-01
+400,kardiologie,47082,1998-01-01
+401,kardiologie,47268,1998-01-01
+402,kardiologie,47269,1998-01-01
+403,kardiologie,47270,1998-01-01
+404,kardiologie,47271,1998-01-01
+405,kardiologie,47272,1998-01-01
+406,kardiologie,51949,1993-07-01
+407,kardiologie,54787,1992-07-01
+408,kardiologie,60160,1991-01-01
+409,kardiologie,60161,1991-01-01
+410,kardiologie,60171,1991-01-01
+411,kardiologie,60532,1991-01-01
+412,kardiologie,60551,1991-01-01
+413,kardiologie,60579,1991-01-01
+414,sexuologie,4713,2020-03-01
+415,sexuologie,8925,2018-01-01
+416,sexuologie,8931,2018-01-01
+417,sexuologie,11216,2017-05-25
+418,sexuologie,11777,2017-10-01
+419,sexuologie,14106,2000-01-04
+420,sexuologie,25104,2013-06-23
+421,sexuologie,29262,2012-01-01
+422,sexuologie,47388,1998-01-01
+423,sexuologie,47389,1998-01-01
+424,sexuologie,49371,1994-02-01
+425,sexuologie,56802,1992-09-01
+426,sexuologie,60093,1991-01-01
+427,sexuologie,60487,1991-01-01
+428,sexuologie,60488,1991-01-01
+429,sexuologie,60498,1991-01-01
+430,soudní lékařství,60511,1991-01-01
+431,Dentální hygienistka,5288,2019-11-01
+432,Dentální hygienistka,8505,2018-08-10
+433,Dentální hygienistka,10643,2017-11-09
+434,Dentální hygienistka,15024,2015-10-01
+435,Dentální hygienistka,23046,2014-02-01
+436,Dentální hygienistka,25121,2013-06-24
+437,Dentální hygienistka,29586,2012-04-02
+438,Dentální hygienistka,30138,2012-04-02
+439,Dentální hygienistka,37173,2008-01-01
+440,Fyzioterapeut,17,2021-09-08
+441,Fyzioterapeut,1622,2021-03-01
+442,Fyzioterapeut,1800,2021-01-01
+443,Fyzioterapeut,1801,2021-01-01
+444,Fyzioterapeut,2692,2020-09-30
+445,Fyzioterapeut,2966,2020-09-01
+446,Fyzioterapeut,5833,2019-08-07
+447,Fyzioterapeut,7196,2019-02-05
+448,Fyzioterapeut,7197,2019-02-05
+449,Fyzioterapeut,8335,2018-01-01
+450,Fyzioterapeut,8700,2018-10-01
+451,Fyzioterapeut,9540,2018-04-24
+452,Fyzioterapeut,9561,2018-06-01
+453,Fyzioterapeut,9983,2018-04-01
+454,Fyzioterapeut,10977,2018-02-01
+455,Fyzioterapeut,11008,2018-01-01
+456,Fyzioterapeut,11503,2017-09-01
+457,Fyzioterapeut,12399,2017-04-07
+458,Fyzioterapeut,13298,2017-01-01
+459,Fyzioterapeut,15060,2015-12-01
+460,Fyzioterapeut,18535,2015-02-01
+461,Fyzioterapeut,18581,2014-11-01
+462,Fyzioterapeut,24676,2013-01-01
+463,Fyzioterapeut,24682,2013-01-01
+464,Fyzioterapeut,24894,2013-09-04
+465,Fyzioterapeut,26683,2013-01-01
+466,Fyzioterapeut,26720,2013-01-01
+467,Fyzioterapeut,29051,2012-07-01
+468,Fyzioterapeut,30178,2012-01-01
+469,Fyzioterapeut,30948,2011-08-01
+470,Fyzioterapeut,37385,2008-01-01
+471,Fyzioterapeut,56261,1999-04-01
+472,Fyzioterapeut,60065,1976-12-01
+473,kardiologie,2053,2021-02-01
+474,kardiologie,14260,2014-07-01
+475,kardiologie,19086,2015-09-01
+476,kardiologie,19088,2015-09-01
+477,kardiologie,26514,2013-08-01
+478,kardiologie,28333,2012-09-01
+479,kardiologie,45270,2003-01-01
+480,kardiologie,60055,1976-12-01
+481,Dentální hygienistka,3297,2020-07-01
+482,Dentální hygienistka,5735,2019-09-25
+483,Dentální hygienistka,5736,2019-09-25
+484,Dentální hygienistka,17339,2016-05-01
+485,Dentální hygienistka,26279,2013-09-01
+486,Fyzioterapeut,960,2021-05-01
+487,Fyzioterapeut,1321,2021-03-01
+488,Fyzioterapeut,2503,2021-01-01
+489,Fyzioterapeut,8944,2019-01-01
+490,Fyzioterapeut,11670,2017-09-04
+491,Fyzioterapeut,12981,2017-02-01
+492,Fyzioterapeut,15526,2013-02-27
+493,Fyzioterapeut,15530,2013-02-27
+494,Fyzioterapeut,16605,2016-07-01
+495,Fyzioterapeut,17559,2016-01-01
+496,Fyzioterapeut,19641,2015-09-11
+497,Fyzioterapeut,22149,2015-01-01
+498,Fyzioterapeut,24103,2014-02-01
+499,Fyzioterapeut,25864,2013-10-01
+500,Fyzioterapeut,25865,2013-10-01
+501,Fyzioterapeut,33405,2010-09-18
+502,Fyzioterapeut,35870,2009-01-01
+503,Fyzioterapeut,40442,2005-08-01
+504,Fyzioterapeut,41128,2006-01-01
+505,Fyzioterapeut,42022,2005-06-01
+506,Fyzioterapeut,42058,2005-06-01
+507,Fyzioterapeut,46723,1998-06-01
+508,Fyzioterapeut,53583,1995-01-01
+509,Fyzioterapeut,53664,1993-01-01
+510,Fyzioterapeut,56073,2002-09-01
+511,Fyzioterapeut,56076,1994-01-01
+512,Fyzioterapeut,56198,1995-01-01
+513,Fyzioterapeut,56199,2002-01-01
+514,Fyzioterapeut,57006,1994-09-01
+515,Fyzioterapeut,58119,1991-01-01
+516,Fyzioterapeut,58533,1976-12-01
+517,kardiologie,3273,2020-09-01
+518,kardiologie,12300,2017-07-01
+519,kardiologie,20478,2015-08-05
+520,kardiologie,24413,2014-02-01
+521,kardiologie,34384,2010-01-01
+522,kardiologie,42045,2005-06-01
+523,kardiologie,58510,1976-12-01
+524,Dentální hygienistka,8625,2018-11-01
+525,Dentální hygienistka,10606,2018-01-01
+526,Dentální hygienistka,12206,2017-05-15
+527,Dentální hygienistka,26549,2013-01-03
+528,Dentální hygienistka,41681,2005-01-01
+529,Dentální hygienistka,51098,1994-02-01
+530,Fyzioterapeut,565,2021-06-12
+531,Fyzioterapeut,3399,2020-06-02
+532,Fyzioterapeut,6782,2019-05-01
+533,Fyzioterapeut,7370,2019-01-23
+534,Fyzioterapeut,10131,2018-03-01
+535,Fyzioterapeut,10132,2018-03-01
+536,Fyzioterapeut,10133,2018-03-01
+537,Fyzioterapeut,10134,2018-03-01
+538,Fyzioterapeut,14239,2015-05-01
+539,Fyzioterapeut,17929,2015-07-01
+540,Fyzioterapeut,20805,2015-06-24
+541,Fyzioterapeut,21923,2014-01-01
+542,Fyzioterapeut,23395,2014-04-01
+543,Fyzioterapeut,24900,2013-08-01
+544,Fyzioterapeut,27681,2013-01-01
+545,Fyzioterapeut,37411,2001-01-01
+546,Fyzioterapeut,49287,1995-01-01
+547,Fyzioterapeut,52131,1993-04-01
+548,Fyzioterapeut,54729,1993-03-01
+549,Fyzioterapeut,59832,1992-01-01
+550,Fyzioterapeut,59833,1992-01-01
+551,kardiologie,2694,2021-01-01
+552,kardiologie,14698,2014-10-01
+553,kardiologie,14699,2014-10-01
+554,kardiologie,17920,2015-07-01
+555,kardiologie,50007,2002-01-01
+556,kardiologie,50009,1994-08-01
+557,kardiologie,59796,1992-01-01
+558,sexuologie,38624,2007-01-01
+559,sexuologie,38626,2007-01-01
+560,Dentální hygienistka,1072,2021-04-16
+561,Dentální hygienistka,27809,2013-01-01
+562,Dentální hygienistka,29176,2012-02-01
+563,Dentální hygienistka,53347,1993-02-01
+564,Fyzioterapeut,222,2021-08-13
+565,Fyzioterapeut,254,2021-07-30
+566,Fyzioterapeut,258,2021-07-30
+567,Fyzioterapeut,421,2021-07-01
+568,Fyzioterapeut,423,2021-07-01
+569,Fyzioterapeut,427,2021-07-01
+570,Fyzioterapeut,428,2021-07-01
+571,Fyzioterapeut,434,2021-07-01
+572,Fyzioterapeut,437,2021-07-01
+573,Fyzioterapeut,440,2021-07-01
+574,Fyzioterapeut,444,2021-07-01
+575,Fyzioterapeut,451,2021-07-01
+576,Fyzioterapeut,825,2021-05-12
+577,Fyzioterapeut,1725,2021-01-25
+578,Fyzioterapeut,3358,2020-07-01
+579,Fyzioterapeut,4889,2020-07-01
+580,Fyzioterapeut,5657,2019-10-02
+581,Fyzioterapeut,5997,2019-08-28
+582,Fyzioterapeut,7168,2019-02-27
+583,Fyzioterapeut,7456,2019-01-31
+584,Fyzioterapeut,7554,2019-01-12
+585,Fyzioterapeut,7619,2019-02-01
+586,Fyzioterapeut,8797,2018-08-08
+587,Fyzioterapeut,9554,2018-06-01
+588,Fyzioterapeut,10036,2018-04-01
+589,Fyzioterapeut,13203,2016-01-01
+590,Fyzioterapeut,13416,2016-12-13
+591,Fyzioterapeut,14017,2016-10-03
+592,Fyzioterapeut,14630,2016-09-02
+593,Fyzioterapeut,14668,2016-12-01
+594,Fyzioterapeut,14675,2016-12-01
+595,Fyzioterapeut,14680,2016-12-01
+596,Fyzioterapeut,14682,2016-12-01
+597,Fyzioterapeut,14685,2016-12-01
+598,Fyzioterapeut,16178,2016-03-01
+599,Fyzioterapeut,16588,2016-03-01
+600,Fyzioterapeut,17000,2016-02-29
+601,Fyzioterapeut,17674,2016-01-01
+602,Fyzioterapeut,17718,2016-01-27
+603,Fyzioterapeut,18021,2016-06-01
+604,Fyzioterapeut,18023,2016-01-03
+605,Fyzioterapeut,18182,2015-12-03
+606,Fyzioterapeut,18191,2016-01-01
+607,Fyzioterapeut,18331,2013-05-27
+608,Fyzioterapeut,18333,2013-05-27
+609,Fyzioterapeut,18339,2013-05-27
+610,Fyzioterapeut,18358,2013-05-27
+611,Fyzioterapeut,18362,2013-05-27
+612,Fyzioterapeut,18369,2013-05-27
+613,Fyzioterapeut,18375,2013-05-27
+614,Fyzioterapeut,18433,2015-11-20
+615,Fyzioterapeut,18436,2015-11-20
+616,Fyzioterapeut,18439,2015-11-20
+617,Fyzioterapeut,18592,2015-11-09
+618,Fyzioterapeut,18753,2015-11-06
+619,Fyzioterapeut,20647,2015-01-01
+620,Fyzioterapeut,20665,2015-01-01
+621,Fyzioterapeut,20796,2015-01-01
+622,Fyzioterapeut,20806,2015-01-01
+623,Fyzioterapeut,20811,2015-01-01
+624,Fyzioterapeut,20817,2015-01-01
+625,Fyzioterapeut,20822,2015-01-01
+626,Fyzioterapeut,20825,2015-01-01
+627,Fyzioterapeut,20829,2015-01-01
+628,Fyzioterapeut,20891,2015-01-30
+629,Fyzioterapeut,21443,2014-08-19
+630,Fyzioterapeut,21574,2014-11-18
+631,Fyzioterapeut,21577,2014-09-01
+632,Fyzioterapeut,22029,2014-08-28
+633,Fyzioterapeut,22038,2015-01-01
+634,Fyzioterapeut,22203,2014-12-01
+635,Fyzioterapeut,22271,2014-10-13
+636,Fyzioterapeut,23374,2014-01-01
+637,Fyzioterapeut,23440,2014-01-19
+638,Fyzioterapeut,23544,2014-01-01
+639,Fyzioterapeut,23564,2014-01-01
+640,Fyzioterapeut,25230,2013-01-01
+641,Fyzioterapeut,26021,2013-01-23
+642,Fyzioterapeut,26074,2013-01-01
+643,Fyzioterapeut,26141,2013-03-08
+644,Fyzioterapeut,26258,2013-01-01
+645,Fyzioterapeut,26259,2013-01-01
+646,Fyzioterapeut,27053,2013-01-01
+647,Fyzioterapeut,27069,2013-01-01
+648,Fyzioterapeut,27081,2013-05-01
+649,Fyzioterapeut,29493,2012-03-21
+650,Fyzioterapeut,29494,2012-03-21
+651,Fyzioterapeut,31415,2011-01-01
+652,Fyzioterapeut,31418,2011-01-01
+653,Fyzioterapeut,31462,2011-01-01
+654,Fyzioterapeut,32370,2011-01-01
+655,Fyzioterapeut,32384,2011-01-01
+656,Fyzioterapeut,35089,2009-01-01
+657,Fyzioterapeut,36886,2008-09-01
+658,Fyzioterapeut,36963,2008-08-05
+659,Fyzioterapeut,36995,2008-05-01
+660,Fyzioterapeut,36996,2008-05-01
+661,Fyzioterapeut,37826,2008-01-01
+662,Fyzioterapeut,37828,2008-01-01
+663,Fyzioterapeut,38016,2004-03-01
+664,Fyzioterapeut,39690,2007-02-09
+665,Fyzioterapeut,40175,2006-06-09
+666,Fyzioterapeut,40177,2005-10-05
+667,Fyzioterapeut,40208,2005-01-01
+668,Fyzioterapeut,40479,2006-07-01
+669,Fyzioterapeut,42626,2005-01-01
+670,Fyzioterapeut,42700,2004-05-01
+671,Fyzioterapeut,42790,2004-09-01
+672,Fyzioterapeut,44771,2003-06-06
+673,Fyzioterapeut,44940,1998-08-01
+674,Fyzioterapeut,44957,2001-02-01
+675,Fyzioterapeut,50123,1994-02-01
+676,Fyzioterapeut,53300,1996-02-01
+677,Fyzioterapeut,53302,1995-09-01
+678,Fyzioterapeut,53307,1994-12-01
+679,Fyzioterapeut,53322,1994-02-01
+680,Fyzioterapeut,55986,1992-05-01
+681,Fyzioterapeut,56708,1998-01-01
+682,Fyzioterapeut,60466,1996-07-01
+683,kardiologie,14686,2016-12-01
+684,kardiologie,20666,2015-01-01
+685,kardiologie,20895,2015-01-30
+686,kardiologie,22201,2014-12-01
+687,kardiologie,29497,2012-01-01
+688,kardiologie,30295,2012-03-22
+689,kardiologie,35690,2009-05-01
+690,kardiologie,53349,1993-02-01
+691,sexuologie,27191,2013-01-01
+692,Fyzioterapeut,746,2021-07-01
+693,Fyzioterapeut,6664,2019-07-01
+694,Fyzioterapeut,6968,2019-01-01
+695,Fyzioterapeut,6970,2019-01-01
+696,Fyzioterapeut,7011,2019-04-01
+697,Fyzioterapeut,7116,2019-04-01
+698,Fyzioterapeut,10359,2018-03-01
+699,Fyzioterapeut,11749,2017-10-01
+700,Fyzioterapeut,12504,2017-05-01
+701,Fyzioterapeut,16618,2016-04-01
+702,Fyzioterapeut,21670,2015-01-01
+703,Fyzioterapeut,25741,2013-07-01
+704,Fyzioterapeut,37139,2008-01-01
+705,Fyzioterapeut,37566,2008-03-01
+706,Fyzioterapeut,38185,2007-09-01
+707,Fyzioterapeut,39108,2007-05-16
+708,Fyzioterapeut,39109,2007-06-01
+709,Fyzioterapeut,42102,2005-01-01
+710,Fyzioterapeut,42664,2004-12-01
+711,Fyzioterapeut,48216,2000-01-01
+712,Fyzioterapeut,48413,1995-03-01
+713,Fyzioterapeut,48888,1995-07-01
+714,Fyzioterapeut,53220,1994-09-01
+715,Fyzioterapeut,53221,1994-09-01
+716,Fyzioterapeut,53225,1994-05-01
+717,Fyzioterapeut,53226,1994-05-02
+718,Fyzioterapeut,53232,1994-02-01
+719,kardiologie,22735,2014-07-01
+720,kardiologie,34115,2010-01-01
+721,kardiologie,38141,2007-09-01
+722,kardiologie,43847,2004-01-01
+723,Dentální hygienistka,908,2021-05-01
+724,Dentální hygienistka,14983,2015-08-31
+725,Fyzioterapeut,1814,2021-01-14
+726,Fyzioterapeut,4627,2020-03-01
+727,Fyzioterapeut,5931,2019-08-31
+728,Fyzioterapeut,6066,2019-06-27
+729,Fyzioterapeut,10481,2018-02-05
+730,Fyzioterapeut,12475,2017-03-31
+731,Fyzioterapeut,16875,2016-06-01
+732,Fyzioterapeut,16877,2015-08-01
+733,Fyzioterapeut,18841,2015-01-01
+734,Fyzioterapeut,28568,2012-06-01
+735,Fyzioterapeut,33846,2010-04-01
+736,Fyzioterapeut,33847,2010-04-01
+737,Fyzioterapeut,34411,2010-03-01
+738,Fyzioterapeut,37650,2002-01-01
+739,Fyzioterapeut,56755,1993-04-01
+740,Fyzioterapeut,57615,1996-09-01
+741,kardiologie,15016,2015-01-29
+742,kardiologie,15103,2016-08-03
+743,kardiologie,28563,2012-10-01
+744,kardiologie,35631,2009-01-01
+745,kardiologie,56758,1993-03-01
+746,Fyzioterapeut,10316,2018-02-14
+747,Fyzioterapeut,10504,2018-01-19
+748,Fyzioterapeut,16556,2016-05-10
+749,Fyzioterapeut,16635,2016-01-01
+750,Fyzioterapeut,21532,2015-01-14
+751,Fyzioterapeut,21776,2014-11-19
+752,Fyzioterapeut,28288,2012-12-10
+753,Fyzioterapeut,31609,2011-07-01
+754,Fyzioterapeut,31614,2011-07-01
+755,Fyzioterapeut,31782,2011-04-01
+756,Fyzioterapeut,31783,2011-04-01
+757,Fyzioterapeut,32916,2011-03-01
+758,Fyzioterapeut,38061,2007-11-07
+759,Fyzioterapeut,38062,2007-11-07
+760,Fyzioterapeut,39209,2007-01-01
+761,Fyzioterapeut,39391,2006-08-01
+762,kardiologie,16082,2017-01-01
+763,kardiologie,44179,2004-01-01
+764,sexuologie,57917,1993-05-01
+765,Dentální hygienistka,8,2021-10-01
+766,Dentální hygienistka,2318,2020-12-09
+767,Dentální hygienistka,8485,2018-09-24
+768,Dentální hygienistka,13210,2017-02-01
+769,Dentální hygienistka,26603,2013-01-01
+770,Fyzioterapeut,515,2021-07-01
+771,Fyzioterapeut,523,2021-07-01
+772,Fyzioterapeut,2826,2020-09-17
+773,Fyzioterapeut,4888,2020-01-15
+774,Fyzioterapeut,5566,2020-01-01
+775,Fyzioterapeut,5577,2019-10-19
+776,Fyzioterapeut,5658,2019-10-01
+777,Fyzioterapeut,5807,2019-09-01
+778,Fyzioterapeut,7361,2019-02-08
+779,Fyzioterapeut,8815,2019-01-01
+780,Fyzioterapeut,9885,2018-05-01
+781,Fyzioterapeut,10521,2018-02-01
+782,Fyzioterapeut,11253,2017-11-14
+783,Fyzioterapeut,13779,2017-01-01
+784,Fyzioterapeut,15251,1994-05-10
+785,Fyzioterapeut,15568,1999-09-01
+786,Fyzioterapeut,22858,2014-05-01
+787,Fyzioterapeut,26066,2013-07-01
+788,Fyzioterapeut,30952,2011-10-05
+789,Fyzioterapeut,31250,2011-09-01
+790,Fyzioterapeut,31709,2011-01-01
+791,Fyzioterapeut,34330,2010-04-01
+792,Fyzioterapeut,37584,1998-01-01
+793,Fyzioterapeut,37603,1999-01-01
+794,Fyzioterapeut,38318,2007-09-01
+795,Fyzioterapeut,48740,1996-07-01
+796,Fyzioterapeut,48741,1995-01-01
+797,Fyzioterapeut,50035,1998-07-01
+798,Fyzioterapeut,57511,2002-01-01
+799,Fyzioterapeut,57998,1993-04-01
+800,Fyzioterapeut,58161,1995-02-01
+801,kardiologie,525,2021-07-01
+802,kardiologie,5809,2019-09-01
+803,kardiologie,5812,2019-09-01
+804,kardiologie,16942,2015-09-02
+805,kardiologie,28624,2012-08-22
+806,kardiologie,38323,2007-09-01
+807,kardiologie,45958,2000-10-01
+808,kardiologie,47643,1997-02-01
+809,Dentální hygienistka,410,2021-07-01
+810,Dentální hygienistka,1307,2021-06-01
+811,Dentální hygienistka,2264,2021-01-01
+812,Dentální hygienistka,2271,2021-01-01
+813,Dentální hygienistka,4256,2020-03-01
+814,Dentální hygienistka,5711,2019-10-01
+815,Dentální hygienistka,5733,2019-09-11
+816,Dentální hygienistka,6112,2019-08-01
+817,Dentální hygienistka,6371,2019-07-01
+818,Dentální hygienistka,15284,2016-09-01
+819,Dentální hygienistka,21302,2015-04-01
+820,Dentální hygienistka,30096,2012-01-01
+821,Dentální hygienistka,31239,2011-09-01
+822,Dentální hygienistka,37511,2008-01-01
+823,Fyzioterapeut,180,2021-08-11
+824,Fyzioterapeut,188,2021-08-11
+825,Fyzioterapeut,799,2021-05-19
+826,Fyzioterapeut,800,2021-05-19
+827,Fyzioterapeut,802,2021-05-27
+828,Fyzioterapeut,1081,2021-04-15
+829,Fyzioterapeut,1755,2021-01-18
+830,Fyzioterapeut,2012,2021-01-01
+831,Fyzioterapeut,2401,2020-01-01
+832,Fyzioterapeut,5426,2019-09-30
+833,Fyzioterapeut,5511,2019-10-16
+834,Fyzioterapeut,5512,2019-10-16
+835,Fyzioterapeut,5580,2020-01-01
+836,Fyzioterapeut,5586,2019-10-14
+837,Fyzioterapeut,5587,2019-10-14
+838,Fyzioterapeut,6170,2019-01-01
+839,Fyzioterapeut,7336,2019-02-01
+840,Fyzioterapeut,8182,2018-10-24
+841,Fyzioterapeut,9346,2018-06-11
+842,Fyzioterapeut,9409,2018-06-11
+843,Fyzioterapeut,9411,2018-06-11
+844,Fyzioterapeut,9420,2018-06-11
+845,Fyzioterapeut,12233,2017-05-24
+846,Fyzioterapeut,12693,2017-03-04
+847,Fyzioterapeut,12696,2017-03-04
+848,Fyzioterapeut,12698,2017-03-04
+849,Fyzioterapeut,12701,2017-03-04
+850,Fyzioterapeut,12705,2017-03-04
+851,Fyzioterapeut,12709,2017-03-04
+852,Fyzioterapeut,12713,2017-03-04
+853,Fyzioterapeut,12717,2017-03-04
+854,Fyzioterapeut,12719,2017-03-04
+855,Fyzioterapeut,12721,2017-03-04
+856,Fyzioterapeut,13700,2007-02-01
+857,Fyzioterapeut,13703,2007-02-01
+858,Fyzioterapeut,14511,2016-09-01
+859,Fyzioterapeut,16687,2016-05-02
+860,Fyzioterapeut,19889,2015-08-28
+861,Fyzioterapeut,22328,2014-11-01
+862,Fyzioterapeut,22417,2014-08-19
+863,Fyzioterapeut,24616,2014-01-01
+864,Fyzioterapeut,27142,2013-01-01
+865,Fyzioterapeut,28737,2012-01-01
+866,Fyzioterapeut,28741,2012-01-01
+867,Fyzioterapeut,30097,2012-01-01
+868,Fyzioterapeut,31388,2011-04-01
+869,Fyzioterapeut,31528,2011-06-17
+870,Fyzioterapeut,31563,2011-01-01
+871,Fyzioterapeut,31940,2009-07-01
+872,Fyzioterapeut,32826,2011-02-10
+873,Fyzioterapeut,35654,2009-04-01
+874,Fyzioterapeut,35953,2009-02-02
+875,Fyzioterapeut,36060,2009-01-01
+876,Fyzioterapeut,36063,2009-01-01
+877,Fyzioterapeut,36939,2008-07-01
+878,Fyzioterapeut,40385,2006-10-01
+879,Fyzioterapeut,40581,2006-01-01
+880,Fyzioterapeut,42824,2005-07-21
+881,Fyzioterapeut,42825,2004-09-01
+882,Fyzioterapeut,43210,2004-01-01
+883,Fyzioterapeut,47755,1996-08-01
+884,Fyzioterapeut,47757,1996-05-02
+885,Fyzioterapeut,48082,1995-04-01
+886,Fyzioterapeut,48539,1995-01-01
+887,Fyzioterapeut,48540,1995-01-01
+888,Fyzioterapeut,49211,1995-01-01
+889,Fyzioterapeut,49615,1994-01-01
+890,Fyzioterapeut,50403,1993-09-01
+891,Fyzioterapeut,52210,1993-07-01
+892,Fyzioterapeut,53571,1994-10-01
+893,Fyzioterapeut,57264,2001-01-01
+894,Fyzioterapeut,57267,2001-01-01
+895,Fyzioterapeut,59604,1976-12-01
+896,Fyzioterapeut,59637,1991-01-01
+897,Fyzioterapeut,59690,1976-12-01
+898,kardiologie,5443,2020-01-01
+899,kardiologie,19920,2015-09-01
+900,kardiologie,19923,2015-01-01
+901,kardiologie,22958,2014-01-01
+902,kardiologie,40337,2006-09-01
+903,kardiologie,43199,2004-01-01
+904,kardiologie,44925,2003-01-01
+905,kardiologie,52205,1993-07-01
+906,kardiologie,52206,1993-07-01
+907,kardiologie,52207,1993-07-01
+908,kardiologie,59595,1976-12-01
+909,kardiologie,59650,1976-12-01
+910,sexuologie,17034,2016-04-10
+911,sexuologie,43124,2004-07-01
+912,Dentální hygienistka,251,2021-09-01
+913,Dentální hygienistka,5835,2019-09-11
+914,Dentální hygienistka,11862,2017-08-04
+915,Dentální hygienistka,33695,2010-07-01
+916,Dentální hygienistka,42812,2004-10-01
+917,Fyzioterapeut,3104,2020-08-01
+918,Fyzioterapeut,3565,2020-05-05
+919,Fyzioterapeut,4277,2020-03-01
+920,Fyzioterapeut,5322,2019-01-01
+921,Fyzioterapeut,9386,2018-06-01
+922,Fyzioterapeut,9944,2018-04-06
+923,Fyzioterapeut,9945,2018-04-06
+924,Fyzioterapeut,11607,2017-09-12
+925,Fyzioterapeut,11608,2017-09-12
+926,Fyzioterapeut,11899,2017-08-01
+927,Fyzioterapeut,13354,2017-01-09
+928,Fyzioterapeut,13355,2017-01-09
+929,Fyzioterapeut,13356,2017-01-09
+930,Fyzioterapeut,13357,2017-01-09
+931,Fyzioterapeut,15860,2011-12-06
+932,Fyzioterapeut,19260,2020-01-01
+933,Fyzioterapeut,19565,2015-10-01
+934,Fyzioterapeut,31884,2011-06-01
+935,Fyzioterapeut,45824,2001-04-01
+936,Fyzioterapeut,50117,1995-01-01
+937,Fyzioterapeut,55397,1994-05-01
+938,Fyzioterapeut,55398,1994-05-01
+939,Fyzioterapeut,58070,1993-02-01
+940,Fyzioterapeut,58095,1992-10-01
+941,Fyzioterapeut,60428,1976-12-01
+942,Fyzioterapeut,60451,1976-12-01
+943,kardiologie,19011,2012-11-20
+944,kardiologie,23925,2014-01-01
+945,kardiologie,60382,1976-12-01
+946,sexuologie,34828,2009-01-01
+947,sexuologie,60444,1976-12-01
+948,sexuologie,60445,1976-12-01
+949,sexuologie,60458,1976-12-01
+950,Dentální hygienistka,329,2021-08-01
+951,Dentální hygienistka,568,2021-06-21
+952,Dentální hygienistka,649,2021-05-31
+953,Dentální hygienistka,765,2021-05-24
+954,Dentální hygienistka,805,2021-05-17
+955,Dentální hygienistka,880,2021-05-05
+956,Dentální hygienistka,882,2021-05-10
+957,Dentální hygienistka,1045,2021-06-01
+958,Dentální hygienistka,1269,2021-03-29
+959,Dentální hygienistka,1352,2021-03-17
+960,Dentální hygienistka,1515,2021-04-01
+961,Dentální hygienistka,1654,2021-01-25
+962,Dentální hygienistka,1718,2020-11-11
+963,Dentální hygienistka,2197,2020-10-21
+964,Dentální hygienistka,2337,2020-01-01
+965,Dentální hygienistka,2355,2020-01-01
+966,Dentální hygienistka,2379,2020-12-02
+967,Dentální hygienistka,2380,2020-12-02
+968,Dentální hygienistka,2630,2020-10-01
+969,Dentální hygienistka,2746,2020-10-05
+970,Dentální hygienistka,2765,2020-10-01
+971,Dentální hygienistka,2774,2020-09-21
+972,Dentální hygienistka,2817,2020-08-17
+973,Dentální hygienistka,2831,2020-09-16
+974,Dentální hygienistka,2844,2020-09-14
+975,Dentální hygienistka,2860,2020-09-07
+976,Dentální hygienistka,2864,2020-09-09
+977,Dentální hygienistka,3023,2020-08-10
+978,Dentální hygienistka,3064,2020-08-05
+979,Dentální hygienistka,3230,2020-06-01
+980,Dentální hygienistka,3231,2020-06-29
+981,Dentální hygienistka,3258,2020-06-29
+982,Dentální hygienistka,3259,2020-06-17
+983,Dentální hygienistka,3348,2020-06-15
+984,Dentální hygienistka,3352,2020-06-11
+985,Dentální hygienistka,3423,2020-06-10
+986,Dentální hygienistka,3424,2020-06-10
+987,Dentální hygienistka,3831,2020-04-02
+988,Dentální hygienistka,4002,2020-04-01
+989,Dentální hygienistka,4013,2020-03-25
+990,Dentální hygienistka,4019,2020-02-24
+991,Dentální hygienistka,4299,2019-01-14
+992,Dentální hygienistka,4635,2020-01-27
+993,Dentální hygienistka,4730,2020-01-22
+994,Dentální hygienistka,4820,2020-01-15
+995,Dentální hygienistka,4857,2020-01-01
+996,Dentální hygienistka,4865,2020-01-01
+997,Dentální hygienistka,4883,2019-10-09
+998,Dentální hygienistka,5303,2019-11-15
+999,Dentální hygienistka,5613,2019-10-09
+1000,Dentální hygienistka,5618,2019-11-01
+1001,Dentální hygienistka,5669,2019-09-18
+1002,Dentální hygienistka,5797,2019-08-26
+1003,Dentální hygienistka,6020,2019-07-17
+1004,Dentální hygienistka,6021,2019-07-17
+1005,Dentální hygienistka,6047,2019-08-12
+1006,Dentální hygienistka,6113,2019-07-29
+1007,Dentální hygienistka,6190,2019-06-26
+1008,Dentální hygienistka,6265,2019-06-19
+1009,Dentální hygienistka,6267,2019-07-03
+1010,Dentální hygienistka,6688,2019-05-02
+1011,Dentální hygienistka,7188,2019-03-01
+1012,Dentální hygienistka,7605,2019-03-01
+1013,Dentální hygienistka,7607,2017-06-01
+1014,Dentální hygienistka,7665,2019-01-01
+1015,Dentální hygienistka,7692,2018-10-29
+1016,Dentální hygienistka,7771,2019-01-01
+1017,Dentální hygienistka,7779,2019-01-01
+1018,Dentální hygienistka,7903,2018-11-26
+1019,Dentální hygienistka,8196,2018-10-31
+1020,Dentální hygienistka,8312,2018-10-01
+1021,Dentální hygienistka,8321,2018-10-10
+1022,Dentální hygienistka,8442,2018-09-26
+1023,Dentální hygienistka,8601,2018-09-03
+1024,Dentální hygienistka,8793,2018-08-13
+1025,Dentální hygienistka,8897,2018-07-25
+1026,Dentální hygienistka,9047,2018-07-02
+1027,Dentální hygienistka,9049,2018-07-18
+1028,Dentální hygienistka,9052,2018-07-18
+1029,Dentální hygienistka,9213,2018-06-06
+1030,Dentální hygienistka,9560,2018-06-01
+1031,Dentální hygienistka,9675,2018-05-21
+1032,Dentální hygienistka,9722,2018-06-01
+1033,Dentální hygienistka,9743,2018-05-09
+1034,Dentální hygienistka,9798,2018-05-01
+1035,Dentální hygienistka,9966,2018-04-04
+1036,Dentální hygienistka,9982,2018-04-04
+1037,Dentální hygienistka,10084,2018-03-12
+1038,Dentální hygienistka,10159,2018-04-01
+1039,Dentální hygienistka,10263,2017-10-01
+1040,Dentální hygienistka,10491,2018-04-01
+1041,Dentální hygienistka,10500,2018-01-18
+1042,Dentální hygienistka,10515,2018-01-22
+1043,Dentální hygienistka,10547,2018-01-31
+1044,Dentální hygienistka,10573,2018-04-01
+1045,Dentální hygienistka,10583,2018-04-01
+1046,Dentální hygienistka,10737,2018-01-01
+1047,Dentální hygienistka,10773,2018-01-01
+1048,Dentální hygienistka,10913,2017-12-11
+1049,Dentální hygienistka,10915,2017-11-01
+1050,Dentální hygienistka,11170,2017-11-20
+1051,Dentální hygienistka,11186,2017-11-01
+1052,Dentální hygienistka,11468,2017-10-02
+1053,Dentální hygienistka,11487,2018-01-01
+1054,Dentální hygienistka,11591,2017-04-22
+1055,Dentální hygienistka,11604,2017-11-01
+1056,Dentální hygienistka,11650,2017-12-01
+1057,Dentální hygienistka,11662,2017-03-06
+1058,Dentální hygienistka,11748,2017-08-28
+1059,Dentální hygienistka,11754,2017-07-26
+1060,Dentální hygienistka,11858,2018-01-01
+1061,Dentální hygienistka,12054,2017-06-28
+1062,Dentální hygienistka,12159,2017-06-14
+1063,Dentální hygienistka,12212,2017-01-01
+1064,Dentální hygienistka,12217,2017-01-01
+1065,Dentální hygienistka,12799,2017-03-06
+1066,Dentální hygienistka,12960,2017-02-13
+1067,Dentální hygienistka,13387,2017-01-01
+1068,Dentální hygienistka,13551,2017-04-01
+1069,Dentální hygienistka,13566,2016-12-05
+1070,Dentální hygienistka,13576,2016-11-30
+1071,Dentální hygienistka,13726,2016-11-28
+1072,Dentální hygienistka,13765,2016-11-24
+1073,Dentální hygienistka,14141,2016-10-01
+1074,Dentální hygienistka,14422,2016-09-15
+1075,Dentální hygienistka,14614,2016-10-01
+1076,Dentální hygienistka,15175,2016-09-01
+1077,Dentální hygienistka,15341,2016-06-01
+1078,Dentální hygienistka,15355,2016-08-01
+1079,Dentální hygienistka,15360,2016-06-08
+1080,Dentální hygienistka,15366,2016-08-01
+1081,Dentální hygienistka,15956,2015-08-12
+1082,Dentální hygienistka,16387,2015-06-01
+1083,Dentální hygienistka,16548,2016-04-01
+1084,Dentální hygienistka,16561,2016-05-01
+1085,Dentální hygienistka,17017,2016-03-07
+1086,Dentální hygienistka,17326,2015-04-01
+1087,Dentální hygienistka,17402,2014-11-03
+1088,Dentální hygienistka,17903,2015-10-29
+1089,Dentální hygienistka,17983,2015-06-29
+1090,Dentální hygienistka,18188,2016-01-04
+1091,Dentální hygienistka,18366,2015-10-01
+1092,Dentální hygienistka,18444,2015-05-27
+1093,Dentální hygienistka,19178,2014-11-13
+1094,Dentální hygienistka,19184,2015-03-09
+1095,Dentální hygienistka,19186,2014-12-03
+1096,Dentální hygienistka,19281,2015-08-01
+1097,Dentální hygienistka,19286,2015-01-01
+1098,Dentální hygienistka,19463,2015-06-22
+1099,Dentální hygienistka,19465,2015-09-01
+1100,Dentální hygienistka,19541,2014-12-17
+1101,Dentální hygienistka,19546,2014-10-01
+1102,Dentální hygienistka,19582,2014-11-05
+1103,Dentální hygienistka,20091,2014-10-10
+1104,Dentální hygienistka,20100,2014-02-01
+1105,Dentální hygienistka,20635,2015-01-01
+1106,Dentální hygienistka,20637,2015-01-01
+1107,Dentální hygienistka,20644,2015-07-01
+1108,Dentální hygienistka,20683,2015-03-01
+1109,Dentální hygienistka,20739,2017-06-26
+1110,Dentální hygienistka,20851,2012-06-06
+1111,Dentální hygienistka,21047,2015-01-01
+1112,Dentální hygienistka,22173,2014-09-01
+1113,Dentální hygienistka,22263,2014-03-03
+1114,Dentální hygienistka,22592,2014-05-05
+1115,Dentální hygienistka,22607,2014-09-01
+1116,Dentální hygienistka,22656,2014-08-04
+1117,Dentální hygienistka,23318,2014-01-01
+1118,Dentální hygienistka,23323,2014-03-10
+1119,Dentální hygienistka,23327,2014-01-01
+1120,Dentální hygienistka,23447,2014-03-01
+1121,Dentální hygienistka,23550,2014-03-19
+1122,Dentální hygienistka,23650,2014-03-01
+1123,Dentální hygienistka,24076,2014-04-01
+1124,Dentální hygienistka,24100,2014-01-01
+1125,Dentální hygienistka,24127,2014-01-01
+1126,Dentální hygienistka,24973,2013-03-01
+1127,Dentální hygienistka,24977,2013-01-21
+1128,Dentální hygienistka,26581,2013-03-01
+1129,Dentální hygienistka,26775,2013-06-01
+1130,Dentální hygienistka,26879,2013-07-01
+1131,Dentální hygienistka,27049,2013-05-01
+1132,Dentální hygienistka,27792,2013-01-01
+1133,Dentální hygienistka,27961,2013-01-01
+1134,Dentální hygienistka,28492,2012-09-01
+1135,Dentální hygienistka,28791,2012-10-01
+1136,Dentální hygienistka,29037,2012-04-01
+1137,Dentální hygienistka,29175,2012-02-01
+1138,Dentální hygienistka,29179,2012-02-01
+1139,Dentální hygienistka,29182,2012-10-01
+1140,Dentální hygienistka,29247,2012-01-01
+1141,Dentální hygienistka,29252,2012-03-09
+1142,Dentální hygienistka,29267,2012-07-25
+1143,Dentální hygienistka,29291,2012-09-01
+1144,Dentální hygienistka,29412,2012-03-16
+1145,Dentální hygienistka,29461,2012-04-01
+1146,Dentální hygienistka,29470,2012-07-01
+1147,Dentální hygienistka,29491,2012-04-27
+1148,Dentální hygienistka,29534,2012-07-15
+1149,Dentální hygienistka,29594,2012-01-01
+1150,Dentální hygienistka,29606,2011-01-11
+1151,Dentální hygienistka,30245,2012-01-01
+1152,Dentální hygienistka,30311,2012-03-21
+1153,Dentální hygienistka,30600,2012-01-01
+1154,Dentální hygienistka,30863,2012-01-01
+1155,Dentální hygienistka,30955,2011-08-15
+1156,Dentální hygienistka,30959,2011-10-19
+1157,Dentální hygienistka,31142,2011-07-01
+1158,Dentální hygienistka,31428,2011-04-01
+1159,Dentální hygienistka,31478,2011-08-01
+1160,Dentální hygienistka,31571,2011-01-01
+1161,Dentální hygienistka,32473,2011-01-01
+1162,Dentální hygienistka,32992,2011-01-01
+1163,Dentální hygienistka,33351,2010-08-01
+1164,Dentální hygienistka,33512,2010-08-01
+1165,Dentální hygienistka,33706,2010-06-01
+1166,Dentální hygienistka,34297,2010-01-01
+1167,Dentální hygienistka,34808,2013-04-22
+1168,Dentální hygienistka,35474,2009-05-01
+1169,Dentální hygienistka,36187,2009-01-01
+1170,Dentální hygienistka,36233,2009-05-01
+1171,Dentální hygienistka,36285,2009-01-01
+1172,Dentální hygienistka,36411,2009-01-01
+1173,Dentální hygienistka,36477,2009-01-01
+1174,Dentální hygienistka,36603,2008-04-01
+1175,Dentální hygienistka,36946,2008-01-28
+1176,Dentální hygienistka,37006,2008-09-01
+1177,Dentální hygienistka,37073,2008-06-02
+1178,Dentální hygienistka,37890,2008-01-01
+1179,Dentální hygienistka,38714,2007-06-07
+1180,Dentální hygienistka,39220,2007-01-01
+1181,Dentální hygienistka,40258,2006-10-01
+1182,Dentální hygienistka,40263,2006-04-07
+1183,Dentální hygienistka,41416,2005-07-20
+1184,Dentální hygienistka,41528,2005-04-01
+1185,Dentální hygienistka,41600,2005-10-01
+1186,Dentální hygienistka,41974,2005-04-23
+1187,Dentální hygienistka,42271,2005-01-01
+1188,Dentální hygienistka,42407,2005-03-07
+1189,Dentální hygienistka,43010,2004-01-01
+1190,Dentální hygienistka,43571,2004-01-01
+1191,Dentální hygienistka,43716,2003-09-01
+1192,Dentální hygienistka,43794,2004-01-01
+1193,Dentální hygienistka,44659,2003-10-01
+1194,Dentální hygienistka,45849,2001-04-01
+1195,Dentální hygienistka,47838,1996-02-01
+1196,Dentální hygienistka,47848,1996-02-01
+1197,Dentální hygienistka,48139,1995-04-01
+1198,Dentální hygienistka,49750,1993-10-01
+1199,Dentální hygienistka,50784,1993-05-01
+1200,Dentální hygienistka,52614,1993-03-01
+1201,Dentální hygienistka,57072,1996-10-01
+1202,Dentální hygienistka,57767,1998-01-01
+1203,Fyzioterapeut,146,2021-09-01
+1204,Fyzioterapeut,196,2021-08-09
+1205,Fyzioterapeut,197,2021-08-09
+1206,Fyzioterapeut,199,2021-08-09
+1207,Fyzioterapeut,200,2021-08-09
+1208,Fyzioterapeut,220,2021-10-01
+1209,Fyzioterapeut,223,2021-08-23
+1210,Fyzioterapeut,224,2021-08-23
+1211,Fyzioterapeut,282,2021-07-14
+1212,Fyzioterapeut,409,2021-06-30
+1213,Fyzioterapeut,412,2021-06-30
+1214,Fyzioterapeut,488,2021-06-28
+1215,Fyzioterapeut,489,2021-06-28
+1216,Fyzioterapeut,540,2021-06-21
+1217,Fyzioterapeut,544,2021-06-21
+1218,Fyzioterapeut,595,2021-07-01
+1219,Fyzioterapeut,685,2021-05-25
+1220,Fyzioterapeut,697,2021-05-31
+1221,Fyzioterapeut,811,2021-05-17
+1222,Fyzioterapeut,926,2021-04-26
+1223,Fyzioterapeut,939,2021-05-01
+1224,Fyzioterapeut,943,2021-05-03
+1225,Fyzioterapeut,977,2021-04-28
+1226,Fyzioterapeut,1036,2021-04-14
+1227,Fyzioterapeut,1123,2021-03-27
+1228,Fyzioterapeut,1172,2021-03-29
+1229,Fyzioterapeut,1291,2021-03-23
+1230,Fyzioterapeut,1294,2021-03-24
+1231,Fyzioterapeut,1302,2021-03-15
+1232,Fyzioterapeut,1315,2021-03-15
+1233,Fyzioterapeut,1316,2021-02-22
+1234,Fyzioterapeut,1351,2021-03-17
+1235,Fyzioterapeut,1354,2021-03-15
+1236,Fyzioterapeut,1356,2021-03-08
+1237,Fyzioterapeut,1359,2021-03-17
+1238,Fyzioterapeut,1383,2021-03-10
+1239,Fyzioterapeut,1384,2021-03-10
+1240,Fyzioterapeut,1385,2021-03-11
+1241,Fyzioterapeut,1412,2021-03-08
+1242,Fyzioterapeut,1425,2021-04-01
+1243,Fyzioterapeut,1449,2021-02-17
+1244,Fyzioterapeut,1468,2021-03-01
+1245,Fyzioterapeut,1475,2021-03-01
+1246,Fyzioterapeut,1476,2021-03-01
+1247,Fyzioterapeut,1531,2021-02-22
+1248,Fyzioterapeut,1557,2021-02-17
+1249,Fyzioterapeut,1594,2021-02-08
+1250,Fyzioterapeut,1629,2021-02-10
+1251,Fyzioterapeut,1689,2020-12-14
+1252,Fyzioterapeut,1744,2021-01-27
+1253,Fyzioterapeut,1751,2021-01-11
+1254,Fyzioterapeut,1956,2021-01-01
+1255,Fyzioterapeut,1957,2021-01-01
+1256,Fyzioterapeut,2027,2021-01-06
+1257,Fyzioterapeut,2028,2021-01-06
+1258,Fyzioterapeut,2084,2021-01-01
+1259,Fyzioterapeut,2185,2020-11-25
+1260,Fyzioterapeut,2195,2020-12-23
+1261,Fyzioterapeut,2204,2020-12-16
+1262,Fyzioterapeut,2215,2020-12-14
+1263,Fyzioterapeut,2233,2021-01-01
+1264,Fyzioterapeut,2340,2020-01-01
+1265,Fyzioterapeut,2361,2020-01-01
+1266,Fyzioterapeut,2496,2020-11-23
+1267,Fyzioterapeut,2567,2020-11-09
+1268,Fyzioterapeut,2580,2020-11-02
+1269,Fyzioterapeut,2679,2020-11-01
+1270,Fyzioterapeut,2684,2020-10-14
+1271,Fyzioterapeut,2724,2020-09-30
+1272,Fyzioterapeut,2748,2020-09-30
+1273,Fyzioterapeut,2771,2020-09-30
+1274,Fyzioterapeut,2778,2020-10-01
+1275,Fyzioterapeut,2781,2020-10-01
+1276,Fyzioterapeut,2847,2020-09-14
+1277,Fyzioterapeut,2886,2020-08-31
+1278,Fyzioterapeut,2888,2020-09-01
+1279,Fyzioterapeut,2895,2020-08-31
+1280,Fyzioterapeut,2902,2020-09-01
+1281,Fyzioterapeut,2908,2020-09-01
+1282,Fyzioterapeut,3046,2020-08-05
+1283,Fyzioterapeut,3062,2020-08-05
+1284,Fyzioterapeut,3106,2020-07-20
+1285,Fyzioterapeut,3197,2020-07-15
+1286,Fyzioterapeut,3228,2020-06-25
+1287,Fyzioterapeut,3252,2020-07-01
+1288,Fyzioterapeut,3254,2020-07-01
+1289,Fyzioterapeut,3255,2020-07-01
+1290,Fyzioterapeut,3353,2020-06-15
+1291,Fyzioterapeut,3373,2020-06-15
+1292,Fyzioterapeut,3386,2020-06-15
+1293,Fyzioterapeut,3388,2020-06-15
+1294,Fyzioterapeut,3415,2020-06-10
+1295,Fyzioterapeut,3552,2019-12-04
+1296,Fyzioterapeut,3621,2012-01-23
+1297,Fyzioterapeut,3623,2020-04-22
+1298,Fyzioterapeut,3797,2020-04-02
+1299,Fyzioterapeut,3843,2020-04-02
+1300,Fyzioterapeut,3945,2020-01-01
+1301,Fyzioterapeut,4024,2020-02-20
+1302,Fyzioterapeut,4183,2020-03-09
+1303,Fyzioterapeut,4269,2020-02-19
+1304,Fyzioterapeut,4279,2020-02-19
+1305,Fyzioterapeut,4491,2020-02-03
+1306,Fyzioterapeut,4517,2020-01-01
+1307,Fyzioterapeut,4553,2020-01-01
+1308,Fyzioterapeut,4563,2020-01-01
+1309,Fyzioterapeut,4573,2020-01-01
+1310,Fyzioterapeut,4574,2020-01-01
+1311,Fyzioterapeut,4575,2020-01-01
+1312,Fyzioterapeut,4587,2020-01-01
+1313,Fyzioterapeut,4618,2020-01-08
+1314,Fyzioterapeut,4685,2020-01-29
+1315,Fyzioterapeut,4686,2020-01-29
+1316,Fyzioterapeut,4729,2020-01-15
+1317,Fyzioterapeut,4773,2019-01-01
+1318,Fyzioterapeut,4819,2020-01-14
+1319,Fyzioterapeut,4821,2020-01-01
+1320,Fyzioterapeut,4895,2020-01-01
+1321,Fyzioterapeut,5253,2019-07-01
+1322,Fyzioterapeut,5489,2019-09-25
+1323,Fyzioterapeut,5538,2019-09-30
+1324,Fyzioterapeut,5540,2019-09-30
+1325,Fyzioterapeut,5590,2019-01-01
+1326,Fyzioterapeut,5614,2020-01-01
+1327,Fyzioterapeut,5795,2019-08-26
+1328,Fyzioterapeut,5863,2019-09-03
+1329,Fyzioterapeut,6223,2019-06-12
+1330,Fyzioterapeut,6492,2019-06-30
+1331,Fyzioterapeut,6521,2019-05-22
+1332,Fyzioterapeut,6524,2019-05-20
+1333,Fyzioterapeut,6570,2019-01-01
+1334,Fyzioterapeut,6671,2019-04-29
+1335,Fyzioterapeut,6694,2019-05-03
+1336,Fyzioterapeut,6847,2019-01-01
+1337,Fyzioterapeut,6849,2019-01-01
+1338,Fyzioterapeut,6851,2019-01-01
+1339,Fyzioterapeut,6856,2019-03-31
+1340,Fyzioterapeut,6871,2019-06-01
+1341,Fyzioterapeut,6872,2019-06-01
+1342,Fyzioterapeut,6874,2019-06-01
+1343,Fyzioterapeut,6938,2019-01-01
+1344,Fyzioterapeut,6939,2019-01-01
+1345,Fyzioterapeut,7058,2007-04-19
+1346,Fyzioterapeut,7091,2019-02-25
+1347,Fyzioterapeut,7092,2019-02-25
+1348,Fyzioterapeut,7101,2019-02-27
+1349,Fyzioterapeut,7107,2016-01-01
+1350,Fyzioterapeut,7112,2019-03-06
+1351,Fyzioterapeut,7144,2019-03-05
+1352,Fyzioterapeut,7253,2019-01-21
+1353,Fyzioterapeut,7254,2019-02-06
+1354,Fyzioterapeut,7257,2019-02-06
+1355,Fyzioterapeut,7342,2019-02-11
+1356,Fyzioterapeut,7343,2019-02-11
+1357,Fyzioterapeut,7389,2019-01-28
+1358,Fyzioterapeut,7433,2019-01-01
+1359,Fyzioterapeut,7436,2019-01-01
+1360,Fyzioterapeut,7444,2019-01-08
+1361,Fyzioterapeut,7446,2019-01-08
+1362,Fyzioterapeut,7450,2019-01-08
+1363,Fyzioterapeut,7460,2019-01-01
+1364,Fyzioterapeut,7576,2019-01-16
+1365,Fyzioterapeut,7578,2019-01-16
+1366,Fyzioterapeut,7579,2019-01-16
+1367,Fyzioterapeut,7612,2019-01-07
+1368,Fyzioterapeut,7613,2019-01-07
+1369,Fyzioterapeut,7615,2019-01-09
+1370,Fyzioterapeut,7745,2019-01-01
+1371,Fyzioterapeut,8018,2019-01-01
+1372,Fyzioterapeut,8019,2019-01-01
+1373,Fyzioterapeut,8028,2018-11-23
+1374,Fyzioterapeut,8065,2018-11-05
+1375,Fyzioterapeut,8139,2018-11-12
+1376,Fyzioterapeut,8256,2018-10-03
+1377,Fyzioterapeut,8303,2018-10-22
+1378,Fyzioterapeut,8304,2018-10-22
+1379,Fyzioterapeut,8398,2018-09-26
+1380,Fyzioterapeut,8466,2018-11-01
+1381,Fyzioterapeut,8471,2018-09-24
+1382,Fyzioterapeut,8488,2018-09-19
+1383,Fyzioterapeut,8489,2018-09-19
+1384,Fyzioterapeut,8654,2018-09-01
+1385,Fyzioterapeut,8764,2018-04-18
+1386,Fyzioterapeut,8803,2018-08-08
+1387,Fyzioterapeut,8810,2018-08-01
+1388,Fyzioterapeut,9053,2018-06-27
+1389,Fyzioterapeut,9091,2018-07-11
+1390,Fyzioterapeut,9185,2018-06-25
+1391,Fyzioterapeut,9452,2018-05-30
+1392,Fyzioterapeut,9557,2018-08-01
+1393,Fyzioterapeut,9702,2018-05-16
+1394,Fyzioterapeut,9822,2018-04-30
+1395,Fyzioterapeut,9864,2018-01-01
+1396,Fyzioterapeut,9868,2018-02-19
+1397,Fyzioterapeut,9917,2018-04-11
+1398,Fyzioterapeut,10370,2018-01-01
+1399,Fyzioterapeut,10392,2018-01-01
+1400,Fyzioterapeut,10397,2018-01-01
+1401,Fyzioterapeut,10587,2018-01-15
+1402,Fyzioterapeut,10812,2017-07-01
+1403,Fyzioterapeut,10921,2018-01-01
+1404,Fyzioterapeut,10974,2017-11-06
+1405,Fyzioterapeut,11200,2017-08-31
+1406,Fyzioterapeut,11236,2017-11-06
+1407,Fyzioterapeut,11319,2017-11-03
+1408,Fyzioterapeut,11464,2017-09-27
+1409,Fyzioterapeut,11692,2017-09-04
+1410,Fyzioterapeut,11718,2016-04-25
+1411,Fyzioterapeut,11724,2017-08-21
+1412,Fyzioterapeut,11737,2017-08-28
+1413,Fyzioterapeut,11746,2017-01-01
+1414,Fyzioterapeut,11871,2017-06-19
+1415,Fyzioterapeut,11943,2017-07-17
+1416,Fyzioterapeut,11945,2017-07-19
+1417,Fyzioterapeut,11947,2017-07-19
+1418,Fyzioterapeut,12056,2017-06-28
+1419,Fyzioterapeut,12157,2017-06-07
+1420,Fyzioterapeut,12176,2017-06-14
+1421,Fyzioterapeut,12352,2017-05-25
+1422,Fyzioterapeut,12367,2017-05-10
+1423,Fyzioterapeut,12428,2017-05-02
+1424,Fyzioterapeut,12455,2017-05-03
+1425,Fyzioterapeut,12456,2017-05-03
+1426,Fyzioterapeut,12563,2017-03-29
+1427,Fyzioterapeut,12620,2017-03-15
+1428,Fyzioterapeut,12730,2017-03-08
+1429,Fyzioterapeut,12790,2017-03-06
+1430,Fyzioterapeut,12946,2017-01-09
+1431,Fyzioterapeut,13058,2017-01-18
+1432,Fyzioterapeut,13468,2017-01-01
+1433,Fyzioterapeut,13736,2016-11-09
+1434,Fyzioterapeut,14065,2016-10-12
+1435,Fyzioterapeut,14144,2016-09-21
+1436,Fyzioterapeut,14205,2016-01-01
+1437,Fyzioterapeut,14216,2016-09-19
+1438,Fyzioterapeut,14217,2016-09-19
+1439,Fyzioterapeut,14428,2016-09-05
+1440,Fyzioterapeut,15188,2016-04-01
+1441,Fyzioterapeut,15209,2013-03-28
+1442,Fyzioterapeut,15235,2005-01-01
+1443,Fyzioterapeut,15368,2017-12-01
+1444,Fyzioterapeut,15797,2002-04-29
+1445,Fyzioterapeut,15831,2017-01-01
+1446,Fyzioterapeut,15838,2017-01-01
+1447,Fyzioterapeut,15846,2017-01-01
+1448,Fyzioterapeut,15853,2017-01-01
+1449,Fyzioterapeut,15858,2017-01-01
+1450,Fyzioterapeut,15865,2017-01-01
+1451,Fyzioterapeut,15874,2017-01-01
+1452,Fyzioterapeut,15879,2017-01-01
+1453,Fyzioterapeut,15888,2017-01-01
+1454,Fyzioterapeut,15901,2016-06-15
+1455,Fyzioterapeut,15908,2017-01-01
+1456,Fyzioterapeut,16559,2016-03-30
+1457,Fyzioterapeut,16936,2016-01-01
+1458,Fyzioterapeut,17090,2016-02-16
+1459,Fyzioterapeut,17122,2016-02-10
+1460,Fyzioterapeut,17141,2016-02-22
+1461,Fyzioterapeut,17158,2016-01-01
+1462,Fyzioterapeut,17163,2016-01-01
+1463,Fyzioterapeut,17166,2016-01-01
+1464,Fyzioterapeut,17172,2016-01-01
+1465,Fyzioterapeut,17184,2016-01-01
+1466,Fyzioterapeut,17185,2016-01-01
+1467,Fyzioterapeut,17194,2016-01-01
+1468,Fyzioterapeut,17199,2016-01-01
+1469,Fyzioterapeut,17276,2015-03-09
+1470,Fyzioterapeut,17291,2015-03-16
+1471,Fyzioterapeut,17292,2015-03-02
+1472,Fyzioterapeut,17373,2014-10-15
+1473,Fyzioterapeut,17376,2015-05-15
+1474,Fyzioterapeut,17404,2014-06-04
+1475,Fyzioterapeut,17619,2016-01-06
+1476,Fyzioterapeut,17817,2016-01-01
+1477,Fyzioterapeut,17828,2016-01-01
+1478,Fyzioterapeut,18179,2016-01-01
+1479,Fyzioterapeut,18181,2014-08-05
+1480,Fyzioterapeut,18197,2016-01-01
+1481,Fyzioterapeut,18317,2015-01-01
+1482,Fyzioterapeut,18485,2015-10-01
+1483,Fyzioterapeut,19113,2015-08-26
+1484,Fyzioterapeut,19155,2015-10-12
+1485,Fyzioterapeut,19157,2015-10-12
+1486,Fyzioterapeut,19176,2012-06-01
+1487,Fyzioterapeut,19311,2014-11-12
+1488,Fyzioterapeut,19318,2015-01-01
+1489,Fyzioterapeut,19525,2015-10-10
+1490,Fyzioterapeut,19578,2015-01-01
+1491,Fyzioterapeut,19683,2014-10-10
+1492,Fyzioterapeut,19928,2002-12-18
+1493,Fyzioterapeut,19954,2014-05-14
+1494,Fyzioterapeut,20010,2015-09-02
+1495,Fyzioterapeut,20240,2013-09-03
+1496,Fyzioterapeut,20347,2015-07-01
+1497,Fyzioterapeut,20378,2007-11-09
+1498,Fyzioterapeut,20458,2010-09-01
+1499,Fyzioterapeut,20546,2015-07-01
+1500,Fyzioterapeut,20551,2010-03-30
+1501,Fyzioterapeut,21074,2015-01-01
+1502,Fyzioterapeut,21189,2014-01-13
+1503,Fyzioterapeut,21225,2015-01-01
+1504,Fyzioterapeut,21630,2010-10-22
+1505,Fyzioterapeut,22425,2012-12-10
+1506,Fyzioterapeut,22472,2014-05-14
+1507,Fyzioterapeut,22501,2014-04-01
+1508,Fyzioterapeut,22580,2014-06-11
+1509,Fyzioterapeut,22686,2014-01-01
+1510,Fyzioterapeut,23050,2014-01-01
+1511,Fyzioterapeut,23054,2014-06-01
+1512,Fyzioterapeut,23105,2014-04-30
+1513,Fyzioterapeut,23156,2014-03-01
+1514,Fyzioterapeut,23191,2014-03-03
+1515,Fyzioterapeut,23192,2014-03-03
+1516,Fyzioterapeut,23576,2007-05-15
+1517,Fyzioterapeut,23761,2014-02-20
+1518,Fyzioterapeut,23846,2014-01-01
+1519,Fyzioterapeut,24164,2014-01-01
+1520,Fyzioterapeut,24301,2014-01-06
+1521,Fyzioterapeut,24306,2014-01-01
+1522,Fyzioterapeut,24326,2014-01-01
+1523,Fyzioterapeut,24347,2014-01-01
+1524,Fyzioterapeut,24350,2014-01-01
+1525,Fyzioterapeut,24353,2014-01-01
+1526,Fyzioterapeut,24395,2014-01-01
+1527,Fyzioterapeut,24633,2013-06-14
+1528,Fyzioterapeut,24634,2013-06-14
+1529,Fyzioterapeut,24769,2013-04-02
+1530,Fyzioterapeut,24796,2009-07-10
+1531,Fyzioterapeut,24828,2007-12-25
+1532,Fyzioterapeut,25090,2013-07-29
+1533,Fyzioterapeut,25091,2013-07-29
+1534,Fyzioterapeut,25226,2013-03-01
+1535,Fyzioterapeut,25227,2013-03-01
+1536,Fyzioterapeut,26057,2012-04-12
+1537,Fyzioterapeut,26169,2012-07-19
+1538,Fyzioterapeut,26274,2013-09-01
+1539,Fyzioterapeut,26275,2013-09-01
+1540,Fyzioterapeut,26293,2013-05-01
+1541,Fyzioterapeut,26362,2013-03-28
+1542,Fyzioterapeut,26590,2013-01-09
+1543,Fyzioterapeut,26618,2013-06-01
+1544,Fyzioterapeut,26880,2013-07-01
+1545,Fyzioterapeut,27031,2013-01-01
+1546,Fyzioterapeut,27071,2013-03-11
+1547,Fyzioterapeut,27087,2013-05-01
+1548,Fyzioterapeut,27151,2013-01-01
+1549,Fyzioterapeut,27719,2013-01-01
+1550,Fyzioterapeut,27753,2013-03-01
+1551,Fyzioterapeut,27800,2013-02-01
+1552,Fyzioterapeut,27881,2013-02-01
+1553,Fyzioterapeut,28275,2013-01-01
+1554,Fyzioterapeut,28747,2012-01-01
+1555,Fyzioterapeut,28779,2012-01-01
+1556,Fyzioterapeut,29043,2012-01-01
+1557,Fyzioterapeut,29208,2013-01-01
+1558,Fyzioterapeut,29248,2012-03-01
+1559,Fyzioterapeut,29253,2012-02-29
+1560,Fyzioterapeut,29280,2012-01-01
+1561,Fyzioterapeut,29309,2012-01-01
+1562,Fyzioterapeut,29310,2012-04-01
+1563,Fyzioterapeut,29447,2012-09-01
+1564,Fyzioterapeut,29619,2012-02-01
+1565,Fyzioterapeut,29678,2012-09-01
+1566,Fyzioterapeut,30315,2012-04-04
+1567,Fyzioterapeut,30510,2012-03-01
+1568,Fyzioterapeut,30594,2012-01-02
+1569,Fyzioterapeut,30597,2012-01-01
+1570,Fyzioterapeut,30782,2012-01-01
+1571,Fyzioterapeut,30798,2012-01-01
+1572,Fyzioterapeut,30819,2013-01-01
+1573,Fyzioterapeut,30830,2012-01-01
+1574,Fyzioterapeut,30859,2012-01-01
+1575,Fyzioterapeut,30860,2012-01-01
+1576,Fyzioterapeut,30883,2012-01-01
+1577,Fyzioterapeut,30884,2012-01-01
+1578,Fyzioterapeut,31025,2011-07-01
+1579,Fyzioterapeut,31041,2012-07-01
+1580,Fyzioterapeut,31424,2011-01-13
+1581,Fyzioterapeut,31450,2011-10-01
+1582,Fyzioterapeut,31453,2011-10-01
+1583,Fyzioterapeut,31485,2011-05-19
+1584,Fyzioterapeut,31582,2009-01-01
+1585,Fyzioterapeut,31635,2011-06-01
+1586,Fyzioterapeut,31641,2011-07-11
+1587,Fyzioterapeut,31756,2011-01-01
+1588,Fyzioterapeut,31945,2011-07-01
+1589,Fyzioterapeut,32316,2011-04-13
+1590,Fyzioterapeut,32318,2011-04-13
+1591,Fyzioterapeut,32341,2011-01-01
+1592,Fyzioterapeut,32356,2011-01-01
+1593,Fyzioterapeut,32451,2011-01-01
+1594,Fyzioterapeut,32883,2011-03-01
+1595,Fyzioterapeut,32900,2011-01-01
+1596,Fyzioterapeut,32961,2011-03-01
+1597,Fyzioterapeut,32964,2011-03-01
+1598,Fyzioterapeut,33114,2011-01-01
+1599,Fyzioterapeut,33258,2010-04-16
+1600,Fyzioterapeut,33331,2010-09-01
+1601,Fyzioterapeut,33471,2010-10-01
+1602,Fyzioterapeut,33565,2010-06-01
+1603,Fyzioterapeut,33708,2010-06-09
+1604,Fyzioterapeut,33914,2010-07-01
+1605,Fyzioterapeut,34005,2010-01-01
+1606,Fyzioterapeut,34035,2010-01-01
+1607,Fyzioterapeut,34072,2010-03-22
+1608,Fyzioterapeut,34081,2010-01-01
+1609,Fyzioterapeut,34129,2010-01-01
+1610,Fyzioterapeut,34130,2010-01-01
+1611,Fyzioterapeut,34135,2010-01-01
+1612,Fyzioterapeut,34136,2010-01-01
+1613,Fyzioterapeut,34660,2010-01-01
+1614,Fyzioterapeut,34672,2010-01-01
+1615,Fyzioterapeut,34685,2010-02-01
+1616,Fyzioterapeut,34697,2010-01-01
+1617,Fyzioterapeut,34701,2010-01-01
+1618,Fyzioterapeut,34927,2010-01-01
+1619,Fyzioterapeut,35132,2009-11-01
+1620,Fyzioterapeut,35228,2009-09-01
+1621,Fyzioterapeut,35301,2009-10-01
+1622,Fyzioterapeut,35384,2009-08-01
+1623,Fyzioterapeut,35385,2009-08-01
+1624,Fyzioterapeut,35415,2009-04-13
+1625,Fyzioterapeut,35773,2009-06-01
+1626,Fyzioterapeut,35928,2009-01-01
+1627,Fyzioterapeut,36157,2009-01-01
+1628,Fyzioterapeut,36284,2009-01-01
+1629,Fyzioterapeut,36438,2009-01-01
+1630,Fyzioterapeut,36439,2009-01-01
+1631,Fyzioterapeut,36443,2009-02-01
+1632,Fyzioterapeut,36444,2009-01-01
+1633,Fyzioterapeut,36446,2009-01-01
+1634,Fyzioterapeut,36447,2009-01-01
+1635,Fyzioterapeut,36468,2009-01-01
+1636,Fyzioterapeut,36587,2007-04-01
+1637,Fyzioterapeut,36818,2008-09-12
+1638,Fyzioterapeut,36855,2008-10-01
+1639,Fyzioterapeut,36901,2008-09-01
+1640,Fyzioterapeut,36906,2008-09-01
+1641,Fyzioterapeut,36944,2008-07-01
+1642,Fyzioterapeut,36993,2008-07-03
+1643,Fyzioterapeut,36994,2008-07-03
+1644,Fyzioterapeut,37145,2008-05-05
+1645,Fyzioterapeut,37778,2008-03-20
+1646,Fyzioterapeut,37780,2008-03-20
+1647,Fyzioterapeut,37782,2008-03-20
+1648,Fyzioterapeut,37784,2008-03-20
+1649,Fyzioterapeut,37856,2008-01-01
+1650,Fyzioterapeut,37857,2008-01-01
+1651,Fyzioterapeut,37869,2008-04-01
+1652,Fyzioterapeut,37948,2008-01-01
+1653,Fyzioterapeut,38030,2007-01-01
+1654,Fyzioterapeut,38689,2007-02-06
+1655,Fyzioterapeut,38750,2007-09-01
+1656,Fyzioterapeut,39028,2007-01-01
+1657,Fyzioterapeut,39390,2007-04-25
+1658,Fyzioterapeut,39417,2007-02-01
+1659,Fyzioterapeut,39647,2007-02-01
+1660,Fyzioterapeut,39751,2007-01-01
+1661,Fyzioterapeut,39759,2007-01-01
+1662,Fyzioterapeut,39777,2007-01-01
+1663,Fyzioterapeut,40407,2006-09-01
+1664,Fyzioterapeut,40613,2006-01-01
+1665,Fyzioterapeut,40671,2006-05-01
+1666,Fyzioterapeut,40847,2008-04-03
+1667,Fyzioterapeut,41085,2006-01-01
+1668,Fyzioterapeut,41138,2006-01-01
+1669,Fyzioterapeut,41140,2006-01-01
+1670,Fyzioterapeut,41406,2005-12-01
+1671,Fyzioterapeut,41512,2005-01-01
+1672,Fyzioterapeut,42123,2005-01-01
+1673,Fyzioterapeut,42318,2005-01-01
+1674,Fyzioterapeut,42319,2005-01-01
+1675,Fyzioterapeut,42321,2005-01-01
+1676,Fyzioterapeut,42322,2008-07-03
+1677,Fyzioterapeut,42323,2005-01-01
+1678,Fyzioterapeut,42324,2005-01-01
+1679,Fyzioterapeut,42325,2005-01-01
+1680,Fyzioterapeut,42342,2005-01-01
+1681,Fyzioterapeut,42413,2005-02-01
+1682,Fyzioterapeut,42506,2005-03-01
+1683,Fyzioterapeut,43004,2004-01-01
+1684,Fyzioterapeut,43337,2003-05-01
+1685,Fyzioterapeut,43410,2004-04-01
+1686,Fyzioterapeut,43491,1994-01-01
+1687,Fyzioterapeut,43492,1994-01-01
+1688,Fyzioterapeut,43570,2004-01-01
+1689,Fyzioterapeut,43800,2004-01-01
+1690,Fyzioterapeut,44610,1991-01-01
+1691,Fyzioterapeut,44611,1991-01-01
+1692,Fyzioterapeut,44657,2003-10-01
+1693,Fyzioterapeut,44658,2003-10-01
+1694,Fyzioterapeut,44702,2003-01-01
+1695,Fyzioterapeut,44825,2003-07-01
+1696,Fyzioterapeut,44883,2003-02-17
+1697,Fyzioterapeut,45046,1994-01-01
+1698,Fyzioterapeut,45097,2003-01-01
+1699,Fyzioterapeut,45131,2003-02-01
+1700,Fyzioterapeut,45160,2003-01-01
+1701,Fyzioterapeut,45181,2003-01-01
+1702,Fyzioterapeut,45218,1994-04-01
+1703,Fyzioterapeut,45292,2003-01-01
+1704,Fyzioterapeut,45295,2003-01-01
+1705,Fyzioterapeut,45344,2003-01-01
+1706,Fyzioterapeut,45393,2002-10-01
+1707,Fyzioterapeut,45589,2018-01-01
+1708,Fyzioterapeut,45663,2002-06-01
+1709,Fyzioterapeut,45903,2001-01-01
+1710,Fyzioterapeut,46156,2000-01-01
+1711,Fyzioterapeut,46337,2009-07-01
+1712,Fyzioterapeut,46667,1998-10-01
+1713,Fyzioterapeut,47521,1997-05-01
+1714,Fyzioterapeut,47540,1996-01-01
+1715,Fyzioterapeut,47807,1996-05-01
+1716,Fyzioterapeut,47813,1996-03-01
+1717,Fyzioterapeut,47835,1996-05-01
+1718,Fyzioterapeut,47902,1998-12-01
+1719,Fyzioterapeut,48071,1995-03-01
+1720,Fyzioterapeut,48152,1995-03-01
+1721,Fyzioterapeut,48156,1995-03-01
+1722,Fyzioterapeut,48213,2000-04-01
+1723,Fyzioterapeut,48285,1997-01-01
+1724,Fyzioterapeut,48552,2001-04-01
+1725,Fyzioterapeut,48761,1996-01-01
+1726,Fyzioterapeut,48767,1994-08-01
+1727,Fyzioterapeut,48871,1994-12-01
+1728,Fyzioterapeut,48894,1995-09-01
+1729,Fyzioterapeut,49406,1997-06-01
+1730,Fyzioterapeut,49433,1994-03-01
+1731,Fyzioterapeut,49435,1994-04-01
+1732,Fyzioterapeut,49714,1996-06-01
+1733,Fyzioterapeut,49742,1994-01-01
+1734,Fyzioterapeut,49744,1994-01-01
+1735,Fyzioterapeut,50287,1994-05-01
+1736,Fyzioterapeut,51825,1993-02-01
+1737,Fyzioterapeut,52610,1993-07-01
+1738,Fyzioterapeut,52649,1994-01-01
+1739,Fyzioterapeut,52656,1993-09-01
+1740,Fyzioterapeut,53737,1994-09-01
+1741,Fyzioterapeut,54433,1992-11-01
+1742,Fyzioterapeut,56320,1993-01-01
+1743,Fyzioterapeut,56701,1992-07-01
+1744,Fyzioterapeut,56973,1998-10-01
+1745,Fyzioterapeut,57023,1998-09-01
+1746,Fyzioterapeut,57059,1998-02-01
+1747,Fyzioterapeut,57066,1993-08-01
+1748,Fyzioterapeut,57117,2001-07-01
+1749,Fyzioterapeut,57132,2001-02-01
+1750,Fyzioterapeut,57323,2000-10-01
+1751,Fyzioterapeut,57334,1999-01-01
+1752,Fyzioterapeut,57354,1998-05-01
+1753,Fyzioterapeut,57370,2001-10-01
+1754,Fyzioterapeut,57374,1998-01-01
+1755,Fyzioterapeut,57771,1998-01-01
+1756,Fyzioterapeut,57887,1998-02-01
+1757,Fyzioterapeut,57963,2002-05-01
+1758,Fyzioterapeut,57996,1997-08-01
+1759,Fyzioterapeut,58046,1992-11-01
+1760,Fyzioterapeut,58104,1995-01-01
+1761,Fyzioterapeut,58105,1998-02-01
+1762,Fyzioterapeut,58148,1998-01-01
+1763,Fyzioterapeut,58149,1992-01-01
+1764,Fyzioterapeut,58257,1992-01-01
+1765,Fyzioterapeut,61015,1976-12-01
+1766,Fyzioterapeut,61316,1976-12-01
+1767,Fyzioterapeut,61337,1976-12-01
+1768,Fyzioterapeut,61338,1976-12-01
+1769,Fyzioterapeut,61407,1994-01-01
+1770,Fyzioterapeut,61408,1994-01-01
+1771,Fyzioterapeut,61479,1994-01-01
+1772,Fyzioterapeut,61480,1994-01-01
+1773,Fyzioterapeut,61500,1994-01-01
+1774,Fyzioterapeut,61501,1994-01-01
+1775,Fyzioterapeut,61529,1994-01-01
+1776,Fyzioterapeut,61530,1994-01-01
+1777,Fyzioterapeut,61620,1994-01-01
+1778,Fyzioterapeut,61621,1994-01-01
+1779,Fyzioterapeut,61651,1994-01-01
+1780,Fyzioterapeut,61652,1994-01-01
+1781,Fyzioterapeut,61674,1994-01-01
+1782,Fyzioterapeut,61675,1994-01-01
+1783,Fyzioterapeut,61689,1994-01-01
+1784,Fyzioterapeut,61690,1994-01-01
+1785,Fyzioterapeut,61712,1994-01-01
+1786,Fyzioterapeut,61713,1994-01-01
+1787,Fyzioterapeut,61795,1989-12-01
+1788,Fyzioterapeut,61796,1989-12-01
+1789,Fyzioterapeut,61797,1989-12-01
+1790,Fyzioterapeut,61871,1992-01-01
+1791,Fyzioterapeut,61919,1992-01-01
+1792,kardiologie,116,2021-08-30
+1793,kardiologie,400,2021-08-01
+1794,kardiologie,1663,2021-02-01
+1795,kardiologie,1872,2021-01-01
+1796,kardiologie,1873,2021-01-01
+1797,kardiologie,1874,2021-01-01
+1798,kardiologie,2105,2021-01-01
+1799,kardiologie,2330,2020-01-01
+1800,kardiologie,2343,2020-01-01
+1801,kardiologie,2365,2020-01-01
+1802,kardiologie,2582,2021-01-01
+1803,kardiologie,2785,2020-10-01
+1804,kardiologie,2862,2020-08-26
+1805,kardiologie,3047,2020-08-05
+1806,kardiologie,3209,2020-08-01
+1807,kardiologie,3420,2020-06-01
+1808,kardiologie,3801,2020-04-02
+1809,kardiologie,3822,2020-04-02
+1810,kardiologie,4334,2020-02-05
+1811,kardiologie,4335,2020-02-05
+1812,kardiologie,4496,2020-01-01
+1813,kardiologie,4516,2020-01-01
+1814,kardiologie,4589,2020-01-01
+1815,kardiologie,4882,2019-06-19
+1816,kardiologie,5168,2020-01-01
+1817,kardiologie,5250,2019-07-01
+1818,kardiologie,5665,2019-10-02
+1819,kardiologie,5681,2019-09-25
+1820,kardiologie,5857,2019-09-03
+1821,kardiologie,5929,2019-09-01
+1822,kardiologie,6160,2019-09-01
+1823,kardiologie,6202,2019-07-23
+1824,kardiologie,6533,2019-10-01
+1825,kardiologie,7020,2019-03-28
+1826,kardiologie,7102,2019-02-27
+1827,kardiologie,7216,2019-02-20
+1828,kardiologie,8396,2018-09-26
+1829,kardiologie,8469,2018-09-24
+1830,kardiologie,8657,2018-09-01
+1831,kardiologie,8762,2018-04-18
+1832,kardiologie,8818,2018-08-06
+1833,kardiologie,9609,2018-05-23
+1834,kardiologie,9676,2018-05-14
+1835,kardiologie,9727,2018-05-07
+1836,kardiologie,10118,2018-03-09
+1837,kardiologie,10366,2018-01-01
+1838,kardiologie,10450,2018-01-01
+1839,kardiologie,10777,2018-03-01
+1840,kardiologie,10970,2017-11-06
+1841,kardiologie,11229,2017-11-06
+1842,kardiologie,11734,2017-08-28
+1843,kardiologie,12009,2017-01-01
+1844,kardiologie,12106,2017-06-01
+1845,kardiologie,12489,2017-04-01
+1846,kardiologie,12767,2017-05-01
+1847,kardiologie,12953,2017-01-01
+1848,kardiologie,13225,2015-09-01
+1849,kardiologie,13471,2017-01-01
+1850,kardiologie,13523,2017-01-01
+1851,kardiologie,13527,2017-01-01
+1852,kardiologie,13732,2016-11-09
+1853,kardiologie,13853,2016-10-31
+1854,kardiologie,14647,2016-08-31
+1855,kardiologie,15232,2005-01-01
+1856,kardiologie,15311,2016-03-30
+1857,kardiologie,15319,2011-06-01
+1858,kardiologie,15361,2012-07-16
+1859,kardiologie,15827,2017-01-01
+1860,kardiologie,15834,2017-01-01
+1861,kardiologie,15849,2017-01-01
+1862,kardiologie,15861,2017-01-01
+1863,kardiologie,15869,2017-01-01
+1864,kardiologie,15884,2017-01-01
+1865,kardiologie,16610,2016-01-01
+1866,kardiologie,16801,2016-04-13
+1867,kardiologie,17152,2016-01-11
+1868,kardiologie,17175,2016-01-01
+1869,kardiologie,17179,2016-01-01
+1870,kardiologie,17315,2016-01-01
+1871,kardiologie,17391,2015-06-02
+1872,kardiologie,17648,2016-01-01
+1873,kardiologie,18078,2016-01-01
+1874,kardiologie,18089,2016-01-01
+1875,kardiologie,18233,2015-01-01
+1876,kardiologie,18304,2015-01-01
+1877,kardiologie,18308,2015-01-01
+1878,kardiologie,19323,2015-01-01
+1879,kardiologie,19473,2015-01-05
+1880,kardiologie,19570,2014-09-08
+1881,kardiologie,19659,2015-06-01
+1882,kardiologie,20339,2015-01-01
+1883,kardiologie,20358,2015-01-01
+1884,kardiologie,20365,2015-01-01
+1885,kardiologie,20565,2010-05-07
+1886,kardiologie,20576,2011-06-01
+1887,kardiologie,20862,2015-03-01
+1888,kardiologie,22181,2014-05-13
+1889,kardiologie,22659,2014-07-01
+1890,kardiologie,24382,2014-02-01
+1891,kardiologie,26092,2013-10-01
+1892,kardiologie,26248,2009-08-01
+1893,kardiologie,27023,2013-01-01
+1894,kardiologie,27960,2013-01-01
+1895,kardiologie,28239,2013-01-01
+1896,kardiologie,28289,2012-12-19
+1897,kardiologie,28771,2012-01-01
+1898,kardiologie,29524,2012-06-01
+1899,kardiologie,29665,2012-07-01
+1900,kardiologie,30516,2012-03-01
+1901,kardiologie,30544,2012-01-01
+1902,kardiologie,30563,2012-02-13
+1903,kardiologie,30682,2012-01-01
+1904,kardiologie,32007,2009-01-01
+1905,kardiologie,32322,2011-01-01
+1906,kardiologie,32457,2011-01-01
+1907,kardiologie,32862,2012-01-01
+1908,kardiologie,32887,2011-02-01
+1909,kardiologie,33286,2010-01-01
+1910,kardiologie,33374,2010-09-01
+1911,kardiologie,33470,2010-10-01
+1912,kardiologie,33875,2010-05-01
+1913,kardiologie,34034,2010-01-01
+1914,kardiologie,34105,2010-02-23
+1915,kardiologie,34274,2010-01-01
+1916,kardiologie,34470,2010-03-01
+1917,kardiologie,35696,2009-07-01
+1918,kardiologie,36222,2009-05-01
+1919,kardiologie,36261,2009-01-01
+1920,kardiologie,36460,2009-01-01
+1921,kardiologie,36549,2008-10-01
+1922,kardiologie,36586,2007-04-01
+1923,kardiologie,37165,2008-05-19
+1924,kardiologie,39178,2006-09-01
+1925,kardiologie,39189,2007-08-01
+1926,kardiologie,39325,2007-04-01
+1927,kardiologie,39464,2007-03-09
+1928,kardiologie,39765,2007-01-01
+1929,kardiologie,42158,2005-02-01
+1930,kardiologie,42294,2005-01-01
+1931,kardiologie,42339,2005-01-01
+1932,kardiologie,43026,2004-07-01
+1933,kardiologie,43453,1994-01-01
+1934,kardiologie,43454,1994-01-01
+1935,kardiologie,43455,1994-01-01
+1936,kardiologie,43791,2004-01-01
+1937,kardiologie,44640,2003-10-01
+1938,kardiologie,44826,2003-07-01
+1939,kardiologie,44886,2003-02-17
+1940,kardiologie,45143,2003-01-01
+1941,kardiologie,45192,2002-03-01
+1942,kardiologie,46151,2000-07-01
+1943,kardiologie,46756,1997-04-01
+1944,kardiologie,46762,1997-07-01
+1945,kardiologie,46771,1997-04-01
+1946,kardiologie,47867,1995-11-01
+1947,kardiologie,48121,1995-06-01
+1948,kardiologie,48172,1995-05-01
+1949,kardiologie,48862,1993-04-01
+1950,kardiologie,49503,1994-06-01
+1951,kardiologie,49504,1994-06-01
+1952,kardiologie,50967,1993-11-01
+1953,kardiologie,50998,1993-09-01
+1954,kardiologie,51828,1993-03-01
+1955,kardiologie,51854,1993-08-01
+1956,kardiologie,54435,1992-11-01
+1957,kardiologie,56048,1999-01-01
+1958,kardiologie,56322,1976-12-01
+1959,kardiologie,57074,2001-01-25
+1960,kardiologie,57138,2001-02-01
+1961,kardiologie,57320,2000-01-01
+1962,kardiologie,57366,1999-02-01
+1963,kardiologie,57385,1998-01-01
+1964,kardiologie,57784,1996-01-01
+1965,kardiologie,58254,1992-01-01
+1966,kardiologie,61113,1976-12-01
+1967,kardiologie,61114,1976-12-01
+1968,kardiologie,61115,1976-12-01
+1969,kardiologie,61216,1976-12-01
+1970,kardiologie,61217,1976-12-01
+1971,kardiologie,61218,1976-12-01
+1972,kardiologie,61356,1976-12-01
+1973,kardiologie,61357,1976-12-01
+1974,kardiologie,61358,1976-12-01
+1975,kardiologie,61545,1994-01-01
+1976,kardiologie,61546,1994-01-01
+1977,kardiologie,61547,1994-01-01
+1978,kardiologie,61722,1994-01-01
+1979,kardiologie,61723,1994-01-01
+1980,kardiologie,61724,1994-01-01
+1981,kardiologie,61771,1989-12-01
+1982,kardiologie,61772,1989-12-01
+1983,kardiologie,61773,1989-12-01
+1984,kardiologie,61774,1989-12-01
+1985,kardiologie,61948,1992-01-01
+1986,kardiologie,61949,1992-01-01
+1987,kardiologie,61950,1992-01-01
+1988,sexuologie,1871,2021-01-01
+1989,sexuologie,2319,2020-12-07
+1990,sexuologie,3923,2020-01-01
+1991,sexuologie,3924,2020-01-01
+1992,sexuologie,3925,2020-01-01
+1993,sexuologie,3926,2020-01-01
+1994,sexuologie,3927,2020-01-01
+1995,sexuologie,7629,2019-01-10
+1996,sexuologie,9647,2018-01-22
+1997,sexuologie,14334,2016-01-01
+1998,sexuologie,14336,2016-01-01
+1999,sexuologie,14340,2016-01-01
+2000,sexuologie,14344,2016-01-01
+2001,sexuologie,25025,2013-11-01
+2002,sexuologie,27017,2013-04-01
+2003,sexuologie,27146,2008-09-29
+2004,sexuologie,30458,2012-02-01
+2005,sexuologie,30581,2012-01-01
+2006,sexuologie,36316,2009-01-01
+2007,sexuologie,36319,2009-01-01
+2008,sexuologie,36320,2009-01-01
+2009,sexuologie,37871,2008-01-01
+2010,sexuologie,39321,2007-07-01
+2011,sexuologie,39640,2007-01-10
+2012,sexuologie,40666,2006-04-25
+2013,sexuologie,43721,2003-02-01
+2014,sexuologie,45841,2001-02-01
+2015,sexuologie,46356,1999-11-01
+2016,sexuologie,47625,1998-04-01
+2017,sexuologie,48594,1997-05-01
+2018,sexuologie,48900,1994-05-01
+2019,sexuologie,49481,1994-10-01
+2020,sexuologie,50948,2001-10-01
+2021,sexuologie,50951,1993-09-01
+2022,sexuologie,55777,1992-10-01
+2023,sexuologie,57110,2002-05-01
+2024,sexuologie,60994,1976-12-01
+2025,sexuologie,61239,1976-12-01
+2026,sexuologie,61609,1994-01-01
+2027,sexuologie,61610,1994-01-01
+2028,sexuologie,61611,1994-01-01
+2029,sexuologie,61641,1994-01-01
+2030,sexuologie,61642,1994-01-01
+2031,sexuologie,61643,1994-01-01
+2032,sexuologie,61750,1989-12-01
+2033,sexuologie,61866,1992-01-01
+2034,soudní lékařství,2089,2021-01-01
+2035,soudní lékařství,61182,1976-12-01
+2036,soudní lékařství,61404,1994-01-01
+2037,soudní lékařství,61445,1994-01-01
+2038,Dentální hygienistka,1065,2021-06-01
+2039,Dentální hygienistka,3080,2020-06-16
+2040,Dentální hygienistka,6067,2019-06-12
+2041,Dentální hygienistka,15012,2015-10-23
+2042,Dentální hygienistka,15138,2016-09-01
+2043,Dentální hygienistka,19806,2015-07-01
+2044,Dentální hygienistka,26552,2013-01-03
+2045,Dentální hygienistka,35025,2009-09-01
+2046,Fyzioterapeut,1337,2021-04-01
+2047,Fyzioterapeut,7543,2018-10-25
+2048,Fyzioterapeut,10141,2018-03-01
+2049,Fyzioterapeut,10142,2018-03-01
+2050,Fyzioterapeut,10143,2018-03-01
+2051,Fyzioterapeut,10144,2018-03-01
+2052,Fyzioterapeut,10149,2018-03-01
+2053,Fyzioterapeut,10150,2018-03-01
+2054,Fyzioterapeut,10151,2018-03-01
+2055,Fyzioterapeut,10152,2018-03-01
+2056,Fyzioterapeut,11523,2017-10-01
+2057,Fyzioterapeut,13907,2015-08-03
+2058,Fyzioterapeut,13908,2015-08-03
+2059,Fyzioterapeut,14493,2010-08-02
+2060,Fyzioterapeut,18539,2014-08-20
+2061,Fyzioterapeut,18540,2014-08-20
+2062,Fyzioterapeut,22677,2014-01-01
+2063,Fyzioterapeut,22678,2014-01-01
+2064,Fyzioterapeut,22679,2014-01-01
+2065,Fyzioterapeut,23885,2014-01-01
+2066,Fyzioterapeut,26721,2013-01-01
+2067,Fyzioterapeut,43521,2004-01-01
+2068,Fyzioterapeut,43522,2004-01-01
+2069,Fyzioterapeut,43534,2003-09-01
+2070,Fyzioterapeut,48654,1995-03-01
+2071,Fyzioterapeut,51414,1993-07-01
+2072,Fyzioterapeut,53049,1993-02-01
+2073,Fyzioterapeut,59929,1999-07-01
+2074,Fyzioterapeut,59930,1999-07-01
+2075,Fyzioterapeut,60038,1991-10-01
+2076,kardiologie,10432,2018-04-01
+2077,kardiologie,10434,2018-04-01
+2078,kardiologie,35528,2009-01-01
+2079,kardiologie,48771,1995-01-01
+2080,kardiologie,59956,1977-03-01
+2081,kardiologie,60021,1991-10-01
+2082,Dentální hygienistka,778,2021-06-01
+2083,Dentální hygienistka,2699,2021-01-01
+2084,Dentální hygienistka,3038,2020-08-06
+2085,Dentální hygienistka,4837,2019-12-19
+2086,Dentální hygienistka,5975,2019-09-02
+2087,Dentální hygienistka,6508,2019-05-21
+2088,Dentální hygienistka,6696,2019-04-16
+2089,Dentální hygienistka,6946,2019-01-01
+2090,Dentální hygienistka,7524,2019-04-01
+2091,Dentální hygienistka,8271,2018-01-01
+2092,Dentální hygienistka,12828,2017-03-01
+2093,Dentální hygienistka,24152,2014-01-01
+2094,Dentální hygienistka,24318,2014-02-13
+2095,Dentální hygienistka,24847,2013-10-01
+2096,Dentální hygienistka,26847,2013-01-01
+2097,Dentální hygienistka,29735,2012-06-15
+2098,Dentální hygienistka,31094,2011-10-01
+2099,Dentální hygienistka,32480,2011-02-10
+2100,Dentální hygienistka,36152,2009-02-01
+2101,Dentální hygienistka,36893,2008-07-01
+2102,Dentální hygienistka,40951,2006-01-01
+2103,Dentální hygienistka,40959,2006-01-01
+2104,Dentální hygienistka,41758,2005-07-27
+2105,Dentální hygienistka,45972,2000-10-01
+2106,Dentální hygienistka,50798,1996-02-01
+2107,Dentální hygienistka,60360,1976-12-01
+2108,Fyzioterapeut,157,2021-08-16
+2109,Fyzioterapeut,158,2021-08-05
+2110,Fyzioterapeut,175,2021-09-01
+2111,Fyzioterapeut,676,2021-06-03
+2112,Fyzioterapeut,1361,2021-03-11
+2113,Fyzioterapeut,1362,2021-03-11
+2114,Fyzioterapeut,3572,2020-04-24
+2115,Fyzioterapeut,4053,2020-01-01
+2116,Fyzioterapeut,4363,2020-01-01
+2117,Fyzioterapeut,4823,2020-01-01
+2118,Fyzioterapeut,5447,2019-10-24
+2119,Fyzioterapeut,5977,2019-08-01
+2120,Fyzioterapeut,5978,2019-08-01
+2121,Fyzioterapeut,6270,2019-07-01
+2122,Fyzioterapeut,6314,2019-07-01
+2123,Fyzioterapeut,6364,2019-06-12
+2124,Fyzioterapeut,7359,2019-02-01
+2125,Fyzioterapeut,7360,2019-02-01
+2126,Fyzioterapeut,7509,2016-03-07
+2127,Fyzioterapeut,8827,2018-09-01
+2128,Fyzioterapeut,9861,2018-05-01
+2129,Fyzioterapeut,9939,2018-04-03
+2130,Fyzioterapeut,11206,2018-01-01
+2131,Fyzioterapeut,12680,2017-04-01
+2132,Fyzioterapeut,12916,2017-02-01
+2133,Fyzioterapeut,13863,2016-11-16
+2134,Fyzioterapeut,14364,2016-10-01
+2135,Fyzioterapeut,14484,2016-11-01
+2136,Fyzioterapeut,16368,2016-06-01
+2137,Fyzioterapeut,16987,2016-03-08
+2138,Fyzioterapeut,17671,1996-01-01
+2139,Fyzioterapeut,17672,1996-01-01
+2140,Fyzioterapeut,17676,2005-02-08
+2141,Fyzioterapeut,18095,2015-10-01
+2142,Fyzioterapeut,22574,2014-06-20
+2143,Fyzioterapeut,22576,2014-06-20
+2144,Fyzioterapeut,22910,2014-03-12
+2145,Fyzioterapeut,23546,2014-03-12
+2146,Fyzioterapeut,24852,2013-10-01
+2147,Fyzioterapeut,25283,2013-01-01
+2148,Fyzioterapeut,26113,2013-09-01
+2149,Fyzioterapeut,26724,2013-03-18
+2150,Fyzioterapeut,26766,2013-07-01
+2151,Fyzioterapeut,30265,2012-04-02
+2152,Fyzioterapeut,31207,2011-01-01
+2153,Fyzioterapeut,32145,2011-01-01
+2154,Fyzioterapeut,35354,2009-09-01
+2155,Fyzioterapeut,36096,2009-01-01
+2156,Fyzioterapeut,36215,2009-01-01
+2157,Fyzioterapeut,37230,2008-01-01
+2158,Fyzioterapeut,37231,2008-01-01
+2159,Fyzioterapeut,39583,2007-01-01
+2160,Fyzioterapeut,40171,2006-11-01
+2161,Fyzioterapeut,40321,2006-10-04
+2162,Fyzioterapeut,40576,2006-01-01
+2163,Fyzioterapeut,42920,2004-07-01
+2164,Fyzioterapeut,44947,2003-06-01
+2165,Fyzioterapeut,45207,2003-03-12
+2166,Fyzioterapeut,47612,1997-03-11
+2167,Fyzioterapeut,48501,1996-02-01
+2168,Fyzioterapeut,48502,1994-09-01
+2169,Fyzioterapeut,48504,1994-09-01
+2170,Fyzioterapeut,57576,1998-01-12
+2171,Fyzioterapeut,60202,1992-01-01
+2172,Fyzioterapeut,60284,1976-12-01
+2173,kardiologie,2430,2020-12-01
+2174,kardiologie,4039,2020-01-01
+2175,kardiologie,5497,2020-01-01
+2176,kardiologie,12623,2017-04-06
+2177,kardiologie,16798,2016-10-01
+2178,kardiologie,18149,2015-11-18
+2179,kardiologie,29963,2012-04-01
+2180,kardiologie,40992,2006-01-01
+2181,kardiologie,45596,2002-05-01
+2182,kardiologie,45938,2000-10-01
+2183,kardiologie,60218,1976-12-01
+2184,kardiologie,60296,1976-12-01
+2185,sexuologie,1013,2021-03-29
+2186,sexuologie,26742,2013-04-01
+2187,soudní lékařství,60367,1976-12-01
+2188,Dentální hygienistka,9902,2018-04-04
+2189,Dentální hygienistka,17725,2015-10-19
+2190,Fyzioterapeut,2636,2020-11-19
+2191,Fyzioterapeut,3603,2020-05-01
+2192,Fyzioterapeut,3726,2020-04-22
+2193,Fyzioterapeut,5667,2019-10-15
+2194,Fyzioterapeut,6269,2019-07-08
+2195,Fyzioterapeut,6414,2019-07-01
+2196,Fyzioterapeut,6415,2019-07-01
+2197,Fyzioterapeut,6430,2019-07-01
+2198,Fyzioterapeut,6431,2019-07-01
+2199,Fyzioterapeut,8098,2018-11-19
+2200,Fyzioterapeut,8144,2018-11-07
+2201,Fyzioterapeut,8946,2018-07-24
+2202,Fyzioterapeut,9143,2018-06-27
+2203,Fyzioterapeut,10357,2018-02-07
+2204,Fyzioterapeut,10502,2018-02-01
+2205,Fyzioterapeut,10873,2018-01-01
+2206,Fyzioterapeut,11441,2017-10-06
+2207,Fyzioterapeut,11940,2017-07-26
+2208,Fyzioterapeut,11941,2017-07-26
+2209,Fyzioterapeut,12921,2017-02-15
+2210,Fyzioterapeut,13020,2017-02-01
+2211,Fyzioterapeut,13021,2017-02-01
+2212,Fyzioterapeut,17637,2016-01-01
+2213,Fyzioterapeut,20847,2015-07-01
+2214,Fyzioterapeut,20848,2015-07-01
+2215,Fyzioterapeut,24028,2014-01-01
+2216,Fyzioterapeut,24031,2014-01-01
+2217,Fyzioterapeut,24038,2014-01-01
+2218,Fyzioterapeut,26476,2013-02-01
+2219,Fyzioterapeut,28855,2012-02-07
+2220,Fyzioterapeut,29101,2012-04-01
+2221,Fyzioterapeut,31353,2011-01-01
+2222,Fyzioterapeut,35016,2009-01-01
+2223,Fyzioterapeut,35389,2009-08-13
+2224,Fyzioterapeut,42385,2005-01-01
+2225,Fyzioterapeut,42386,2005-01-01
+2226,Fyzioterapeut,42387,2005-01-01
+2227,Fyzioterapeut,45307,1996-04-01
+2228,Fyzioterapeut,46656,1999-01-01
+2229,Fyzioterapeut,48026,1995-10-01
+2230,Fyzioterapeut,51139,1994-06-01
+2231,Fyzioterapeut,54228,1994-08-01
+2232,Fyzioterapeut,54230,1994-08-01
+2233,Fyzioterapeut,57851,1997-04-01
+2234,Fyzioterapeut,57999,2001-02-01
+2235,Fyzioterapeut,58159,1993-01-01
+2236,Fyzioterapeut,58160,2002-01-01
+2237,kardiologie,1647,2021-04-01
+2238,kardiologie,31289,2011-01-01
+2239,kardiologie,48022,1995-10-01
+2240,kardiologie,58983,1976-12-01
+2241,Dentální hygienistka,6019,2019-09-01
+2242,Dentální hygienistka,10080,2018-04-01
+2243,Fyzioterapeut,744,2021-05-27
+2244,Fyzioterapeut,1630,2021-02-10
+2245,Fyzioterapeut,7828,2018-12-13
+2246,Fyzioterapeut,14608,1992-05-01
+2247,Fyzioterapeut,24346,2014-01-01
+2248,Fyzioterapeut,36301,2009-01-01
+2249,Fyzioterapeut,37547,2008-01-01
+2250,Fyzioterapeut,37549,2008-01-01
+2251,kardiologie,52849,1994-09-01
+2252,Dentální hygienistka,81,2021-09-01
+2253,Dentální hygienistka,5939,2019-08-30
+2254,Dentální hygienistka,7652,2019-01-01
+2255,Dentální hygienistka,8180,2018-11-05
+2256,Dentální hygienistka,11549,2017-10-02
+2257,Dentální hygienistka,12966,2017-01-27
+2258,Dentální hygienistka,17254,2016-01-01
+2259,Dentální hygienistka,19904,2015-03-01
+2260,Dentální hygienistka,21137,2014-10-01
+2261,Dentální hygienistka,23866,2014-01-06
+2262,Dentální hygienistka,34233,2010-01-01
+2263,Dentální hygienistka,52101,1994-03-01
+2264,Fyzioterapeut,3633,2020-04-24
+2265,Fyzioterapeut,3634,2020-04-24
+2266,Fyzioterapeut,3653,2020-04-21
+2267,Fyzioterapeut,7871,2019-01-01
+2268,Fyzioterapeut,8445,2018-09-24
+2269,Fyzioterapeut,9050,2018-06-20
+2270,Fyzioterapeut,12097,2017-06-16
+2271,Fyzioterapeut,23806,2014-01-01
+2272,Fyzioterapeut,27086,2013-03-01
+2273,Fyzioterapeut,28292,2013-01-01
+2274,Fyzioterapeut,28295,2013-01-01
+2275,Fyzioterapeut,34334,2010-01-01
+2276,Fyzioterapeut,41751,2005-05-01
+2277,Fyzioterapeut,46370,2001-01-01
+2278,Fyzioterapeut,50722,1994-09-01
+2279,Fyzioterapeut,59896,1992-01-01
+2280,Fyzioterapeut,60961,1976-12-01
+2281,kardiologie,1434,2021-03-01
+2282,kardiologie,7264,2019-04-01
+2283,kardiologie,38619,2007-10-01
+2284,kardiologie,42423,2004-11-01
+2285,kardiologie,42869,2004-05-01
+2286,kardiologie,45279,2003-01-01
+2287,kardiologie,60902,1976-12-01
+2288,kardiologie,60903,1976-12-01
+2289,kardiologie,60904,1976-12-01
+2290,sexuologie,14999,2014-07-14
+2291,sexuologie,59544,1976-12-01
+2292,Fyzioterapeut,3479,2020-07-01
+2293,Fyzioterapeut,4207,2020-04-01
+2294,Fyzioterapeut,7725,2019-01-01
+2295,Fyzioterapeut,9770,2018-05-03
+2296,Fyzioterapeut,11526,2017-10-01
+2297,Fyzioterapeut,12604,2017-04-01
+2298,Fyzioterapeut,13677,2017-01-01
+2299,Fyzioterapeut,16470,2016-04-01
+2300,Fyzioterapeut,16471,2016-04-01
+2301,Fyzioterapeut,22540,2014-08-08
+2302,Fyzioterapeut,22802,2014-08-01
+2303,Fyzioterapeut,25347,2013-10-01
+2304,Fyzioterapeut,25348,2013-10-01
+2305,Fyzioterapeut,25522,2013-09-01
+2306,Fyzioterapeut,27164,2013-01-01
+2307,Fyzioterapeut,30738,2012-01-01
+2308,Fyzioterapeut,34044,2010-02-01
+2309,Fyzioterapeut,34876,2009-01-01
+2310,Fyzioterapeut,34877,2009-01-01
+2311,Fyzioterapeut,37812,2008-01-01
+2312,Fyzioterapeut,40030,2007-01-01
+2313,Fyzioterapeut,40079,2007-01-01
+2314,Fyzioterapeut,42304,2005-01-01
+2315,Fyzioterapeut,42305,2005-01-01
+2316,Fyzioterapeut,44635,2003-10-01
+2317,Fyzioterapeut,48311,1995-03-01
+2318,Fyzioterapeut,55175,1996-10-01
+2319,Fyzioterapeut,55205,1993-08-01
+2320,kardiologie,18167,2016-01-01
+2321,kardiologie,21171,2015-04-01
+2322,kardiologie,40049,2007-01-01
+2323,kardiologie,46078,2016-01-01
+2324,sexuologie,40058,2007-01-01
+2325,Dentální hygienistka,1673,2021-02-01
+2326,Dentální hygienistka,4172,2020-02-25
+2327,Dentální hygienistka,6499,2019-05-02
+2328,Dentální hygienistka,15441,2016-07-18
+2329,Dentální hygienistka,26725,2013-02-20
+2330,Dentální hygienistka,31645,2011-09-01
+2331,Fyzioterapeut,1094,2021-04-01
+2332,Fyzioterapeut,2265,2021-01-01
+2333,Fyzioterapeut,4197,2020-03-01
+2334,Fyzioterapeut,5678,2019-11-01
+2335,Fyzioterapeut,7082,2019-03-12
+2336,Fyzioterapeut,7204,2019-02-18
+2337,Fyzioterapeut,7205,2019-02-18
+2338,Fyzioterapeut,15102,2016-01-01
+2339,Fyzioterapeut,16138,2016-01-01
+2340,Fyzioterapeut,16905,2014-09-01
+2341,Fyzioterapeut,18054,2015-04-01
+2342,Fyzioterapeut,22911,2014-07-01
+2343,Fyzioterapeut,24115,2014-01-01
+2344,Fyzioterapeut,30323,2012-05-01
+2345,Fyzioterapeut,32191,2011-06-01
+2346,Fyzioterapeut,40933,2006-01-01
+2347,Fyzioterapeut,43956,2004-01-01
+2348,Fyzioterapeut,50915,1994-01-01
+2349,Fyzioterapeut,50916,1994-01-01
+2350,Fyzioterapeut,55370,1992-11-24
+2351,kardiologie,12134,2017-10-01
+2352,kardiologie,12806,2017-03-01
+2353,kardiologie,30234,2012-01-02
+2354,kardiologie,37159,2008-07-01
+2355,kardiologie,43940,2004-01-01
+2356,kardiologie,49833,1995-06-15
+2357,sexuologie,42911,2004-01-01
+2358,Dentální hygienistka,1085,2021-04-12
+2359,Dentální hygienistka,6232,2019-08-01
+2360,Dentální hygienistka,9031,2018-08-01
+2361,Dentální hygienistka,10893,2018-01-01
+2362,Dentální hygienistka,21684,2014-12-01
+2363,Dentální hygienistka,22419,2014-09-01
+2364,Dentální hygienistka,23384,2014-03-01
+2365,Dentální hygienistka,28309,2012-11-05
+2366,Dentální hygienistka,35420,2009-06-08
+2367,Fyzioterapeut,232,2021-07-31
+2368,Fyzioterapeut,238,2021-07-31
+2369,Fyzioterapeut,1009,2021-04-23
+2370,Fyzioterapeut,1010,2021-04-23
+2371,Fyzioterapeut,2885,2020-09-07
+2372,Fyzioterapeut,2933,2020-09-01
+2373,Fyzioterapeut,4950,2019-12-16
+2374,Fyzioterapeut,4951,2019-12-16
+2375,Fyzioterapeut,6439,2019-06-01
+2376,Fyzioterapeut,6442,2019-06-01
+2377,Fyzioterapeut,6449,2019-06-01
+2378,Fyzioterapeut,6452,2019-06-01
+2379,Fyzioterapeut,6456,2019-06-01
+2380,Fyzioterapeut,6461,2019-06-01
+2381,Fyzioterapeut,6619,2019-05-15
+2382,Fyzioterapeut,6962,2019-01-01
+2383,Fyzioterapeut,7148,2019-03-04
+2384,Fyzioterapeut,7154,2019-04-01
+2385,Fyzioterapeut,7155,2019-04-01
+2386,Fyzioterapeut,7156,2019-04-01
+2387,Fyzioterapeut,9259,2018-06-19
+2388,Fyzioterapeut,10203,2018-02-15
+2389,Fyzioterapeut,10885,2018-01-01
+2390,Fyzioterapeut,12191,2017-06-15
+2391,Fyzioterapeut,12283,2017-06-08
+2392,Fyzioterapeut,12615,2017-04-05
+2393,Fyzioterapeut,12626,2017-03-10
+2394,Fyzioterapeut,13858,2017-01-01
+2395,Fyzioterapeut,14145,2016-10-06
+2396,Fyzioterapeut,15484,2016-01-01
+2397,Fyzioterapeut,16116,2016-06-27
+2398,Fyzioterapeut,16127,2016-07-11
+2399,Fyzioterapeut,16250,2016-06-17
+2400,Fyzioterapeut,16569,2016-03-01
+2401,Fyzioterapeut,18071,2016-01-04
+2402,Fyzioterapeut,18278,2010-06-07
+2403,Fyzioterapeut,19131,2012-09-18
+2404,Fyzioterapeut,19134,2012-09-18
+2405,Fyzioterapeut,19141,2011-02-21
+2406,Fyzioterapeut,19145,2011-02-21
+2407,Fyzioterapeut,19201,2011-02-21
+2408,Fyzioterapeut,19209,2015-01-01
+2409,Fyzioterapeut,19212,2015-01-01
+2410,Fyzioterapeut,19217,2015-01-01
+2411,Fyzioterapeut,19220,2015-01-01
+2412,Fyzioterapeut,19360,2015-09-25
+2413,Fyzioterapeut,19416,2015-08-03
+2414,Fyzioterapeut,19422,2015-09-09
+2415,Fyzioterapeut,20205,2018-01-01
+2416,Fyzioterapeut,21831,2015-01-01
+2417,Fyzioterapeut,22334,2014-06-16
+2418,Fyzioterapeut,22963,2014-03-19
+2419,Fyzioterapeut,22968,2013-12-18
+2420,Fyzioterapeut,23123,2014-05-19
+2421,Fyzioterapeut,23125,2014-05-19
+2422,Fyzioterapeut,23419,2014-01-10
+2423,Fyzioterapeut,23420,2014-01-10
+2424,Fyzioterapeut,23439,2014-05-01
+2425,Fyzioterapeut,23630,2014-03-05
+2426,Fyzioterapeut,23634,2014-01-01
+2427,Fyzioterapeut,23636,2014-04-01
+2428,Fyzioterapeut,23947,2014-01-01
+2429,Fyzioterapeut,24936,2013-01-01
+2430,Fyzioterapeut,25528,2013-07-08
+2431,Fyzioterapeut,25787,2012-01-01
+2432,Fyzioterapeut,25911,2013-06-01
+2433,Fyzioterapeut,26072,2013-01-01
+2434,Fyzioterapeut,26084,2013-08-01
+2435,Fyzioterapeut,26207,2013-05-01
+2436,Fyzioterapeut,26208,2013-05-01
+2437,Fyzioterapeut,28310,2012-11-05
+2438,Fyzioterapeut,28318,2012-01-01
+2439,Fyzioterapeut,29171,2012-01-01
+2440,Fyzioterapeut,31280,2011-09-01
+2441,Fyzioterapeut,31327,2011-01-01
+2442,Fyzioterapeut,31329,2011-01-01
+2443,Fyzioterapeut,31500,2011-01-01
+2444,Fyzioterapeut,32358,2011-02-18
+2445,Fyzioterapeut,32958,2011-02-01
+2446,Fyzioterapeut,33403,2010-06-07
+2447,Fyzioterapeut,34316,2010-05-01
+2448,Fyzioterapeut,34993,2009-06-01
+2449,Fyzioterapeut,36580,2008-10-20
+2450,Fyzioterapeut,36971,2008-08-01
+2451,Fyzioterapeut,37524,2008-06-01
+2452,Fyzioterapeut,39419,2007-01-01
+2453,Fyzioterapeut,40150,2004-07-08
+2454,Fyzioterapeut,40196,2006-01-01
+2455,Fyzioterapeut,40461,2006-09-01
+2456,Fyzioterapeut,40465,2006-02-01
+2457,Fyzioterapeut,41130,2007-01-01
+2458,Fyzioterapeut,41488,2005-09-05
+2459,Fyzioterapeut,42215,2005-01-01
+2460,Fyzioterapeut,42233,2005-01-01
+2461,Fyzioterapeut,42891,2004-08-20
+2462,Fyzioterapeut,43225,2003-02-05
+2463,Fyzioterapeut,43735,2004-01-01
+2464,Fyzioterapeut,44036,2004-01-01
+2465,Fyzioterapeut,44212,2003-01-01
+2466,Fyzioterapeut,44216,2003-01-01
+2467,Fyzioterapeut,44218,2003-01-01
+2468,Fyzioterapeut,44222,2003-01-01
+2469,Fyzioterapeut,44225,2003-01-01
+2470,Fyzioterapeut,44228,2003-01-01
+2471,Fyzioterapeut,44232,2003-01-01
+2472,Fyzioterapeut,44484,1993-02-01
+2473,Fyzioterapeut,46178,2000-01-01
+2474,Fyzioterapeut,53362,1994-09-01
+2475,Fyzioterapeut,53384,1994-09-01
+2476,Fyzioterapeut,53404,1994-01-01
+2477,Fyzioterapeut,53406,1994-01-01
+2478,Fyzioterapeut,53413,1993-08-01
+2479,Fyzioterapeut,53414,1993-08-01
+2480,Fyzioterapeut,55980,2000-07-01
+2481,Fyzioterapeut,55983,1999-08-01
+2482,Fyzioterapeut,55992,1992-05-01
+2483,Fyzioterapeut,55994,1992-10-01
+2484,Fyzioterapeut,57030,1996-07-01
+2485,Fyzioterapeut,57178,2001-05-01
+2486,Fyzioterapeut,57516,1999-05-01
+2487,Fyzioterapeut,58205,1994-05-01
+2488,kardiologie,11214,2017-11-16
+2489,kardiologie,18634,2013-07-22
+2490,kardiologie,22372,2014-07-28
+2491,kardiologie,22567,2014-03-03
+2492,kardiologie,33531,2010-07-01
+2493,kardiologie,36887,2008-08-13
+2494,kardiologie,40153,2006-05-23
+2495,kardiologie,41754,2005-08-01
+2496,kardiologie,44040,2004-01-01
+2497,kardiologie,44049,2004-01-01
+2498,kardiologie,44051,2004-01-01
+2499,kardiologie,44056,2004-01-01
+2500,kardiologie,53365,1994-09-01
+2501,sexuologie,31396,2011-05-01
+2502,sexuologie,31398,2011-05-01
+2503,Dentální hygienistka,1039,2021-04-26
+2504,Dentální hygienistka,2268,2021-01-01
+2505,Dentální hygienistka,5779,2019-01-01
+2506,Dentální hygienistka,17425,2016-01-04
+2507,Dentální hygienistka,32596,2011-02-01
+2508,Dentální hygienistka,33285,2010-07-01
+2509,Fyzioterapeut,3042,2020-09-01
+2510,Fyzioterapeut,4009,2020-04-01
+2511,Fyzioterapeut,4059,2020-01-01
+2512,Fyzioterapeut,6891,2019-04-08
+2513,Fyzioterapeut,7330,2018-01-01
+2514,Fyzioterapeut,8011,2019-10-01
+2515,Fyzioterapeut,9170,2018-06-08
+2516,Fyzioterapeut,9174,2018-06-08
+2517,Fyzioterapeut,9332,2018-06-12
+2518,Fyzioterapeut,9336,2018-06-12
+2519,Fyzioterapeut,9528,2018-06-01
+2520,Fyzioterapeut,11367,2017-11-01
+2521,Fyzioterapeut,13215,2017-02-01
+2522,Fyzioterapeut,17363,2005-01-01
+2523,Fyzioterapeut,23430,2014-05-01
+2524,Fyzioterapeut,26323,2013-09-01
+2525,Fyzioterapeut,28516,2012-09-01
+2526,Fyzioterapeut,28811,2012-09-01
+2527,Fyzioterapeut,28812,2012-09-01
+2528,Fyzioterapeut,31175,2011-09-01
+2529,Fyzioterapeut,35127,2009-05-01
+2530,Fyzioterapeut,36969,2008-07-17
+2531,Fyzioterapeut,40886,2006-01-01
+2532,Fyzioterapeut,41661,2005-07-01
+2533,Fyzioterapeut,42149,2005-01-01
+2534,Fyzioterapeut,42252,2005-04-01
+2535,Fyzioterapeut,42578,2005-01-01
+2536,Fyzioterapeut,42596,2005-01-01
+2537,Fyzioterapeut,42599,2005-01-01
+2538,Fyzioterapeut,44652,2003-09-01
+2539,Fyzioterapeut,45731,2001-08-27
+2540,Fyzioterapeut,49093,1996-02-01
+2541,Fyzioterapeut,49645,1994-05-01
+2542,Fyzioterapeut,49659,1996-10-01
+2543,Fyzioterapeut,53476,2000-09-01
+2544,Fyzioterapeut,57249,2002-07-01
+2545,Fyzioterapeut,57298,2002-05-06
+2546,Fyzioterapeut,58400,1981-01-01
+2547,Fyzioterapeut,58470,1976-12-01
+2548,kardiologie,1120,2021-05-01
+2549,kardiologie,3445,2020-05-01
+2550,kardiologie,7856,2019-01-01
+2551,kardiologie,7859,2019-01-01
+2552,kardiologie,11011,2018-01-01
+2553,kardiologie,14195,2016-10-01
+2554,kardiologie,19366,2015-10-12
+2555,kardiologie,21934,2014-01-01
+2556,kardiologie,21941,2014-01-01
+2557,kardiologie,22243,2014-12-01
+2558,kardiologie,22874,2014-01-01
+2559,kardiologie,26370,2013-07-01
+2560,kardiologie,40238,2006-11-03
+2561,kardiologie,42588,2005-01-01
+2562,kardiologie,45798,2001-06-01
+2563,kardiologie,49108,1996-02-01
+2564,kardiologie,49663,1994-02-01
+2565,kardiologie,57227,2002-04-24
+2566,kardiologie,57240,2002-07-01
+2567,kardiologie,57252,2002-01-01
+2568,kardiologie,58407,1981-01-01
+2569,kardiologie,58475,1976-12-01
+2570,Dentální hygienistka,370,2021-09-01
+2571,Dentální hygienistka,858,2021-05-06
+2572,Dentální hygienistka,17345,2016-02-01
+2573,Dentální hygienistka,17663,2016-01-06
+2574,Dentální hygienistka,28073,2013-01-01
+2575,Fyzioterapeut,248,2021-08-12
+2576,Fyzioterapeut,3590,2020-05-05
+2577,Fyzioterapeut,3591,2020-05-05
+2578,Fyzioterapeut,4416,2020-01-01
+2579,Fyzioterapeut,4796,2020-01-22
+2580,Fyzioterapeut,4800,2020-01-22
+2581,Fyzioterapeut,5002,2019-12-19
+2582,Fyzioterapeut,6209,2019-09-01
+2583,Fyzioterapeut,8268,2018-11-01
+2584,Fyzioterapeut,8461,2018-10-01
+2585,Fyzioterapeut,9826,2018-06-01
+2586,Fyzioterapeut,10029,2018-04-01
+2587,Fyzioterapeut,10030,2018-04-01
+2588,Fyzioterapeut,10060,2018-03-23
+2589,Fyzioterapeut,12407,2017-05-17
+2590,Fyzioterapeut,12408,2017-05-17
+2591,Fyzioterapeut,19846,2015-04-01
+2592,Fyzioterapeut,20343,2015-04-01
+2593,Fyzioterapeut,22164,2014-12-04
+2594,Fyzioterapeut,23130,2014-04-05
+2595,Fyzioterapeut,25831,2013-09-04
+2596,Fyzioterapeut,27823,2013-01-01
+2597,Fyzioterapeut,28034,2013-01-01
+2598,Fyzioterapeut,28622,2012-10-01
+2599,Fyzioterapeut,28684,2012-10-01
+2600,Fyzioterapeut,31169,2011-01-05
+2601,Fyzioterapeut,31515,2011-01-01
+2602,Fyzioterapeut,31867,2011-01-01
+2603,Fyzioterapeut,33002,2011-01-01
+2604,Fyzioterapeut,33005,2011-01-01
+2605,Fyzioterapeut,33097,2011-01-01
+2606,Fyzioterapeut,33100,2011-01-01
+2607,Fyzioterapeut,33636,2010-09-01
+2608,Fyzioterapeut,34817,2010-01-01
+2609,Fyzioterapeut,34951,2009-07-01
+2610,Fyzioterapeut,38829,2007-02-01
+2611,Fyzioterapeut,39104,2007-07-01
+2612,Fyzioterapeut,40291,2006-01-02
+2613,Fyzioterapeut,41525,2005-01-01
+2614,Fyzioterapeut,41794,2005-07-01
+2615,Fyzioterapeut,42999,2003-11-01
+2616,Fyzioterapeut,51612,1993-04-01
+2617,Fyzioterapeut,56343,1993-06-01
+2618,Fyzioterapeut,56344,1995-09-01
+2619,kardiologie,15277,2013-04-24
+2620,kardiologie,25480,2013-11-01
+2621,kardiologie,35512,2009-07-01
+2622,kardiologie,36536,2008-01-01
+2623,kardiologie,39485,2007-01-01
+2624,kardiologie,41798,2005-07-01
+2625,kardiologie,41803,2005-07-01
+2626,kardiologie,48108,1999-01-01
+2627,kardiologie,58289,1976-12-01
+2628,Dentální hygienistka,1401,2021-03-11
+2629,Dentální hygienistka,14510,2016-08-24
+2630,Dentální hygienistka,16081,2016-03-01
+2631,Dentální hygienistka,19057,2015-09-01
+2632,Fyzioterapeut,785,2021-05-22
+2633,Fyzioterapeut,1695,2021-01-22
+2634,Fyzioterapeut,5343,2019-11-11
+2635,Fyzioterapeut,6832,2019-05-01
+2636,Fyzioterapeut,14190,2016-01-01
+2637,Fyzioterapeut,16076,2016-07-01
+2638,Fyzioterapeut,19093,2015-10-22
+2639,Fyzioterapeut,19315,2014-12-23
+2640,Fyzioterapeut,21153,2015-03-05
+2641,Fyzioterapeut,28395,2012-01-01
+2642,Fyzioterapeut,31426,2011-06-03
+2643,Fyzioterapeut,32441,2011-01-01
+2644,Fyzioterapeut,32933,2011-01-01
+2645,Fyzioterapeut,34969,2009-07-01
+2646,Fyzioterapeut,35514,2009-05-11
+2647,Fyzioterapeut,38065,2007-06-05
+2648,kardiologie,27376,2013-04-01
+2649,kardiologie,32435,2011-01-01
+2650,kardiologie,44120,2004-01-01
+2651,Dentální hygienistka,49,2021-09-15
+2652,Dentální hygienistka,3028,2020-09-01
+2653,Dentální hygienistka,6194,2019-08-01
+2654,Dentální hygienistka,12463,2017-05-04
+2655,Dentální hygienistka,26889,2013-04-01
+2656,Dentální hygienistka,27782,2013-04-01
+2657,Fyzioterapeut,657,2021-06-01
+2658,Fyzioterapeut,1619,2021-03-01
+2659,Fyzioterapeut,3990,2020-04-01
+2660,Fyzioterapeut,4617,2020-01-31
+2661,Fyzioterapeut,10531,2018-01-30
+2662,Fyzioterapeut,11301,2017-11-08
+2663,Fyzioterapeut,13587,2016-11-30
+2664,Fyzioterapeut,13588,2016-11-30
+2665,Fyzioterapeut,14643,2016-09-01
+2666,Fyzioterapeut,15128,2016-01-01
+2667,Fyzioterapeut,16330,2016-05-23
+2668,Fyzioterapeut,22682,2014-01-01
+2669,Fyzioterapeut,22889,2014-07-01
+2670,Fyzioterapeut,22891,2014-07-01
+2671,Fyzioterapeut,23288,2014-02-21
+2672,Fyzioterapeut,27847,2013-04-01
+2673,Fyzioterapeut,34107,2010-01-01
+2674,Fyzioterapeut,37468,2008-01-01
+2675,Fyzioterapeut,39657,2007-03-15
+2676,Fyzioterapeut,41914,2005-07-01
+2677,Fyzioterapeut,46561,1998-01-01
+2678,Fyzioterapeut,51701,1994-09-01
+2679,kardiologie,23064,2014-06-01
+2680,kardiologie,36920,2008-09-01
+2681,kardiologie,41367,2005-01-01
+2682,kardiologie,41906,2005-07-01
+2683,kardiologie,46646,2000-10-01
+2684,Dentální hygienistka,2939,2020-09-01
+2685,Dentální hygienistka,22826,2014-04-01
+2686,Fyzioterapeut,560,2021-06-22
+2687,Fyzioterapeut,561,2021-06-22
+2688,Fyzioterapeut,3157,2020-07-01
+2689,Fyzioterapeut,3524,2020-05-19
+2690,Fyzioterapeut,12090,2017-07-01
+2691,Fyzioterapeut,12554,2017-04-21
+2692,Fyzioterapeut,12842,2017-03-01
+2693,Fyzioterapeut,13520,2017-01-01
+2694,Fyzioterapeut,15390,1996-04-01
+2695,Fyzioterapeut,15557,2007-06-01
+2696,Fyzioterapeut,16682,2016-03-14
+2697,Fyzioterapeut,16690,2016-05-01
+2698,Fyzioterapeut,20158,2011-08-01
+2699,Fyzioterapeut,20761,2015-07-01
+2700,Fyzioterapeut,21034,2015-01-01
+2701,Fyzioterapeut,21705,2014-12-29
+2702,Fyzioterapeut,23348,2014-03-01
+2703,Fyzioterapeut,28903,2012-04-01
+2704,Fyzioterapeut,30312,2012-01-01
+2705,Fyzioterapeut,30335,2012-04-01
+2706,Fyzioterapeut,30337,2012-04-01
+2707,Fyzioterapeut,32284,2010-05-01
+2708,Fyzioterapeut,32285,2011-01-01
+2709,Fyzioterapeut,33420,2010-01-01
+2710,Fyzioterapeut,34825,2008-10-01
+2711,Fyzioterapeut,35019,2009-09-01
+2712,Fyzioterapeut,35306,2009-07-01
+2713,Fyzioterapeut,35307,2009-07-01
+2714,Fyzioterapeut,35858,2009-03-01
+2715,Fyzioterapeut,39100,2007-07-01
+2716,Fyzioterapeut,40649,2006-06-01
+2717,Fyzioterapeut,52888,2001-06-01
+2718,Fyzioterapeut,52890,1993-03-01
+2719,Fyzioterapeut,52899,1993-02-01
+2720,Fyzioterapeut,52917,1993-01-01
+2721,kardiologie,1438,2020-04-01
+2722,kardiologie,5366,2019-09-30
+2723,kardiologie,25834,2013-07-01
+2724,kardiologie,28465,2012-08-01
+2725,kardiologie,41240,2006-01-01
+2726,kardiologie,52872,1993-08-01
+2727,kardiologie,52919,1993-01-01
+2728,Dentální hygienistka,30743,2012-01-01
+2729,Fyzioterapeut,831,2021-06-01
+2730,Fyzioterapeut,2815,2020-09-19
+2731,Fyzioterapeut,3569,2020-06-01
+2732,Fyzioterapeut,5935,2019-09-01
+2733,Fyzioterapeut,5936,2019-09-01
+2734,Fyzioterapeut,6188,2019-11-01
+2735,Fyzioterapeut,8789,2015-12-15
+2736,Fyzioterapeut,15195,2014-11-05
+2737,Fyzioterapeut,16345,2016-06-01
+2738,Fyzioterapeut,17981,2015-12-01
+2739,Fyzioterapeut,18100,2016-01-01
+2740,Fyzioterapeut,19094,2015-10-21
+2741,Fyzioterapeut,19095,2015-10-21
+2742,Fyzioterapeut,19485,2015-10-01
+2743,Fyzioterapeut,21220,2015-05-01
+2744,Fyzioterapeut,22206,2015-01-01
+2745,Fyzioterapeut,25106,2013-09-01
+2746,Fyzioterapeut,26465,2013-06-01
+2747,Fyzioterapeut,34835,2010-01-01
+2748,Fyzioterapeut,36504,2009-02-23
+2749,Fyzioterapeut,36509,2009-01-01
+2750,Fyzioterapeut,36574,2008-10-01
+2751,Fyzioterapeut,39633,2007-01-01
+2752,Fyzioterapeut,41499,2005-02-01
+2753,Fyzioterapeut,42295,2005-01-01
+2754,Fyzioterapeut,44833,2003-07-01
+2755,Fyzioterapeut,48551,1995-05-01
+2756,Fyzioterapeut,51674,1994-01-01
+2757,kardiologie,34834,2010-01-01
+2758,kardiologie,35861,2009-01-01
+2759,kardiologie,58326,1976-12-01
+2760,kardiologie,58329,1976-12-01
+2761,sexuologie,20415,2007-10-01
+2762,sexuologie,20419,2007-10-01
+2763,sexuologie,36363,2009-01-01
+2764,sexuologie,36370,2009-01-01
+2765,Dentální hygienistka,2713,2020-10-07
+2766,Dentální hygienistka,3409,2020-09-01
+2767,Dentální hygienistka,5754,2020-01-01
+2768,Dentální hygienistka,6038,2019-09-01
+2769,Dentální hygienistka,7119,2019-04-01
+2770,Dentální hygienistka,9040,2018-09-01
+2771,Dentální hygienistka,13019,2017-02-01
+2772,Dentální hygienistka,17076,2016-01-01
+2773,Dentální hygienistka,17083,2015-05-01
+2774,Dentální hygienistka,18165,2014-08-01
+2775,Fyzioterapeut,278,2021-09-01
+2776,Fyzioterapeut,398,2021-07-14
+2777,Fyzioterapeut,559,2021-09-01
+2778,Fyzioterapeut,808,2021-09-01
+2779,Fyzioterapeut,860,2021-06-01
+2780,Fyzioterapeut,1048,2021-09-06
+2781,Fyzioterapeut,1107,2021-04-13
+2782,Fyzioterapeut,1145,2021-03-17
+2783,Fyzioterapeut,1703,2021-01-01
+2784,Fyzioterapeut,3225,2020-10-01
+2785,Fyzioterapeut,3315,2020-06-24
+2786,Fyzioterapeut,3704,2020-04-01
+2787,Fyzioterapeut,5088,2019-10-01
+2788,Fyzioterapeut,6774,2019-05-01
+2789,Fyzioterapeut,7354,2019-01-24
+2790,Fyzioterapeut,7368,2019-02-01
+2791,Fyzioterapeut,7906,2018-11-28
+2792,Fyzioterapeut,7907,2018-11-28
+2793,Fyzioterapeut,7908,2018-11-28
+2794,Fyzioterapeut,8669,2018-08-30
+2795,Fyzioterapeut,8671,2018-08-30
+2796,Fyzioterapeut,9568,2018-06-01
+2797,Fyzioterapeut,11173,2017-11-20
+2798,Fyzioterapeut,11577,2017-09-25
+2799,Fyzioterapeut,11762,2017-01-01
+2800,Fyzioterapeut,12529,2017-04-01
+2801,Fyzioterapeut,13834,2016-11-07
+2802,Fyzioterapeut,13925,2017-01-01
+2803,Fyzioterapeut,13926,2017-01-01
+2804,Fyzioterapeut,16838,2016-03-01
+2805,Fyzioterapeut,16841,2016-03-01
+2806,Fyzioterapeut,17080,2015-10-14
+2807,Fyzioterapeut,17081,2015-10-14
+2808,Fyzioterapeut,17229,2016-01-01
+2809,Fyzioterapeut,20860,2015-06-26
+2810,Fyzioterapeut,21740,2015-01-01
+2811,Fyzioterapeut,22017,2015-01-01
+2812,Fyzioterapeut,22018,2015-01-01
+2813,Fyzioterapeut,22386,2014-07-01
+2814,Fyzioterapeut,23592,2014-04-07
+2815,Fyzioterapeut,24965,2013-10-11
+2816,Fyzioterapeut,25934,2013-08-01
+2817,Fyzioterapeut,27282,2013-07-01
+2818,Fyzioterapeut,28850,2012-05-01
+2819,Fyzioterapeut,31352,2011-01-01
+2820,Fyzioterapeut,33997,2010-06-01
+2821,Fyzioterapeut,33998,2010-06-01
+2822,Fyzioterapeut,34000,2010-06-01
+2823,Fyzioterapeut,34004,2010-06-01
+2824,Fyzioterapeut,34007,2010-06-01
+2825,Fyzioterapeut,35013,2009-01-01
+2826,Fyzioterapeut,39236,2007-07-01
+2827,Fyzioterapeut,39548,2007-01-12
+2828,Fyzioterapeut,40569,2006-02-28
+2829,Fyzioterapeut,42696,2004-03-01
+2830,Fyzioterapeut,45206,2002-11-01
+2831,Fyzioterapeut,46452,1998-05-01
+2832,Fyzioterapeut,48715,2004-01-01
+2833,Fyzioterapeut,48718,1994-11-01
+2834,Fyzioterapeut,49680,1996-07-01
+2835,kardiologie,9566,2018-06-01
+2836,kardiologie,17758,2016-01-01
+2837,kardiologie,22266,2014-12-01
+2838,kardiologie,26091,2013-05-01
+2839,kardiologie,31292,2011-01-01
+2840,kardiologie,31345,2011-01-01
+2841,kardiologie,39261,2007-07-01
+2842,kardiologie,39291,2007-07-01
+2843,kardiologie,39303,2007-07-01
+2844,sexuologie,277,2021-09-01
+2845,sexuologie,16002,2016-07-01
+2846,sexuologie,39248,2007-07-01
+2847,soudní lékařství,39243,2007-07-01
+2848,Dentální hygienistka,2983,2020-09-01
+2849,Dentální hygienistka,8383,2018-10-15
+2850,Dentální hygienistka,21473,2015-03-06
+2851,Fyzioterapeut,1194,2021-04-01
+2852,Fyzioterapeut,1586,2021-02-16
+2853,Fyzioterapeut,2944,2000-04-01
+2854,Fyzioterapeut,5837,2019-09-01
+2855,Fyzioterapeut,8755,2018-09-01
+2856,Fyzioterapeut,10687,2018-01-01
+2857,Fyzioterapeut,15230,2010-02-01
+2858,Fyzioterapeut,20659,2015-04-01
+2859,Fyzioterapeut,20661,2015-04-01
+2860,Fyzioterapeut,24637,2013-01-01
+2861,Fyzioterapeut,26599,2013-01-01
+2862,Fyzioterapeut,28676,2012-09-27
+2863,Fyzioterapeut,29122,2012-01-01
+2864,Fyzioterapeut,29125,2012-01-01
+2865,Fyzioterapeut,33738,2010-01-01
+2866,Fyzioterapeut,33740,2010-01-01
+2867,Fyzioterapeut,33743,2010-01-01
+2868,Fyzioterapeut,33745,2010-01-01
+2869,Fyzioterapeut,36698,2008-08-01
+2870,Fyzioterapeut,36714,2008-08-01
+2871,Fyzioterapeut,40211,2006-09-15
+2872,Fyzioterapeut,42029,2005-04-01
+2873,Fyzioterapeut,42034,2005-01-01
+2874,Fyzioterapeut,48218,1996-01-01
+2875,Fyzioterapeut,51160,1994-01-01
+2876,Fyzioterapeut,54972,1995-01-01
+2877,Fyzioterapeut,54975,1996-01-01
+2878,Fyzioterapeut,54976,1994-07-01
+2879,Fyzioterapeut,54977,1998-10-01
+2880,Fyzioterapeut,54994,1993-09-01
+2881,Fyzioterapeut,55037,2000-04-01
+2882,Fyzioterapeut,57496,2002-03-01
+2883,Fyzioterapeut,59772,1993-05-01
+2884,kardiologie,1199,2021-04-01
+2885,kardiologie,22382,2014-07-01
+2886,kardiologie,29150,2012-04-01
+2887,sexuologie,59024,1976-12-01
+2888,sexuologie,59033,1976-12-01
+2889,Dentální hygienistka,9719,2018-05-15
+2890,Dentální hygienistka,21706,2015-01-01
+2891,Fyzioterapeut,9,2021-10-01
+2892,Fyzioterapeut,1741,2021-03-01
+2893,Fyzioterapeut,3165,2020-08-01
+2894,Fyzioterapeut,7904,2019-01-01
+2895,Fyzioterapeut,13449,2017-01-01
+2896,Fyzioterapeut,15590,2015-01-01
+2897,Fyzioterapeut,15779,2016-01-04
+2898,Fyzioterapeut,17063,2016-01-01
+2899,Fyzioterapeut,19616,2015-01-01
+2900,Fyzioterapeut,20514,2015-01-01
+2901,Fyzioterapeut,21024,2015-05-05
+2902,Fyzioterapeut,22854,2014-07-01
+2903,Fyzioterapeut,25964,2013-01-01
+2904,Fyzioterapeut,28974,2012-10-01
+2905,Fyzioterapeut,29848,2012-01-01
+2906,Fyzioterapeut,31341,2011-01-01
+2907,Fyzioterapeut,40202,2006-10-01
+2908,Fyzioterapeut,42678,2004-09-01
+2909,Fyzioterapeut,47474,1997-01-01
+2910,Fyzioterapeut,48879,1994-09-01
+2911,Fyzioterapeut,57838,1997-10-01
+2912,Fyzioterapeut,58189,1995-07-01
+2913,kardiologie,11713,2017-09-01
+2914,kardiologie,16311,2016-07-01
+2915,kardiologie,17131,2016-03-01
+2916,Dentální hygienistka,1156,2021-04-01
+2917,Dentální hygienistka,1748,2021-03-15
+2918,Dentální hygienistka,2009,2021-01-15
+2919,Dentální hygienistka,3455,2020-07-01
+2920,Dentální hygienistka,5073,2020-02-01
+2921,Dentální hygienistka,7995,2019-01-01
+2922,Dentální hygienistka,11892,2017-09-01
+2923,Dentální hygienistka,12913,2017-02-19
+2924,Dentální hygienistka,13941,2016-10-31
+2925,Dentální hygienistka,14663,2016-09-06
+2926,Dentální hygienistka,16660,2016-04-01
+2927,Dentální hygienistka,18139,2015-11-09
+2928,Dentální hygienistka,18143,2015-11-04
+2929,Dentální hygienistka,19675,2015-07-01
+2930,Dentální hygienistka,22926,2014-07-01
+2931,Dentální hygienistka,22951,2014-05-01
+2932,Dentální hygienistka,25597,2013-01-01
+2933,Dentální hygienistka,28380,2012-06-21
+2934,Dentální hygienistka,31526,2011-07-01
+2935,Dentální hygienistka,34815,2010-02-01
+2936,Dentální hygienistka,36074,2009-01-01
+2937,Dentální hygienistka,37845,2008-01-01
+2938,Dentální hygienistka,39213,2007-01-01
+2939,Dentální hygienistka,43223,2003-10-01
+2940,Dentální hygienistka,51635,1993-11-01
+2941,Dentální hygienistka,51644,1993-10-01
+2942,Dentální hygienistka,51658,1993-04-01
+2943,Fyzioterapeut,766,2021-06-01
+2944,Fyzioterapeut,3249,2020-09-01
+2945,Fyzioterapeut,3250,2020-09-01
+2946,Fyzioterapeut,4378,2020-01-01
+2947,Fyzioterapeut,7533,2019-02-01
+2948,Fyzioterapeut,7897,2018-01-01
+2949,Fyzioterapeut,7992,2018-12-10
+2950,Fyzioterapeut,8373,2018-10-10
+2951,Fyzioterapeut,11263,2017-11-01
+2952,Fyzioterapeut,11264,2017-11-01
+2953,Fyzioterapeut,12285,2017-01-01
+2954,Fyzioterapeut,12287,2017-01-01
+2955,Fyzioterapeut,12289,2017-01-01
+2956,Fyzioterapeut,12459,2017-05-01
+2957,Fyzioterapeut,12460,2017-05-01
+2958,Fyzioterapeut,12853,2017-03-01
+2959,Fyzioterapeut,13074,2017-01-01
+2960,Fyzioterapeut,13869,2016-10-26
+2961,Fyzioterapeut,22623,2014-09-01
+2962,Fyzioterapeut,27391,2013-03-01
+2963,Fyzioterapeut,27395,2013-03-01
+2964,Fyzioterapeut,27828,2013-01-01
+2965,Fyzioterapeut,28032,2013-01-01
+2966,Fyzioterapeut,31129,2011-10-01
+2967,Fyzioterapeut,31130,2011-10-01
+2968,Fyzioterapeut,33006,2011-01-01
+2969,Fyzioterapeut,33028,2011-01-01
+2970,Fyzioterapeut,33414,2010-09-30
+2971,Fyzioterapeut,33582,2010-04-01
+2972,Fyzioterapeut,34909,2010-01-01
+2973,Fyzioterapeut,35000,2009-11-03
+2974,Fyzioterapeut,41704,2005-07-01
+2975,Fyzioterapeut,41735,2005-07-01
+2976,Fyzioterapeut,43703,2003-11-01
+2977,Fyzioterapeut,48874,2002-01-01
+2978,Fyzioterapeut,58127,1995-02-01
+2979,kardiologie,3071,2020-08-02
+2980,kardiologie,3074,2020-08-02
+2981,kardiologie,4388,2020-01-01
+2982,kardiologie,11564,2017-10-01
+2983,kardiologie,32898,2011-01-01
+2984,kardiologie,32899,2011-01-01
+2985,kardiologie,36727,2008-10-01
+2986,kardiologie,41710,2005-07-01
+2987,kardiologie,45629,2002-02-01
+2988,sexuologie,25595,2013-09-01
+2989,sexuologie,36918,2008-07-01
+2990,sexuologie,60981,1976-12-01
+2991,sexuologie,60989,1976-12-01
+2992,Dentální hygienistka,3179,2020-07-04
+2993,Dentální hygienistka,8254,2018-11-01
+2994,Dentální hygienistka,10674,2018-01-01
+2995,Dentální hygienistka,25928,2013-01-01
+2996,Fyzioterapeut,177,2021-05-01
+2997,Fyzioterapeut,353,2021-07-13
+2998,Fyzioterapeut,10757,2018-01-01
+2999,Fyzioterapeut,11467,2017-10-01
+3000,Fyzioterapeut,14354,2007-01-01
+3001,Fyzioterapeut,18343,2015-09-01
+3002,Fyzioterapeut,23668,2014-03-01
+3003,Fyzioterapeut,26964,2013-01-01
+3004,Fyzioterapeut,28614,2012-09-01
+3005,Fyzioterapeut,29348,2012-06-01
+3006,Fyzioterapeut,33538,2010-05-22
+3007,Fyzioterapeut,36012,2009-01-01
+3008,Fyzioterapeut,38204,2007-09-01
+3009,Fyzioterapeut,42427,2005-01-01
+3010,Fyzioterapeut,42684,2004-03-15
+3011,Fyzioterapeut,42686,2004-03-15
+3012,Fyzioterapeut,54180,1994-02-01
+3013,Fyzioterapeut,54181,1994-02-01
+3014,Fyzioterapeut,54184,1994-04-01
+3015,Fyzioterapeut,54186,1994-04-01
+3016,Fyzioterapeut,54242,1995-08-01
+3017,Fyzioterapeut,55715,1993-01-01
+3018,Fyzioterapeut,58958,1995-03-01
+3019,kardiologie,26940,2013-01-01
+3020,kardiologie,38048,2007-10-01
+3021,kardiologie,38211,2007-09-01
+3022,sexuologie,54210,1993-04-01
+3023,Dentální hygienistka,2433,2020-11-30
+3024,Dentální hygienistka,6623,2019-05-14
+3025,Dentální hygienistka,8286,2018-10-15
+3026,Dentální hygienistka,12039,2017-09-01
+3027,Dentální hygienistka,12112,2017-08-01
+3028,Dentální hygienistka,21384,2015-01-01
+3029,Dentální hygienistka,23529,2014-01-01
+3030,Dentální hygienistka,31270,2011-10-03
+3031,Fyzioterapeut,2871,2020-09-07
+3032,Fyzioterapeut,4213,2020-03-01
+3033,Fyzioterapeut,12182,2017-06-21
+3034,Fyzioterapeut,12183,2017-06-21
+3035,Fyzioterapeut,13181,2017-01-16
+3036,Fyzioterapeut,20063,2004-09-20
+3037,Fyzioterapeut,21304,2015-01-01
+3038,Fyzioterapeut,33377,2010-10-01
+3039,Fyzioterapeut,35302,2009-10-01
+3040,Fyzioterapeut,35303,2009-10-01
+3041,Fyzioterapeut,37915,2008-01-01
+3042,Fyzioterapeut,37947,2008-01-01
+3043,Fyzioterapeut,46147,1999-08-01
+3044,Fyzioterapeut,46515,1998-04-01
+3045,Fyzioterapeut,47830,1999-01-01
+3046,Fyzioterapeut,57751,1997-01-01
+3047,Fyzioterapeut,59778,1993-11-01
+3048,kardiologie,1524,2021-08-01
+3049,kardiologie,13872,2001-09-01
+3050,kardiologie,17708,2016-01-01
+3051,kardiologie,26198,2013-09-01
+3052,kardiologie,31121,2011-10-01
+3053,kardiologie,37920,2008-01-01
+3054,kardiologie,42657,2004-01-01
+3055,kardiologie,50573,1993-11-01
+3056,kardiologie,57744,1997-01-01
+3057,sexuologie,20422,2007-10-01
+3058,soudní lékařství,31933,2011-07-01
+3059,Dentální hygienistka,1768,2021-02-01
+3060,Dentální hygienistka,9905,2018-04-01
+3061,Dentální hygienistka,11043,2018-01-01
+3062,Dentální hygienistka,27459,2013-01-01
+3063,Dentální hygienistka,34374,2010-01-01
+3064,Fyzioterapeut,160,2021-09-01
+3065,Fyzioterapeut,905,2021-06-01
+3066,Fyzioterapeut,2633,2020-11-01
+3067,Fyzioterapeut,2634,2020-11-01
+3068,Fyzioterapeut,2712,2020-10-01
+3069,Fyzioterapeut,3271,2020-06-01
+3070,Fyzioterapeut,3272,2020-06-01
+3071,Fyzioterapeut,4993,2020-01-01
+3072,Fyzioterapeut,5991,2019-09-01
+3073,Fyzioterapeut,6569,2019-10-01
+3074,Fyzioterapeut,6890,2019-04-15
+3075,Fyzioterapeut,7353,2019-02-15
+3076,Fyzioterapeut,8259,2018-11-01
+3077,Fyzioterapeut,8260,2018-11-01
+3078,Fyzioterapeut,8308,2018-11-01
+3079,Fyzioterapeut,9840,2018-07-01
+3080,Fyzioterapeut,9841,2018-07-01
+3081,Fyzioterapeut,11103,2018-01-01
+3082,Fyzioterapeut,12454,2017-04-13
+3083,Fyzioterapeut,13554,2017-01-01
+3084,Fyzioterapeut,14585,2016-10-01
+3085,Fyzioterapeut,15300,2016-08-08
+3086,Fyzioterapeut,15301,2016-08-08
+3087,Fyzioterapeut,15302,2016-08-08
+3088,Fyzioterapeut,16053,2016-07-01
+3089,Fyzioterapeut,16054,2016-07-01
+3090,Fyzioterapeut,17630,2016-01-01
+3091,Fyzioterapeut,17686,2016-02-01
+3092,Fyzioterapeut,17688,2016-02-01
+3093,Fyzioterapeut,17748,2016-01-01
+3094,Fyzioterapeut,20369,2015-05-01
+3095,Fyzioterapeut,20698,2015-06-15
+3096,Fyzioterapeut,20699,2015-06-15
+3097,Fyzioterapeut,21335,2015-04-01
+3098,Fyzioterapeut,21742,2015-03-01
+3099,Fyzioterapeut,21800,2014-01-01
+3100,Fyzioterapeut,22213,2014-12-01
+3101,Fyzioterapeut,23088,2014-06-01
+3102,Fyzioterapeut,24078,2014-01-01
+3103,Fyzioterapeut,24614,2014-01-01
+3104,Fyzioterapeut,24621,2013-10-01
+3105,Fyzioterapeut,24875,2013-11-01
+3106,Fyzioterapeut,25845,2013-12-01
+3107,Fyzioterapeut,26277,2013-09-01
+3108,Fyzioterapeut,29928,2012-03-15
+3109,Fyzioterapeut,30043,2012-01-01
+3110,Fyzioterapeut,31361,2011-05-01
+3111,Fyzioterapeut,32796,2010-12-01
+3112,Fyzioterapeut,32820,2011-02-15
+3113,Fyzioterapeut,34307,2010-02-01
+3114,Fyzioterapeut,34308,2010-02-01
+3115,Fyzioterapeut,37705,2008-01-01
+3116,Fyzioterapeut,39664,2007-01-01
+3117,Fyzioterapeut,40467,2006-03-01
+3118,Fyzioterapeut,40843,2006-03-01
+3119,Fyzioterapeut,46713,1997-07-01
+3120,Fyzioterapeut,57540,1997-01-01
+3121,Fyzioterapeut,57541,1997-01-01
+3122,kardiologie,1656,2021-02-01
+3123,kardiologie,2548,2020-12-01
+3124,kardiologie,9267,2018-07-01
+3125,kardiologie,17745,2016-01-01
+3126,kardiologie,22221,2015-01-01
+3127,kardiologie,29738,2012-01-01
+3128,kardiologie,30029,2012-01-01
+3129,kardiologie,37700,2008-01-01
+3130,kardiologie,45171,2003-03-01
+3131,Dentální hygienistka,6433,2019-07-01
+3132,Dentální hygienistka,6434,2019-07-01
+3133,Dentální hygienistka,8279,2018-10-10
+3134,Dentální hygienistka,8906,2018-08-01
+3135,Dentální hygienistka,9206,2018-06-27
+3136,Dentální hygienistka,9968,2018-04-05
+3137,Dentální hygienistka,19430,2015-09-01
+3138,Dentální hygienistka,42833,2004-08-01
+3139,Fyzioterapeut,479,2021-06-29
+3140,Fyzioterapeut,818,2021-05-13
+3141,Fyzioterapeut,1797,2021-01-01
+3142,Fyzioterapeut,2243,2020-12-21
+3143,Fyzioterapeut,2685,2020-11-01
+3144,Fyzioterapeut,2807,2020-10-01
+3145,Fyzioterapeut,2919,2020-09-02
+3146,Fyzioterapeut,8714,2018-07-25
+3147,Fyzioterapeut,8715,2018-07-25
+3148,Fyzioterapeut,9389,2018-06-06
+3149,Fyzioterapeut,9390,2018-06-06
+3150,Fyzioterapeut,12912,2017-02-01
+3151,Fyzioterapeut,14659,2016-10-01
+3152,Fyzioterapeut,15265,2016-01-01
+3153,Fyzioterapeut,17707,2015-12-02
+3154,Fyzioterapeut,22601,2014-01-01
+3155,Fyzioterapeut,31693,2011-01-01
+3156,Fyzioterapeut,31839,2011-01-01
+3157,Fyzioterapeut,33170,2010-11-30
+3158,Fyzioterapeut,35336,2009-09-01
+3159,Fyzioterapeut,36132,2009-05-01
+3160,Fyzioterapeut,36882,2008-09-03
+3161,Fyzioterapeut,37798,2008-01-01
+3162,Fyzioterapeut,39503,2007-05-01
+3163,Fyzioterapeut,41538,2005-02-01
+3164,kardiologie,4903,2020-03-01
+3165,kardiologie,17213,2016-03-01
+3166,kardiologie,17215,2016-03-01
+3167,kardiologie,22219,2014-12-01
+3168,kardiologie,22223,2014-12-01
+3169,kardiologie,36136,2009-05-01
+3170,kardiologie,36529,2008-01-01
+3171,kardiologie,39495,2007-05-01
+3172,kardiologie,48711,1999-06-01
+3173,kardiologie,48712,1995-01-01
+3174,kardiologie,53840,1993-01-01
+3175,kardiologie,53842,1993-01-01
+3176,kardiologie,56205,1993-01-01
+3177,kardiologie,57986,1993-02-01
+3178,sexuologie,53827,1993-04-01
+3179,sexuologie,53829,1993-04-01
+3180,Dentální hygienistka,1088,2021-03-25
+3181,Dentální hygienistka,5106,2019-12-10
+3182,Dentální hygienistka,17726,2014-10-01
+3183,Dentální hygienistka,32700,2011-02-01
+3184,Dentální hygienistka,36928,2008-08-01
+3185,Dentální hygienistka,40916,2006-04-01
+3186,Dentální hygienistka,41456,2005-10-10
+3187,Dentální hygienistka,51740,1993-09-01
+3188,Fyzioterapeut,10452,2018-03-01
+3189,Fyzioterapeut,10610,2018-01-22
+3190,Fyzioterapeut,15457,2014-11-26
+3191,Fyzioterapeut,17934,2015-03-04
+3192,Fyzioterapeut,29899,2012-01-01
+3193,Fyzioterapeut,33392,2010-08-01
+3194,Fyzioterapeut,35679,2009-05-15
+3195,Fyzioterapeut,37367,2008-04-15
+3196,Fyzioterapeut,42111,2005-01-01
+3197,Fyzioterapeut,42509,2005-01-19
+3198,Fyzioterapeut,43605,2004-01-01
+3199,Fyzioterapeut,43607,2004-01-01
+3200,Fyzioterapeut,43609,2004-01-01
+3201,Fyzioterapeut,43612,2004-01-01
+3202,Fyzioterapeut,43615,2004-01-01
+3203,Fyzioterapeut,43617,2004-01-01
+3204,Fyzioterapeut,43621,2004-01-01
+3205,Fyzioterapeut,43625,2004-01-01
+3206,Fyzioterapeut,43909,2004-01-01
+3207,Fyzioterapeut,48254,1995-06-01
+3208,Fyzioterapeut,56439,1993-04-01
+3209,Fyzioterapeut,58134,1994-09-01
+3210,Fyzioterapeut,58180,1994-09-01
+3211,kardiologie,1365,2021-03-12
+3212,kardiologie,9779,2018-01-01
+3213,kardiologie,9782,2018-01-01
+3214,kardiologie,9786,2018-01-01
+3215,kardiologie,15111,2016-01-01
+3216,kardiologie,45954,2000-10-01
+3217,Dentální hygienistka,154,2021-10-01
+3218,Fyzioterapeut,664,2021-06-07
+3219,Fyzioterapeut,763,2021-07-01
+3220,Fyzioterapeut,853,2021-06-01
+3221,Fyzioterapeut,1535,2021-03-01
+3222,Fyzioterapeut,1536,2021-04-01
+3223,Fyzioterapeut,3369,2020-06-18
+3224,Fyzioterapeut,3622,2020-06-01
+3225,Fyzioterapeut,5042,2019-12-17
+3226,Fyzioterapeut,5374,2020-01-01
+3227,Fyzioterapeut,5605,2020-02-03
+3228,Fyzioterapeut,7299,2018-01-01
+3229,Fyzioterapeut,8406,2018-10-01
+3230,Fyzioterapeut,9756,2018-01-01
+3231,Fyzioterapeut,9762,2018-01-01
+3232,Fyzioterapeut,11020,2018-01-01
+3233,Fyzioterapeut,12438,2017-04-28
+3234,Fyzioterapeut,12722,2017-03-20
+3235,Fyzioterapeut,12724,2017-03-01
+3236,Fyzioterapeut,12761,2017-03-14
+3237,Fyzioterapeut,13514,2017-01-01
+3238,Fyzioterapeut,13827,2016-11-01
+3239,Fyzioterapeut,13828,2016-11-01
+3240,Fyzioterapeut,14569,1994-10-01
+3241,Fyzioterapeut,14570,1994-10-01
+3242,Fyzioterapeut,16336,2016-07-01
+3243,Fyzioterapeut,16489,2016-01-01
+3244,Fyzioterapeut,16629,2016-05-01
+3245,Fyzioterapeut,16974,2012-04-01
+3246,Fyzioterapeut,17526,2015-01-01
+3247,Fyzioterapeut,17528,2015-01-01
+3248,Fyzioterapeut,17969,2016-01-01
+3249,Fyzioterapeut,18127,2016-01-01
+3250,Fyzioterapeut,18495,2015-11-11
+3251,Fyzioterapeut,19023,2016-01-01
+3252,Fyzioterapeut,21015,2015-04-01
+3253,Fyzioterapeut,21298,2015-03-24
+3254,Fyzioterapeut,21357,2014-05-01
+3255,Fyzioterapeut,21363,2015-02-20
+3256,Fyzioterapeut,21823,2015-01-01
+3257,Fyzioterapeut,21898,2015-01-16
+3258,Fyzioterapeut,22251,2014-10-01
+3259,Fyzioterapeut,22252,2014-10-01
+3260,Fyzioterapeut,22644,2014-07-01
+3261,Fyzioterapeut,22691,2014-01-01
+3262,Fyzioterapeut,22695,2014-01-01
+3263,Fyzioterapeut,24651,2013-10-01
+3264,Fyzioterapeut,25728,2012-08-01
+3265,Fyzioterapeut,25729,2012-08-01
+3266,Fyzioterapeut,26041,2013-07-01
+3267,Fyzioterapeut,26044,2013-07-01
+3268,Fyzioterapeut,26418,2013-08-07
+3269,Fyzioterapeut,27159,2013-02-15
+3270,Fyzioterapeut,27296,2013-01-01
+3271,Fyzioterapeut,28438,2012-07-01
+3272,Fyzioterapeut,30143,2012-02-01
+3273,Fyzioterapeut,30560,2012-02-01
+3274,Fyzioterapeut,30565,2012-02-01
+3275,Fyzioterapeut,34456,2010-04-01
+3276,Fyzioterapeut,34594,2010-01-01
+3277,Fyzioterapeut,34962,2009-01-01
+3278,Fyzioterapeut,35343,2009-07-01
+3279,Fyzioterapeut,35561,2009-07-01
+3280,Fyzioterapeut,36210,2009-01-01
+3281,Fyzioterapeut,36294,2009-01-01
+3282,Fyzioterapeut,36298,2009-01-01
+3283,Fyzioterapeut,36309,2009-01-01
+3284,Fyzioterapeut,36827,2008-01-01
+3285,Fyzioterapeut,36829,2008-01-01
+3286,Fyzioterapeut,36869,2008-09-03
+3287,Fyzioterapeut,37257,2008-01-01
+3288,Fyzioterapeut,37309,2007-07-01
+3289,Fyzioterapeut,37521,2008-03-01
+3290,Fyzioterapeut,37609,2008-04-01
+3291,Fyzioterapeut,38943,2007-07-01
+3292,Fyzioterapeut,39552,2007-04-01
+3293,Fyzioterapeut,40686,2005-10-01
+3294,Fyzioterapeut,40693,2006-03-01
+3295,Fyzioterapeut,40695,2006-03-01
+3296,Fyzioterapeut,47747,1996-01-01
+3297,Fyzioterapeut,48412,1996-01-01
+3298,Fyzioterapeut,48523,1999-02-01
+3299,Fyzioterapeut,48524,1994-10-01
+3300,Fyzioterapeut,48528,1994-10-01
+3301,Fyzioterapeut,48529,1994-10-01
+3302,Fyzioterapeut,48548,1995-01-01
+3303,Fyzioterapeut,50453,1993-11-01
+3304,Fyzioterapeut,54419,1995-01-01
+3305,Fyzioterapeut,56061,1994-02-01
+3306,Fyzioterapeut,57534,1997-07-01
+3307,Fyzioterapeut,58363,1992-01-01
+3308,Fyzioterapeut,58379,1976-12-01
+3309,Fyzioterapeut,58391,1976-12-01
+3310,Fyzioterapeut,58763,1979-07-01
+3311,Fyzioterapeut,60687,1979-07-01
+3312,kardiologie,18241,2015-12-07
+3313,kardiologie,19933,2015-07-17
+3314,kardiologie,20224,2006-01-04
+3315,kardiologie,22059,2015-01-05
+3316,kardiologie,22255,2014-09-01
+3317,kardiologie,23775,2014-01-01
+3318,kardiologie,24192,2014-02-14
+3319,kardiologie,30210,2012-01-01
+3320,kardiologie,30211,2012-01-01
+3321,kardiologie,30957,2011-01-01
+3322,kardiologie,34584,2010-01-01
+3323,kardiologie,34586,2010-01-01
+3324,kardiologie,36212,2009-01-01
+3325,kardiologie,37243,2008-01-01
+3326,kardiologie,38931,2007-07-01
+3327,kardiologie,39563,2007-01-01
+3328,kardiologie,39569,2007-01-01
+3329,kardiologie,47777,1996-10-01
+3330,kardiologie,49057,1994-07-01
+3331,kardiologie,60648,1979-07-01
+3332,kardiologie,60765,1979-07-01
+3333,sexuologie,5653,2019-01-01
+3334,sexuologie,8561,2018-09-08
+3335,sexuologie,15056,1979-07-01
+3336,sexuologie,35048,2009-01-02
+3337,sexuologie,60754,1979-07-01
+3338,soudní lékařství,14550,2016-01-01
+3339,Dentální hygienistka,3429,2020-09-01
+3340,Dentální hygienistka,4000,2020-05-01
+3341,Dentální hygienistka,4014,2020-05-01
+3342,Dentální hygienistka,4260,2020-02-26
+3343,Dentální hygienistka,6543,2019-06-01
+3344,Dentální hygienistka,8220,2018-11-01
+3345,Dentální hygienistka,10715,2018-01-01
+3346,Dentální hygienistka,11673,2017-09-01
+3347,Dentální hygienistka,12434,2017-05-01
+3348,Dentální hygienistka,13821,2017-01-01
+3349,Dentální hygienistka,17950,2016-01-01
+3350,Dentální hygienistka,17991,2016-01-01
+3351,Dentální hygienistka,21233,2015-05-01
+3352,Dentální hygienistka,26081,2013-09-16
+3353,Dentální hygienistka,27292,2013-04-01
+3354,Dentální hygienistka,29379,2011-05-01
+3355,Dentální hygienistka,35182,2009-09-01
+3356,Dentální hygienistka,35819,2009-01-01
+3357,Dentální hygienistka,46655,2000-11-01
+3358,Dentální hygienistka,53193,1993-11-01
+3359,Dentální hygienistka,56123,1993-01-01
+3360,Fyzioterapeut,183,2021-09-01
+3361,Fyzioterapeut,184,2021-09-01
+3362,Fyzioterapeut,315,2021-09-01
+3363,Fyzioterapeut,337,2021-09-01
+3364,Fyzioterapeut,607,2021-07-01
+3365,Fyzioterapeut,1566,2021-04-01
+3366,Fyzioterapeut,3172,2020-09-01
+3367,Fyzioterapeut,4836,2020-01-15
+3368,Fyzioterapeut,5170,2020-01-01
+3369,Fyzioterapeut,5625,2020-01-01
+3370,Fyzioterapeut,9636,2018-06-01
+3371,Fyzioterapeut,13574,2017-01-01
+3372,Fyzioterapeut,16045,2016-08-01
+3373,Fyzioterapeut,17499,2015-12-01
+3374,Fyzioterapeut,17866,2016-01-01
+3375,Fyzioterapeut,19739,2015-09-01
+3376,Fyzioterapeut,19740,2015-09-01
+3377,Fyzioterapeut,20469,2015-07-01
+3378,Fyzioterapeut,21528,2015-03-06
+3379,Fyzioterapeut,27411,2013-04-01
+3380,Fyzioterapeut,27413,2013-01-01
+3381,Fyzioterapeut,27574,2013-01-01
+3382,Fyzioterapeut,28725,2012-01-01
+3383,Fyzioterapeut,29682,2012-03-01
+3384,Fyzioterapeut,29996,2012-01-01
+3385,Fyzioterapeut,30979,2011-10-11
+3386,Fyzioterapeut,35139,2009-01-01
+3387,Fyzioterapeut,37525,2008-01-01
+3388,Fyzioterapeut,37526,2008-01-01
+3389,Fyzioterapeut,37861,2008-03-26
+3390,Fyzioterapeut,40463,2006-01-01
+3391,Fyzioterapeut,42393,2005-01-01
+3392,Fyzioterapeut,42395,2005-01-01
+3393,Fyzioterapeut,46485,1999-01-01
+3394,Fyzioterapeut,53154,1995-01-01
+3395,Fyzioterapeut,53202,1994-01-01
+3396,Fyzioterapeut,56118,1993-01-01
+3397,Fyzioterapeut,58568,1976-12-01
+3398,Fyzioterapeut,59510,1992-01-01
+3399,Fyzioterapeut,59516,1976-12-01
+3400,kardiologie,6372,2019-06-21
+3401,kardiologie,8706,2018-08-08
+3402,kardiologie,10809,2018-01-01
+3403,kardiologie,12580,2017-09-01
+3404,kardiologie,24455,2014-01-01
+3405,kardiologie,29993,2012-01-01
+3406,kardiologie,37352,2007-05-01
+3407,kardiologie,37483,2008-01-01
+3408,kardiologie,53106,1995-01-01
+3409,kardiologie,56126,1993-01-01
+3410,kardiologie,56283,1992-08-01
+3411,sexuologie,27057,2013-05-01
+3412,sexuologie,58579,1976-12-01
+3413,Dentální hygienistka,139,2021-09-01
+3414,Dentální hygienistka,3865,2020-04-01
+3415,Dentální hygienistka,5137,2019-12-09
+3416,Dentální hygienistka,5158,2020-01-01
+3417,Dentální hygienistka,5184,2020-01-01
+3418,Dentální hygienistka,6292,2019-07-15
+3419,Dentální hygienistka,7047,2019-04-01
+3420,Dentální hygienistka,8215,2018-11-01
+3421,Dentální hygienistka,10154,2018-04-01
+3422,Dentální hygienistka,11309,2017-11-01
+3423,Dentální hygienistka,11512,2017-10-01
+3424,Dentální hygienistka,11767,2017-09-01
+3425,Dentální hygienistka,12354,2017-06-01
+3426,Dentální hygienistka,13542,2017-01-01
+3427,Dentální hygienistka,14021,2016-10-26
+3428,Dentální hygienistka,15489,2016-08-05
+3429,Dentální hygienistka,16044,2016-08-01
+3430,Dentální hygienistka,16430,2016-06-01
+3431,Dentální hygienistka,17097,2016-03-10
+3432,Dentální hygienistka,17099,2016-02-18
+3433,Dentální hygienistka,17503,2016-01-01
+3434,Dentální hygienistka,19853,2015-09-01
+3435,Dentální hygienistka,21192,2015-05-13
+3436,Dentální hygienistka,21261,2015-01-01
+3437,Dentální hygienistka,22392,2014-09-01
+3438,Dentální hygienistka,24400,2014-02-01
+3439,Dentální hygienistka,26914,2013-07-01
+3440,Dentální hygienistka,27212,2013-01-01
+3441,Dentální hygienistka,29244,2012-05-01
+3442,Dentální hygienistka,29749,2012-01-02
+3443,Dentální hygienistka,31031,2011-11-01
+3444,Dentální hygienistka,31798,2010-02-15
+3445,Dentální hygienistka,32269,2010-10-01
+3446,Dentální hygienistka,34346,2010-01-01
+3447,Dentální hygienistka,34348,2010-01-01
+3448,Dentální hygienistka,35747,2007-12-01
+3449,Dentální hygienistka,36860,2008-07-01
+3450,Dentální hygienistka,50433,1994-09-01
+3451,Dentální hygienistka,55358,1993-11-01
+3452,Dentální hygienistka,55698,2001-05-01
+3453,Dentální hygienistka,57295,2001-01-01
+3454,Fyzioterapeut,71,2021-10-01
+3455,Fyzioterapeut,752,2021-07-01
+3456,Fyzioterapeut,753,2021-06-01
+3457,Fyzioterapeut,754,2021-06-01
+3458,Fyzioterapeut,1012,2021-05-01
+3459,Fyzioterapeut,1043,2021-06-01
+3460,Fyzioterapeut,1078,2021-05-01
+3461,Fyzioterapeut,1324,2021-04-01
+3462,Fyzioterapeut,1740,2021-02-01
+3463,Fyzioterapeut,2246,2021-02-01
+3464,Fyzioterapeut,2736,2020-10-07
+3465,Fyzioterapeut,3044,2020-09-01
+3466,Fyzioterapeut,3169,2020-08-01
+3467,Fyzioterapeut,3170,2020-08-01
+3468,Fyzioterapeut,3266,2020-08-01
+3469,Fyzioterapeut,3328,2020-07-01
+3470,Fyzioterapeut,4264,2020-05-01
+3471,Fyzioterapeut,4265,2020-05-01
+3472,Fyzioterapeut,4810,2020-01-02
+3473,Fyzioterapeut,5319,2020-01-01
+3474,Fyzioterapeut,5462,2019-09-30
+3475,Fyzioterapeut,5995,2019-08-28
+3476,Fyzioterapeut,5996,2019-08-28
+3477,Fyzioterapeut,6132,2019-07-29
+3478,Fyzioterapeut,6978,2019-01-01
+3479,Fyzioterapeut,7169,2019-03-01
+3480,Fyzioterapeut,7170,2019-03-01
+3481,Fyzioterapeut,7306,2018-01-01
+3482,Fyzioterapeut,7315,2018-01-01
+3483,Fyzioterapeut,7505,2019-01-03
+3484,Fyzioterapeut,7506,2019-01-03
+3485,Fyzioterapeut,7518,2019-01-24
+3486,Fyzioterapeut,8021,2019-01-01
+3487,Fyzioterapeut,8169,2018-11-07
+3488,Fyzioterapeut,8405,2018-10-08
+3489,Fyzioterapeut,8555,2018-10-08
+3490,Fyzioterapeut,8571,2018-09-17
+3491,Fyzioterapeut,9142,2018-07-10
+3492,Fyzioterapeut,9210,2018-06-25
+3493,Fyzioterapeut,9330,2018-06-11
+3494,Fyzioterapeut,9335,2018-06-12
+3495,Fyzioterapeut,9340,2000-04-01
+3496,Fyzioterapeut,9459,2018-06-08
+3497,Fyzioterapeut,9461,2018-06-08
+3498,Fyzioterapeut,9462,2018-06-08
+3499,Fyzioterapeut,9467,2018-06-04
+3500,Fyzioterapeut,9469,2018-06-04
+3501,Fyzioterapeut,9470,2018-06-04
+3502,Fyzioterapeut,9640,2018-06-01
+3503,Fyzioterapeut,10313,2018-02-22
+3504,Fyzioterapeut,10314,2018-02-22
+3505,Fyzioterapeut,11174,2017-11-13
+3506,Fyzioterapeut,11545,2017-08-23
+3507,Fyzioterapeut,11635,2017-10-01
+3508,Fyzioterapeut,11842,2017-08-10
+3509,Fyzioterapeut,11983,2017-08-01
+3510,Fyzioterapeut,11984,2017-08-01
+3511,Fyzioterapeut,12517,2017-04-26
+3512,Fyzioterapeut,12526,2017-05-01
+3513,Fyzioterapeut,12527,2017-05-01
+3514,Fyzioterapeut,12995,2017-03-01
+3515,Fyzioterapeut,12996,2017-03-01
+3516,Fyzioterapeut,14261,2009-01-01
+3517,Fyzioterapeut,14440,2016-09-13
+3518,Fyzioterapeut,15293,2016-08-08
+3519,Fyzioterapeut,16098,2016-07-01
+3520,Fyzioterapeut,16757,2016-04-01
+3521,Fyzioterapeut,19183,2014-08-28
+3522,Fyzioterapeut,19486,2015-10-01
+3523,Fyzioterapeut,19899,2015-09-01
+3524,Fyzioterapeut,21078,2015-04-23
+3525,Fyzioterapeut,21263,2015-02-01
+3526,Fyzioterapeut,21286,2015-03-15
+3527,Fyzioterapeut,21561,2014-07-21
+3528,Fyzioterapeut,22765,2014-07-01
+3529,Fyzioterapeut,23019,2014-01-01
+3530,Fyzioterapeut,23414,2014-01-01
+3531,Fyzioterapeut,24440,2014-01-01
+3532,Fyzioterapeut,24664,2013-01-01
+3533,Fyzioterapeut,25830,2013-09-16
+3534,Fyzioterapeut,29917,2012-01-01
+3535,Fyzioterapeut,31377,2011-05-01
+3536,Fyzioterapeut,31458,2011-03-01
+3537,Fyzioterapeut,32233,2009-09-01
+3538,Fyzioterapeut,32271,2011-01-01
+3539,Fyzioterapeut,33442,2010-08-01
+3540,Fyzioterapeut,33443,2010-08-01
+3541,Fyzioterapeut,33980,2010-05-01
+3542,Fyzioterapeut,33982,2010-05-01
+3543,Fyzioterapeut,34287,2010-04-01
+3544,Fyzioterapeut,34409,2010-04-01
+3545,Fyzioterapeut,34484,2009-11-02
+3546,Fyzioterapeut,34781,2010-03-08
+3547,Fyzioterapeut,35062,2009-01-01
+3548,Fyzioterapeut,35064,2009-01-01
+3549,Fyzioterapeut,35136,2009-09-01
+3550,Fyzioterapeut,35138,2009-09-01
+3551,Fyzioterapeut,35151,2009-06-01
+3552,Fyzioterapeut,35194,2009-10-01
+3553,Fyzioterapeut,35200,2009-07-16
+3554,Fyzioterapeut,35209,2009-07-16
+3555,Fyzioterapeut,35655,2009-01-01
+3556,Fyzioterapeut,35757,2008-03-17
+3557,Fyzioterapeut,35882,2008-10-01
+3558,Fyzioterapeut,36717,2008-09-15
+3559,Fyzioterapeut,36866,2008-08-01
+3560,Fyzioterapeut,37266,2008-01-01
+3561,Fyzioterapeut,37380,2007-11-01
+3562,Fyzioterapeut,37501,2007-01-01
+3563,Fyzioterapeut,37520,2008-01-01
+3564,Fyzioterapeut,39203,2007-06-20
+3565,Fyzioterapeut,40610,2005-04-01
+3566,Fyzioterapeut,40890,2006-01-01
+3567,Fyzioterapeut,41080,2005-12-15
+3568,Fyzioterapeut,41081,2005-12-15
+3569,Fyzioterapeut,42316,2005-01-02
+3570,Fyzioterapeut,42317,2005-01-02
+3571,Fyzioterapeut,42360,2005-01-01
+3572,Fyzioterapeut,45473,2002-12-01
+3573,Fyzioterapeut,46045,2001-01-01
+3574,Fyzioterapeut,46049,2001-01-01
+3575,Fyzioterapeut,46056,2001-01-01
+3576,Fyzioterapeut,49141,2000-03-01
+3577,Fyzioterapeut,49156,2000-03-01
+3578,Fyzioterapeut,53581,1993-08-01
+3579,Fyzioterapeut,53621,1996-11-01
+3580,Fyzioterapeut,54416,1994-02-01
+3581,Fyzioterapeut,58195,1996-01-01
+3582,Fyzioterapeut,58196,1993-01-01
+3583,Fyzioterapeut,58641,1976-12-01
+3584,Fyzioterapeut,58709,1976-12-01
+3585,Fyzioterapeut,58726,1976-12-01
+3586,Fyzioterapeut,59414,1989-03-01
+3587,Fyzioterapeut,59418,1989-03-01
+3588,Fyzioterapeut,59483,1976-12-01
+3589,kardiologie,312,2021-07-29
+3590,kardiologie,836,2021-05-12
+3591,kardiologie,910,2021-06-01
+3592,kardiologie,7678,2019-01-07
+3593,kardiologie,11431,2017-11-01
+3594,kardiologie,11599,2017-10-01
+3595,kardiologie,14191,2016-10-01
+3596,kardiologie,17730,2016-01-19
+3597,kardiologie,19007,2012-12-03
+3598,kardiologie,23016,2014-01-01
+3599,kardiologie,24432,2014-01-01
+3600,kardiologie,25848,2013-08-05
+3601,kardiologie,27471,2013-01-01
+3602,kardiologie,29732,2012-01-01
+3603,kardiologie,34811,2010-02-10
+3604,kardiologie,34887,2010-01-01
+3605,kardiologie,35977,2009-01-01
+3606,kardiologie,37068,2008-01-01
+3607,kardiologie,37070,2008-01-01
+3608,kardiologie,37281,2008-01-01
+3609,kardiologie,37322,2008-01-01
+3610,kardiologie,37323,2008-01-01
+3611,kardiologie,37356,2007-05-01
+3612,kardiologie,37685,2008-04-23
+3613,kardiologie,39532,2007-01-01
+3614,kardiologie,39536,2007-01-01
+3615,kardiologie,40340,2004-08-01
+3616,kardiologie,41035,2005-12-07
+3617,kardiologie,41083,2005-09-01
+3618,kardiologie,41517,2005-09-16
+3619,kardiologie,41659,2005-07-01
+3620,kardiologie,43541,2004-04-01
+3621,kardiologie,45602,2002-04-01
+3622,kardiologie,46804,1996-12-01
+3623,kardiologie,49123,2000-03-01
+3624,kardiologie,49153,2000-03-01
+3625,kardiologie,50419,1993-10-15
+3626,kardiologie,53623,1996-11-01
+3627,kardiologie,56341,1993-11-01
+3628,kardiologie,58627,1976-12-01
+3629,kardiologie,58682,1976-12-01
+3630,kardiologie,58693,1976-12-01
+3631,kardiologie,59428,1976-12-01
+3632,kardiologie,59448,1976-12-01
+3633,kardiologie,59503,1976-12-01
+3634,sexuologie,58600,1976-12-01
+3635,soudní lékařství,58601,1976-12-01
+3636,Dentální hygienistka,2879,2020-09-09
+3637,Dentální hygienistka,3444,2020-06-10
+3638,Dentální hygienistka,5370,2019-12-01
+3639,Dentální hygienistka,5852,2019-09-11
+3640,Dentální hygienistka,6639,2019-06-01
+3641,Dentální hygienistka,8192,2019-01-01
+3642,Dentální hygienistka,9094,2018-07-01
+3643,Dentální hygienistka,12903,2018-03-01
+3644,Dentální hygienistka,13842,2017-01-01
+3645,Dentální hygienistka,17509,2015-12-16
+3646,Dentální hygienistka,18526,2015-01-01
+3647,Dentální hygienistka,25109,2013-11-01
+3648,Dentální hygienistka,25157,2013-09-01
+3649,Dentální hygienistka,35638,2009-01-01
+3650,Fyzioterapeut,642,2021-06-01
+3651,Fyzioterapeut,846,2021-05-12
+3652,Fyzioterapeut,1095,2021-04-14
+3653,Fyzioterapeut,1178,2021-03-30
+3654,Fyzioterapeut,1572,2021-02-16
+3655,Fyzioterapeut,1731,2021-03-01
+3656,Fyzioterapeut,1812,2021-01-13
+3657,Fyzioterapeut,1813,2021-01-13
+3658,Fyzioterapeut,3635,2020-04-24
+3659,Fyzioterapeut,4210,2020-04-01
+3660,Fyzioterapeut,4211,2020-04-01
+3661,Fyzioterapeut,8872,2018-07-30
+3662,Fyzioterapeut,9660,2018-05-21
+3663,Fyzioterapeut,11019,2018-01-01
+3664,Fyzioterapeut,12579,2017-04-07
+3665,Fyzioterapeut,13540,2017-01-01
+3666,Fyzioterapeut,13722,2017-01-01
+3667,Fyzioterapeut,14907,2016-09-01
+3668,Fyzioterapeut,14966,2014-12-18
+3669,Fyzioterapeut,14969,2015-11-01
+3670,Fyzioterapeut,14997,2015-01-09
+3671,Fyzioterapeut,15023,2014-07-10
+3672,Fyzioterapeut,16715,2015-01-01
+3673,Fyzioterapeut,16874,2016-04-01
+3674,Fyzioterapeut,16878,2016-03-24
+3675,Fyzioterapeut,16892,2016-01-01
+3676,Fyzioterapeut,16893,2016-01-01
+3677,Fyzioterapeut,18892,2015-01-01
+3678,Fyzioterapeut,19047,2015-07-15
+3679,Fyzioterapeut,22721,2014-01-01
+3680,Fyzioterapeut,22722,2014-01-01
+3681,Fyzioterapeut,27431,2013-04-01
+3682,Fyzioterapeut,27442,2013-03-01
+3683,Fyzioterapeut,29863,2012-03-14
+3684,Fyzioterapeut,31187,2011-09-01
+3685,Fyzioterapeut,32627,2011-01-01
+3686,Fyzioterapeut,35598,2009-01-01
+3687,Fyzioterapeut,36620,2008-01-01
+3688,Fyzioterapeut,44998,1999-02-10
+3689,Fyzioterapeut,46330,2000-07-01
+3690,Fyzioterapeut,48487,1995-02-01
+3691,Fyzioterapeut,49788,1995-04-01
+3692,Fyzioterapeut,49795,1995-01-01
+3693,Fyzioterapeut,54021,1992-09-01
+3694,Fyzioterapeut,54024,1992-09-01
+3695,Fyzioterapeut,56936,2020-07-21
+3696,Fyzioterapeut,56937,1992-07-01
+3697,Fyzioterapeut,57092,2001-04-01
+3698,Fyzioterapeut,57199,2002-01-01
+3699,Fyzioterapeut,60185,2014-01-01
+3700,Fyzioterapeut,60194,1976-12-01
+3701,kardiologie,6704,2019-05-01
+3702,kardiologie,18920,2015-01-01
+3703,kardiologie,18921,2015-01-01
+3704,kardiologie,18922,2015-01-01
+3705,kardiologie,21273,2014-01-01
+3706,kardiologie,27454,2013-01-01
+3707,kardiologie,27491,2013-01-01
+3708,kardiologie,35612,2009-03-02
+3709,kardiologie,57200,2002-02-01
+3710,sexuologie,18873,2015-01-01
+3711,soudní lékařství,18881,2015-01-01
+3712,Dentální hygienistka,4677,2020-01-31
+3713,Dentální hygienistka,11329,2017-11-06
+3714,Dentální hygienistka,15698,2016-05-01
+3715,Dentální hygienistka,18284,2015-12-04
+3716,Dentální hygienistka,19037,2014-06-28
+3717,Fyzioterapeut,1517,2021-03-01
+3718,Fyzioterapeut,2256,2020-12-15
+3719,Fyzioterapeut,2257,2020-12-15
+3720,Fyzioterapeut,5159,2019-11-29
+3721,Fyzioterapeut,5160,2019-11-29
+3722,Fyzioterapeut,6568,2019-07-01
+3723,Fyzioterapeut,6584,2019-07-01
+3724,Fyzioterapeut,6585,2019-07-01
+3725,Fyzioterapeut,6625,2019-01-01
+3726,Fyzioterapeut,14171,1997-03-01
+3727,Fyzioterapeut,15691,2016-05-01
+3728,Fyzioterapeut,16976,2015-06-01
+3729,Fyzioterapeut,20163,2008-04-01
+3730,Fyzioterapeut,23913,2014-01-01
+3731,Fyzioterapeut,27468,2013-04-01
+3732,Fyzioterapeut,37193,2008-01-09
+3733,Fyzioterapeut,42197,2005-04-01
+3734,Fyzioterapeut,42200,2005-04-01
+3735,Fyzioterapeut,44794,2003-05-01
+3736,Fyzioterapeut,49030,2016-09-17
+3737,Fyzioterapeut,49031,1994-08-01
+3738,Fyzioterapeut,51202,1993-11-01
+3739,kardiologie,43698,2004-03-01
+3740,kardiologie,59720,1976-12-01
+3741,Fyzioterapeut,414,2021-09-01
+3742,Fyzioterapeut,11576,2017-09-01
+3743,Fyzioterapeut,16049,2016-07-01
+3744,Fyzioterapeut,19310,2014-12-23
+3745,Fyzioterapeut,21088,2014-10-01
+3746,Fyzioterapeut,34377,2010-02-04
+3747,Fyzioterapeut,42230,2005-01-01
+3748,Fyzioterapeut,51032,1995-11-01
+3749,Fyzioterapeut,59357,1991-01-01
+3750,kardiologie,5516,2020-01-01
+3751,kardiologie,44087,2004-01-01
+3752,kardiologie,46284,1999-06-01
+3753,sexuologie,59383,1991-01-01
+3754,sexuologie,59384,1991-01-01
+3755,sexuologie,59385,1991-01-01
+3756,Dentální hygienistka,2923,2020-08-25
+3757,Dentální hygienistka,6528,2019-07-01
+3758,Dentální hygienistka,10051,2018-03-07
+3759,Dentální hygienistka,10155,2018-02-22
+3760,Dentální hygienistka,12570,2017-03-27
+3761,Dentální hygienistka,12792,2017-04-01
+3762,Dentální hygienistka,16110,2016-08-01
+3763,Dentální hygienistka,19077,2015-10-12
+3764,Dentální hygienistka,19859,2014-03-20
+3765,Dentální hygienistka,21759,2015-01-01
+3766,Dentální hygienistka,28223,2013-01-01
+3767,Dentální hygienistka,29629,2012-01-01
+3768,Dentální hygienistka,33803,2010-04-01
+3769,Dentální hygienistka,34981,2009-06-01
+3770,Dentální hygienistka,59118,1992-01-01
+3771,Fyzioterapeut,124,2021-08-30
+3772,Fyzioterapeut,273,2021-06-29
+3773,Fyzioterapeut,574,2021-06-09
+3774,Fyzioterapeut,575,2021-06-09
+3775,Fyzioterapeut,589,2021-05-21
+3776,Fyzioterapeut,689,2021-06-01
+3777,Fyzioterapeut,815,2021-05-14
+3778,Fyzioterapeut,816,2021-05-14
+3779,Fyzioterapeut,867,2021-03-31
+3780,Fyzioterapeut,875,2021-04-26
+3781,Fyzioterapeut,912,2021-02-25
+3782,Fyzioterapeut,1568,2021-01-26
+3783,Fyzioterapeut,1584,2021-02-11
+3784,Fyzioterapeut,1585,2021-02-11
+3785,Fyzioterapeut,2251,2020-11-25
+3786,Fyzioterapeut,2639,2020-10-21
+3787,Fyzioterapeut,3206,2020-07-01
+3788,Fyzioterapeut,3310,2020-06-20
+3789,Fyzioterapeut,3613,2020-04-22
+3790,Fyzioterapeut,3998,2020-03-11
+3791,Fyzioterapeut,5214,2019-11-27
+3792,Fyzioterapeut,5345,2019-11-07
+3793,Fyzioterapeut,5470,2019-01-01
+3794,Fyzioterapeut,5472,2019-01-01
+3795,Fyzioterapeut,5568,2019-10-01
+3796,Fyzioterapeut,5600,2019-10-07
+3797,Fyzioterapeut,5821,2019-09-11
+3798,Fyzioterapeut,5913,2019-08-16
+3799,Fyzioterapeut,6548,2019-06-01
+3800,Fyzioterapeut,6705,2019-04-29
+3801,Fyzioterapeut,6706,2019-04-29
+3802,Fyzioterapeut,7720,2019-01-01
+3803,Fyzioterapeut,8211,2018-11-01
+3804,Fyzioterapeut,8212,2018-11-01
+3805,Fyzioterapeut,8507,2018-09-19
+3806,Fyzioterapeut,8802,2018-09-01
+3807,Fyzioterapeut,9456,2018-06-08
+3808,Fyzioterapeut,9688,2018-05-01
+3809,Fyzioterapeut,9835,2018-04-01
+3810,Fyzioterapeut,9880,2018-04-12
+3811,Fyzioterapeut,10056,2018-03-19
+3812,Fyzioterapeut,10088,2018-01-01
+3813,Fyzioterapeut,10508,2018-01-15
+3814,Fyzioterapeut,11575,2017-09-20
+3815,Fyzioterapeut,11779,2017-08-11
+3816,Fyzioterapeut,11780,2017-08-11
+3817,Fyzioterapeut,11980,2017-07-20
+3818,Fyzioterapeut,13186,2017-01-06
+3819,Fyzioterapeut,13428,2011-07-15
+3820,Fyzioterapeut,13557,2016-08-05
+3821,Fyzioterapeut,13882,2016-10-31
+3822,Fyzioterapeut,14514,2016-09-02
+3823,Fyzioterapeut,15394,2014-10-02
+3824,Fyzioterapeut,15972,2014-04-16
+3825,Fyzioterapeut,16050,2016-05-16
+3826,Fyzioterapeut,16425,2016-04-11
+3827,Fyzioterapeut,16663,2016-02-08
+3828,Fyzioterapeut,16664,2016-02-08
+3829,Fyzioterapeut,16665,2016-02-08
+3830,Fyzioterapeut,16666,2016-02-08
+3831,Fyzioterapeut,16811,2016-01-08
+3832,Fyzioterapeut,17050,2015-12-07
+3833,Fyzioterapeut,19063,2015-09-21
+3834,Fyzioterapeut,19065,2015-09-21
+3835,Fyzioterapeut,19067,2015-09-21
+3836,Fyzioterapeut,19269,2015-03-23
+3837,Fyzioterapeut,19734,2015-03-24
+3838,Fyzioterapeut,19735,2015-06-19
+3839,Fyzioterapeut,20500,2011-10-12
+3840,Fyzioterapeut,20842,2014-05-28
+3841,Fyzioterapeut,21098,2015-02-02
+3842,Fyzioterapeut,22632,2014-03-31
+3843,Fyzioterapeut,22640,2013-11-29
+3844,Fyzioterapeut,24952,2013-07-01
+3845,Fyzioterapeut,26834,2013-01-01
+3846,Fyzioterapeut,28515,2012-01-01
+3847,Fyzioterapeut,28845,2012-01-01
+3848,Fyzioterapeut,29623,2012-01-01
+3849,Fyzioterapeut,29625,2012-01-01
+3850,Fyzioterapeut,29650,2012-01-01
+3851,Fyzioterapeut,30826,2012-01-01
+3852,Fyzioterapeut,30925,2010-05-20
+3853,Fyzioterapeut,31603,2011-05-06
+3854,Fyzioterapeut,33237,2010-06-07
+3855,Fyzioterapeut,33521,2010-04-12
+3856,Fyzioterapeut,33532,2010-04-01
+3857,Fyzioterapeut,33620,2010-07-01
+3858,Fyzioterapeut,34120,2010-01-01
+3859,Fyzioterapeut,34246,2010-01-01
+3860,Fyzioterapeut,34625,2010-01-01
+3861,Fyzioterapeut,34979,2009-09-01
+3862,Fyzioterapeut,34982,2009-06-01
+3863,Fyzioterapeut,35410,2009-09-01
+3864,Fyzioterapeut,36354,2009-01-01
+3865,Fyzioterapeut,39416,2006-12-19
+3866,Fyzioterapeut,40092,2007-01-01
+3867,Fyzioterapeut,42231,2005-01-01
+3868,Fyzioterapeut,43877,2004-02-01
+3869,Fyzioterapeut,44205,2004-01-01
+3870,Fyzioterapeut,45054,2003-02-26
+3871,Fyzioterapeut,46361,2002-09-01
+3872,Fyzioterapeut,46362,2000-01-01
+3873,Fyzioterapeut,57650,1996-09-01
+3874,Fyzioterapeut,58110,1994-03-01
+3875,Fyzioterapeut,59110,1992-01-01
+3876,Fyzioterapeut,59240,1976-01-01
+3877,kardiologie,31604,2011-09-01
+3878,kardiologie,32389,2011-01-01
+3879,kardiologie,32838,2011-04-01
+3880,kardiologie,38112,2014-07-14
+3881,kardiologie,54854,1995-12-01
+3882,kardiologie,57652,1996-09-01
+3883,kardiologie,57678,1996-09-01
+3884,kardiologie,59076,1992-01-01
+3885,kardiologie,59131,1992-01-01
+3886,kardiologie,59171,1992-01-01
+3887,kardiologie,59191,1992-01-01
+3888,kardiologie,59254,1976-01-01
+3889,kardiologie,59301,1976-01-01
+3890,kardiologie,59333,1976-01-01
+3891,sexuologie,807,2021-05-17
+3892,sexuologie,7026,2019-05-01
+3893,sexuologie,18385,2015-01-01
+3894,sexuologie,59115,1992-01-01
+3895,sexuologie,59225,1992-01-01
+3896,soudní lékařství,59040,1993-07-01
+3897,Fyzioterapeut,8317,2018-01-01
+3898,Fyzioterapeut,11509,2017-10-01
+3899,Fyzioterapeut,11837,2017-08-09
+3900,Fyzioterapeut,11838,2017-08-09
+3901,Fyzioterapeut,14473,2016-10-01
+3902,Fyzioterapeut,19784,2013-10-21
+3903,Fyzioterapeut,42229,2005-01-01
+3904,Fyzioterapeut,50238,1994-06-01
+3905,kardiologie,3410,2020-06-15
+3906,kardiologie,8481,2018-11-01
+3907,kardiologie,21143,2014-07-16
+3908,Fyzioterapeut,318,2021-07-28
+3909,Fyzioterapeut,11337,2017-11-01
+3910,Fyzioterapeut,20292,2010-09-03
+3911,Fyzioterapeut,23334,2014-10-01
+3912,Fyzioterapeut,23335,2014-10-01
+3913,Fyzioterapeut,25313,2013-10-01
+3914,Fyzioterapeut,25314,2013-10-01
+3915,Fyzioterapeut,26412,2013-01-01
+3916,kardiologie,27121,2013-01-01
+3917,kardiologie,39954,2007-01-01
+3918,Dentální hygienistka,118,2021-09-01
+3919,Dentální hygienistka,4695,2020-02-01
+3920,Dentální hygienistka,4707,2020-02-01
+3921,Dentální hygienistka,6093,2019-09-01
+3922,Dentální hygienistka,7441,2019-03-01
+3923,Dentální hygienistka,15221,2014-09-02
+3924,Dentální hygienistka,16712,2016-04-01
+3925,Dentální hygienistka,17615,2016-01-01
+3926,Dentální hygienistka,19380,2015-09-01
+3927,Dentální hygienistka,19384,2015-09-01
+3928,Dentální hygienistka,21341,2015-03-01
+3929,Dentální hygienistka,22326,2014-11-01
+3930,Dentální hygienistka,22744,2014-07-01
+3931,Dentální hygienistka,29512,2012-01-01
+3932,Dentální hygienistka,30530,2012-04-01
+3933,Dentální hygienistka,30531,2012-04-01
+3934,Dentální hygienistka,30757,2012-01-01
+3935,Dentální hygienistka,32999,2011-02-01
+3936,Dentální hygienistka,56685,1993-03-01
+3937,Fyzioterapeut,773,2021-05-24
+3938,Fyzioterapeut,898,2021-05-17
+3939,Fyzioterapeut,899,2021-05-17
+3940,Fyzioterapeut,2172,2021-01-01
+3941,Fyzioterapeut,2478,2020-12-01
+3942,Fyzioterapeut,2970,2020-09-01
+3943,Fyzioterapeut,2971,2020-09-01
+3944,Fyzioterapeut,3053,2020-08-06
+3945,Fyzioterapeut,4462,2020-01-01
+3946,Fyzioterapeut,5149,2020-01-01
+3947,Fyzioterapeut,7991,2018-12-01
+3948,Fyzioterapeut,8484,2018-09-10
+3949,Fyzioterapeut,16439,2016-05-01
+3950,Fyzioterapeut,16598,2016-04-01
+3951,Fyzioterapeut,16710,2016-04-01
+3952,Fyzioterapeut,17259,2016-02-08
+3953,Fyzioterapeut,17594,2014-11-24
+3954,Fyzioterapeut,17595,2014-11-24
+3955,Fyzioterapeut,20768,2015-05-01
+3956,Fyzioterapeut,20769,2015-05-01
+3957,Fyzioterapeut,22049,2015-01-05
+3958,Fyzioterapeut,22050,2015-01-05
+3959,Fyzioterapeut,22233,2014-01-01
+3960,Fyzioterapeut,22324,2014-12-01
+3961,Fyzioterapeut,23103,2014-01-01
+3962,Fyzioterapeut,28015,2013-01-01
+3963,Fyzioterapeut,28017,2013-01-01
+3964,Fyzioterapeut,30742,2012-01-01
+3965,Fyzioterapeut,33154,2010-11-01
+3966,Fyzioterapeut,34553,2010-04-14
+3967,Fyzioterapeut,37048,2008-07-01
+3968,Fyzioterapeut,38802,2007-04-01
+3969,Fyzioterapeut,39078,2007-07-01
+3970,Fyzioterapeut,40289,2005-12-15
+3971,Fyzioterapeut,41508,2005-05-01
+3972,Fyzioterapeut,41564,2005-09-01
+3973,Fyzioterapeut,42637,2004-06-01
+3974,Fyzioterapeut,51299,1996-04-01
+3975,Fyzioterapeut,56510,1993-02-01
+3976,Fyzioterapeut,56699,1993-10-01
+3977,Fyzioterapeut,57347,1998-10-01
+3978,Fyzioterapeut,57893,1999-09-01
+3979,kardiologie,7538,2019-07-01
+3980,kardiologie,20437,2014-07-01
+3981,kardiologie,20440,2014-07-01
+3982,kardiologie,23535,2014-01-01
+3983,kardiologie,26151,2013-10-01
+3984,kardiologie,26157,2013-10-01
+3985,kardiologie,28704,2012-08-01
+3986,kardiologie,38789,2007-04-01
+3987,kardiologie,39097,2007-07-01
+3988,kardiologie,41569,2005-09-01
+3989,kardiologie,48069,1995-09-01
+3990,kardiologie,56655,1994-07-01
+3991,Dentální hygienistka,624,2021-06-09
+3992,Dentální hygienistka,1443,2021-04-01
+3993,Dentální hygienistka,3883,2020-01-01
+3994,Dentální hygienistka,5747,2019-10-01
+3995,Dentální hygienistka,6376,2019-07-08
+3996,Dentální hygienistka,7547,2019-03-01
+3997,Dentální hygienistka,9179,2018-06-26
+3998,Dentální hygienistka,12793,2015-09-30
+3999,Dentální hygienistka,13448,2017-03-01
+4000,Dentální hygienistka,22068,2014-11-03
+4001,Dentální hygienistka,22549,2014-05-14
+4002,Dentální hygienistka,30667,2012-01-01
+4003,Dentální hygienistka,33934,2010-07-01
+4004,Fyzioterapeut,336,2021-07-13
+4005,Fyzioterapeut,585,2021-06-14
+4006,Fyzioterapeut,1334,2021-03-17
+4007,Fyzioterapeut,1335,2021-03-17
+4008,Fyzioterapeut,2476,2020-11-25
+4009,Fyzioterapeut,2547,2020-11-16
+4010,Fyzioterapeut,3232,2020-07-20
+4011,Fyzioterapeut,3233,2020-07-20
+4012,Fyzioterapeut,3451,2020-09-01
+4013,Fyzioterapeut,3494,2020-06-01
+4014,Fyzioterapeut,5243,2019-12-01
+4015,Fyzioterapeut,5244,2019-12-01
+4016,Fyzioterapeut,5799,2019-09-16
+4017,Fyzioterapeut,5800,2019-09-16
+4018,Fyzioterapeut,6553,2019-08-01
+4019,Fyzioterapeut,7175,2019-03-01
+4020,Fyzioterapeut,7662,2016-10-25
+4021,Fyzioterapeut,8371,2018-10-10
+4022,Fyzioterapeut,8372,2018-10-10
+4023,Fyzioterapeut,11165,2017-12-01
+4024,Fyzioterapeut,13499,2016-11-30
+4025,Fyzioterapeut,16658,2016-03-07
+4026,Fyzioterapeut,19695,2015-06-01
+4027,Fyzioterapeut,22543,2014-06-01
+4028,Fyzioterapeut,23081,2014-02-10
+4029,Fyzioterapeut,23098,2014-01-03
+4030,Fyzioterapeut,24536,2014-01-01
+4031,Fyzioterapeut,25598,2013-03-20
+4032,Fyzioterapeut,26464,2013-01-01
+4033,Fyzioterapeut,26890,2013-07-01
+4034,Fyzioterapeut,28033,2013-01-01
+4035,Fyzioterapeut,28196,2013-01-01
+4036,Fyzioterapeut,28647,2012-01-01
+4037,Fyzioterapeut,30351,2012-02-07
+4038,Fyzioterapeut,30526,2012-04-01
+4039,Fyzioterapeut,30528,2012-04-01
+4040,Fyzioterapeut,31070,2011-01-01
+4041,Fyzioterapeut,31372,2011-06-24
+4042,Fyzioterapeut,33158,2010-01-01
+4043,Fyzioterapeut,33469,2010-10-01
+4044,Fyzioterapeut,33895,2010-07-01
+4045,Fyzioterapeut,35071,2009-09-09
+4046,Fyzioterapeut,36503,2009-03-01
+4047,Fyzioterapeut,36518,2009-01-01
+4048,Fyzioterapeut,39616,2007-01-01
+4049,Fyzioterapeut,40300,2006-03-01
+4050,Fyzioterapeut,40310,2006-09-01
+4051,Fyzioterapeut,42484,2005-01-01
+4052,Fyzioterapeut,42962,2003-06-01
+4053,Fyzioterapeut,44665,2002-05-20
+4054,Fyzioterapeut,48809,1994-09-01
+4055,Fyzioterapeut,57035,1995-09-01
+4056,kardiologie,3262,2020-08-01
+4057,kardiologie,5959,2019-08-30
+4058,kardiologie,6108,2019-07-25
+4059,kardiologie,12180,2017-06-13
+4060,kardiologie,16630,2016-01-01
+4061,kardiologie,30674,2012-01-01
+4062,kardiologie,31638,2011-01-01
+4063,Dentální hygienistka,3113,2020-07-20
+4064,Dentální hygienistka,6391,2019-07-15
+4065,Fyzioterapeut,777,2021-05-20
+4066,Fyzioterapeut,953,2021-05-01
+4067,Fyzioterapeut,4276,2020-04-01
+4068,Fyzioterapeut,5189,2019-12-13
+4069,Fyzioterapeut,10703,2018-01-01
+4070,Fyzioterapeut,12760,2017-03-06
+4071,Fyzioterapeut,13972,2016-09-21
+4072,Fyzioterapeut,13973,2016-09-15
+4073,Fyzioterapeut,15994,1997-05-05
+4074,Fyzioterapeut,16491,2016-01-01
+4075,Fyzioterapeut,16898,2012-04-01
+4076,Fyzioterapeut,21309,2015-02-01
+4077,Fyzioterapeut,27322,2013-01-01
+4078,Fyzioterapeut,27323,2013-01-01
+4079,Fyzioterapeut,30921,2011-12-01
+4080,Fyzioterapeut,34861,2010-01-01
+4081,Fyzioterapeut,36115,2009-01-01
+4082,Fyzioterapeut,36305,2009-01-01
+4083,Fyzioterapeut,36955,2008-07-01
+4084,Fyzioterapeut,37099,2008-01-01
+4085,Fyzioterapeut,38885,2007-07-01
+4086,Fyzioterapeut,44972,2003-05-19
+4087,Fyzioterapeut,56593,1993-01-01
+4088,kardiologie,12818,2017-07-17
+4089,kardiologie,21735,2015-01-01
+4090,kardiologie,36434,2009-01-01
+4091,kardiologie,38879,2007-07-01
+4092,Dentální hygienistka,1035,2021-05-01
+4093,Fyzioterapeut,2605,2020-11-01
+4094,Fyzioterapeut,6182,2019-07-08
+4095,Fyzioterapeut,18452,2015-10-07
+4096,Fyzioterapeut,18453,2015-10-07
+4097,Fyzioterapeut,26944,2013-01-01
+4098,Fyzioterapeut,28277,2012-09-01
+4099,Fyzioterapeut,28692,2012-10-01
+4100,Fyzioterapeut,45439,2002-11-01
+4101,kardiologie,29811,2012-02-01
+4102,kardiologie,37963,2008-03-01
+4103,kardiologie,38686,2006-08-01
+4104,kardiologie,39982,2007-01-01
+4105,kardiologie,49021,1994-10-01
+4106,kardiologie,49930,1995-01-01
+4107,Dentální hygienistka,6144,2019-09-01
+4108,Dentální hygienistka,11073,2018-01-01
+4109,Fyzioterapeut,654,2021-06-07
+4110,Fyzioterapeut,2046,2021-01-01
+4111,Fyzioterapeut,2770,2020-10-01
+4112,Fyzioterapeut,5030,2020-01-01
+4113,Fyzioterapeut,6298,2019-07-08
+4114,Fyzioterapeut,6752,2019-04-23
+4115,Fyzioterapeut,7291,2018-01-01
+4116,Fyzioterapeut,11716,2017-09-01
+4117,Fyzioterapeut,13316,2016-12-20
+4118,Fyzioterapeut,15961,2016-03-22
+4119,Fyzioterapeut,16397,2016-01-01
+4120,Fyzioterapeut,25287,2013-05-01
+4121,Fyzioterapeut,26870,2013-07-01
+4122,Fyzioterapeut,26874,2013-04-01
+4123,Fyzioterapeut,33922,2010-07-01
+4124,Fyzioterapeut,36303,2009-01-01
+4125,Fyzioterapeut,36802,2008-10-01
+4126,Fyzioterapeut,36839,2008-01-01
+4127,Fyzioterapeut,36840,2008-01-01
+4128,Fyzioterapeut,36841,2008-01-01
+4129,Fyzioterapeut,38990,2007-07-01
+4130,Fyzioterapeut,40709,2005-09-27
+4131,Fyzioterapeut,53556,1995-05-01
+4132,Fyzioterapeut,56190,1992-05-01
+4133,Fyzioterapeut,58038,1993-01-01
+4134,kardiologie,7292,2018-01-01
+4135,kardiologie,7296,2018-01-01
+4136,kardiologie,16398,2016-01-01
+4137,kardiologie,19678,2015-07-27
+4138,kardiologie,20223,2004-10-01
+4139,kardiologie,24271,2014-02-01
+4140,kardiologie,27324,2013-01-01
+4141,kardiologie,30438,2012-01-01
+4142,kardiologie,38986,2007-07-01
+4143,kardiologie,56191,1992-05-01
+4144,kardiologie,56195,1992-05-01
+4145,Dentální hygienistka,1157,2021-03-31
+4146,Dentální hygienistka,1717,2021-02-01
+4147,Dentální hygienistka,2985,2020-08-13
+4148,Dentální hygienistka,6048,2019-08-07
+4149,Dentální hygienistka,6827,2019-04-18
+4150,Dentální hygienistka,9177,2018-06-25
+4151,Dentální hygienistka,14352,2016-10-15
+4152,Dentální hygienistka,22536,2014-02-18
+4153,Dentální hygienistka,48678,1995-08-01
+4154,Fyzioterapeut,246,2021-08-12
+4155,Fyzioterapeut,247,2021-01-01
+4156,Fyzioterapeut,809,2021-05-13
+4157,Fyzioterapeut,1448,2021-03-04
+4158,Fyzioterapeut,6110,2019-08-01
+4159,Fyzioterapeut,8349,2018-01-01
+4160,Fyzioterapeut,8376,2015-07-01
+4161,Fyzioterapeut,9771,2018-05-12
+4162,Fyzioterapeut,11393,2017-09-01
+4163,Fyzioterapeut,12762,2017-03-15
+4164,Fyzioterapeut,12794,2017-03-01
+4165,Fyzioterapeut,13880,2016-10-05
+4166,Fyzioterapeut,24272,2014-01-01
+4167,Fyzioterapeut,25825,2013-08-24
+4168,Fyzioterapeut,27474,2013-01-01
+4169,Fyzioterapeut,28067,2013-01-01
+4170,Fyzioterapeut,28068,2013-01-01
+4171,Fyzioterapeut,30410,2012-01-01
+4172,Fyzioterapeut,31131,2010-11-08
+4173,Fyzioterapeut,31549,2011-06-01
+4174,Fyzioterapeut,33474,2010-05-15
+4175,Fyzioterapeut,34108,2009-09-15
+4176,Fyzioterapeut,34112,2010-02-01
+4177,Fyzioterapeut,37607,2001-01-01
+4178,Fyzioterapeut,40240,1994-11-01
+4179,Fyzioterapeut,44427,2003-11-01
+4180,Fyzioterapeut,44457,2003-11-01
+4181,Fyzioterapeut,48676,1995-08-01
+4182,Fyzioterapeut,48687,1998-01-01
+4183,Fyzioterapeut,48921,1994-11-01
+4184,Fyzioterapeut,50082,1995-12-01
+4185,Fyzioterapeut,57339,1999-02-01
+4186,kardiologie,8345,2018-01-01
+4187,kardiologie,11027,2018-01-01
+4188,kardiologie,16157,2016-06-08
+4189,kardiologie,20405,2004-06-01
+4190,kardiologie,24117,2014-01-01
+4191,kardiologie,34623,2010-01-01
+4192,kardiologie,44393,2003-11-01
+4193,Dentální hygienistka,5743,2019-10-01
+4194,Fyzioterapeut,1719,2021-01-29
+4195,Fyzioterapeut,14274,2016-07-01
+4196,Fyzioterapeut,14288,2016-07-01
+4197,Fyzioterapeut,15192,2016-09-01
+4198,Fyzioterapeut,25916,2013-07-01
+4199,Fyzioterapeut,36892,2008-09-01
+4200,kardiologie,10066,2018-04-01
+4201,kardiologie,14293,2016-07-01
+4202,kardiologie,28064,2013-01-01
+4203,kardiologie,36533,2008-01-01
+4204,sexuologie,12679,2017-05-01
+4205,Dentální hygienistka,10899,2018-01-01
+4206,Dentální hygienistka,17346,2016-02-01
+4207,Fyzioterapeut,12854,2017-03-01
+4208,Fyzioterapeut,12855,2017-03-01
+4209,Fyzioterapeut,15497,2015-12-01
+4210,Fyzioterapeut,17468,2015-12-01
+4211,Fyzioterapeut,19385,2014-12-10
+4212,Fyzioterapeut,20706,2014-06-16
+4213,Fyzioterapeut,28204,2013-01-01
+4214,Fyzioterapeut,32954,2011-01-01
+4215,Fyzioterapeut,42232,2005-01-01
+4216,kardiologie,42641,2005-01-01
+4217,kardiologie,44162,2004-01-01
+4218,Dentální hygienistka,1367,2021-04-01
+4219,Dentální hygienistka,2173,2021-01-01
+4220,Dentální hygienistka,9283,2018-06-11
+4221,Dentální hygienistka,23568,2014-04-02
+4222,Dentální hygienistka,26117,2013-10-01
+4223,Dentální hygienistka,29862,2012-04-01
+4224,Dentální hygienistka,34361,2010-02-01
+4225,Fyzioterapeut,6214,2019-09-01
+4226,Fyzioterapeut,8178,2018-12-01
+4227,Fyzioterapeut,8772,2018-09-01
+4228,Fyzioterapeut,8773,2018-09-01
+4229,Fyzioterapeut,8774,2018-09-01
+4230,Fyzioterapeut,11730,2017-09-01
+4231,Fyzioterapeut,14425,2016-10-01
+4232,Fyzioterapeut,18116,2015-09-01
+4233,Fyzioterapeut,18117,2015-09-01
+4234,Fyzioterapeut,24850,2013-10-01
+4235,Fyzioterapeut,26692,2013-07-01
+4236,Fyzioterapeut,30279,2012-01-03
+4237,Fyzioterapeut,32152,2011-01-01
+4238,Fyzioterapeut,32156,2011-01-01
+4239,Fyzioterapeut,32427,2011-04-01
+4240,Fyzioterapeut,33851,2010-07-01
+4241,Fyzioterapeut,36099,2009-04-01
+4242,Fyzioterapeut,37003,2008-02-01
+4243,Fyzioterapeut,37679,2008-04-01
+4244,Fyzioterapeut,41588,2005-03-01
+4245,Fyzioterapeut,41593,2005-03-01
+4246,Fyzioterapeut,42109,2005-01-01
+4247,Fyzioterapeut,42110,2005-01-01
+4248,Fyzioterapeut,44682,2003-10-01
+4249,Fyzioterapeut,46565,2000-04-01
+4250,Fyzioterapeut,51774,1994-01-01
+4251,Fyzioterapeut,54019,1993-09-01
+4252,Fyzioterapeut,55445,1993-03-08
+4253,Fyzioterapeut,58213,1994-01-01
+4254,Fyzioterapeut,58218,1994-01-01
+4255,kardiologie,26693,2013-07-01
+4256,kardiologie,36189,2009-01-01
+4257,kardiologie,55447,1993-04-01
+4258,Dentální hygienistka,11897,2017-08-01
+4259,Dentální hygienistka,12528,2017-04-06
+4260,Fyzioterapeut,3109,2010-01-01
+4261,Fyzioterapeut,4370,2020-01-01
+4262,Fyzioterapeut,5873,2019-09-01
+4263,Fyzioterapeut,5875,2019-09-01
+4264,Fyzioterapeut,9563,2018-06-01
+4265,Fyzioterapeut,13104,2017-01-01
+4266,Fyzioterapeut,13137,2017-01-01
+4267,Fyzioterapeut,15582,2016-03-01
+4268,Fyzioterapeut,16017,2016-05-25
+4269,Fyzioterapeut,16018,2016-05-25
+4270,Fyzioterapeut,19381,2015-08-05
+4271,Fyzioterapeut,19484,2015-07-01
+4272,Fyzioterapeut,24210,2014-01-01
+4273,Fyzioterapeut,25970,2013-01-01
+4274,Fyzioterapeut,30119,2012-01-01
+4275,Fyzioterapeut,30120,2012-01-01
+4276,Fyzioterapeut,31114,2011-08-23
+4277,Fyzioterapeut,32208,2011-01-01
+4278,Fyzioterapeut,46455,1998-07-01
+4279,Fyzioterapeut,48499,1995-01-01
+4280,Fyzioterapeut,57841,1997-04-01
+4281,Fyzioterapeut,58349,1996-01-01
+4282,kardiologie,13111,2017-01-01
+4283,kardiologie,13141,2017-01-01
+4284,kardiologie,24212,2014-01-01
+4285,kardiologie,25979,2013-01-01
+4286,kardiologie,25983,2013-01-01
+4287,Dentální hygienistka,7553,2019-02-01
+4288,Dentální hygienistka,10880,2018-01-01
+4289,Dentální hygienistka,10897,2018-01-01
+4290,Dentální hygienistka,12458,2017-04-26
+4291,Dentální hygienistka,27938,2013-01-01
+4292,Dentální hygienistka,46286,1999-05-01
+4293,Fyzioterapeut,1017,2021-04-26
+4294,Fyzioterapeut,6912,2019-05-01
+4295,Fyzioterapeut,8812,2018-04-10
+4296,Fyzioterapeut,22229,2014-11-19
+4297,Fyzioterapeut,22955,2014-02-01
+4298,Fyzioterapeut,33052,2011-01-01
+4299,Fyzioterapeut,43738,2004-01-01
+4300,Fyzioterapeut,43742,2004-01-01
+4301,Fyzioterapeut,43743,2004-01-01
+4302,Fyzioterapeut,52274,1994-07-01
+4303,kardiologie,33054,2011-01-01
+4304,kardiologie,46686,1998-01-01
+4305,soudní lékařství,33067,2011-01-01
+4306,Dentální hygienistka,8701,2018-09-13
+4307,Dentální hygienistka,26440,2013-01-01
+4308,Fyzioterapeut,6736,2019-04-12
+4309,Fyzioterapeut,15544,2015-07-01
+4310,Fyzioterapeut,19800,2015-07-01
+4311,Fyzioterapeut,21798,2015-01-01
+4312,Fyzioterapeut,33296,2010-01-01
+4313,Fyzioterapeut,44709,2003-09-01
+4314,Fyzioterapeut,49033,1994-06-01
+4315,Fyzioterapeut,57723,1997-01-01
+4316,Fyzioterapeut,58025,1994-05-01
+4317,kardiologie,8030,2019-01-01
+4318,kardiologie,39891,2007-01-01
+4319,Dentální hygienistka,63,2021-09-01
+4320,Fyzioterapeut,1011,2021-04-21
+4321,Fyzioterapeut,2727,2020-09-24
+4322,Fyzioterapeut,5480,2019-11-15
+4323,Fyzioterapeut,8511,2018-09-03
+4324,Fyzioterapeut,8512,2018-09-03
+4325,Fyzioterapeut,11179,2017-11-13
+4326,Fyzioterapeut,11180,2017-11-13
+4327,Fyzioterapeut,14964,2015-10-23
+4328,Fyzioterapeut,14990,2015-06-01
+4329,Fyzioterapeut,14991,2015-06-01
+4330,Fyzioterapeut,17506,2015-12-30
+4331,Fyzioterapeut,18624,2015-01-01
+4332,Fyzioterapeut,18736,2015-01-01
+4333,Fyzioterapeut,19767,2015-01-01
+4334,Fyzioterapeut,27443,2013-01-01
+4335,Fyzioterapeut,27444,2013-01-01
+4336,Fyzioterapeut,31182,2011-07-01
+4337,Fyzioterapeut,31183,2011-07-01
+4338,Fyzioterapeut,32597,2011-01-01
+4339,Fyzioterapeut,32598,2011-01-01
+4340,Fyzioterapeut,32599,2011-01-01
+4341,Fyzioterapeut,33729,2010-07-01
+4342,Fyzioterapeut,35043,2009-01-01
+4343,Fyzioterapeut,36884,2008-08-01
+4344,Fyzioterapeut,37179,2008-05-01
+4345,Fyzioterapeut,37396,2001-01-01
+4346,Fyzioterapeut,44518,2003-01-01
+4347,Fyzioterapeut,44521,2003-01-01
+4348,Fyzioterapeut,45001,2003-05-01
+4349,kardiologie,7410,2018-12-01
+4350,kardiologie,7412,2018-12-01
+4351,kardiologie,18642,2015-01-01
+4352,kardiologie,18683,2015-01-01
+4353,kardiologie,18720,2015-01-01
+4354,Dentální hygienistka,13030,2016-09-01
+4355,Fyzioterapeut,17271,2015-12-15
+4356,Fyzioterapeut,32429,2011-01-01
+4357,Fyzioterapeut,38737,2007-08-09
+4358,Fyzioterapeut,45346,2002-08-01
+4359,Fyzioterapeut,46174,2000-01-01
+4360,Fyzioterapeut,47568,2002-04-01
+4361,Fyzioterapeut,58124,1993-05-01
+4362,Fyzioterapeut,58342,1992-01-01
+4363,kardiologie,3614,2020-04-02
+4364,kardiologie,45455,2002-10-01
+4365,Dentální hygienistka,1418,2021-03-09
+4366,Dentální hygienistka,2856,2020-10-01
+4367,Dentální hygienistka,19353,2015-07-07
+4368,Dentální hygienistka,46295,1999-05-01
+4369,Dentální hygienistka,49707,1994-05-16
+4370,Fyzioterapeut,106,2021-09-02
+4371,Fyzioterapeut,1394,2021-03-01
+4372,Fyzioterapeut,1395,2021-03-01
+4373,Fyzioterapeut,3122,2020-09-01
+4374,Fyzioterapeut,5524,2019-10-30
+4375,Fyzioterapeut,5868,2019-01-01
+4376,Fyzioterapeut,7621,2019-02-01
+4377,Fyzioterapeut,8869,2018-07-30
+4378,Fyzioterapeut,9076,2018-07-12
+4379,Fyzioterapeut,10685,2018-01-01
+4380,Fyzioterapeut,11247,2017-11-14
+4381,Fyzioterapeut,14338,2007-01-01
+4382,Fyzioterapeut,15183,2014-07-14
+4383,Fyzioterapeut,15208,2015-05-01
+4384,Fyzioterapeut,16542,2016-06-01
+4385,Fyzioterapeut,16543,2016-06-01
+4386,Fyzioterapeut,18378,2015-01-01
+4387,Fyzioterapeut,21467,2014-11-01
+4388,Fyzioterapeut,21715,2015-01-12
+4389,Fyzioterapeut,22383,2014-01-01
+4390,Fyzioterapeut,23863,2014-01-01
+4391,Fyzioterapeut,28611,2012-09-01
+4392,Fyzioterapeut,29321,2012-08-01
+4393,Fyzioterapeut,32295,2011-01-01
+4394,Fyzioterapeut,32517,2011-01-01
+4395,Fyzioterapeut,36103,2009-01-01
+4396,Fyzioterapeut,37432,2001-01-01
+4397,Fyzioterapeut,37436,2001-01-01
+4398,Fyzioterapeut,38254,2007-09-01
+4399,Fyzioterapeut,42101,2005-01-01
+4400,kardiologie,9570,2018-01-01
+4401,kardiologie,32523,2011-01-01
+4402,kardiologie,37419,2001-01-01
+4403,kardiologie,38261,2007-09-01
+4404,kardiologie,46453,1998-07-01
+4405,Dentální hygienistka,2982,2020-07-31
+4406,Dentální hygienistka,9761,2018-06-01
+4407,Dentální hygienistka,11583,2017-09-04
+4408,Dentální hygienistka,11816,2017-09-01
+4409,Dentální hygienistka,13189,2017-02-01
+4410,Dentální hygienistka,16192,2016-07-01
+4411,Dentální hygienistka,17116,2014-12-01
+4412,Dentální hygienistka,22561,2014-01-01
+4413,Dentální hygienistka,23639,2014-02-18
+4414,Dentální hygienistka,29956,2012-05-14
+4415,Dentální hygienistka,35913,2009-01-01
+4416,Fyzioterapeut,52,2021-09-01
+4417,Fyzioterapeut,1671,2021-02-02
+4418,Fyzioterapeut,2773,2020-08-19
+4419,Fyzioterapeut,4338,2020-02-04
+4420,Fyzioterapeut,5980,2019-08-01
+4421,Fyzioterapeut,5984,2019-08-01
+4422,Fyzioterapeut,6215,2019-08-01
+4423,Fyzioterapeut,7848,2019-01-01
+4424,Fyzioterapeut,8287,2018-10-19
+4425,Fyzioterapeut,11153,2017-11-01
+4426,Fyzioterapeut,11157,2018-01-01
+4427,Fyzioterapeut,15464,2015-01-01
+4428,Fyzioterapeut,16141,2016-07-12
+4429,Fyzioterapeut,17995,2015-01-01
+4430,Fyzioterapeut,30130,2012-01-01
+4431,Fyzioterapeut,32196,2011-06-01
+4432,Fyzioterapeut,32421,2011-05-01
+4433,Fyzioterapeut,33396,2010-08-01
+4434,Fyzioterapeut,39184,2007-07-01
+4435,Fyzioterapeut,42095,2005-04-01
+4436,Fyzioterapeut,43179,2004-01-07
+4437,Fyzioterapeut,43981,2004-01-01
+4438,Fyzioterapeut,44910,2003-05-07
+4439,Fyzioterapeut,44948,2003-05-01
+4440,Fyzioterapeut,47591,1998-04-22
+4441,Fyzioterapeut,47998,1996-01-01
+4442,Fyzioterapeut,49811,1994-09-01
+4443,Fyzioterapeut,50918,1999-07-01
+4444,Fyzioterapeut,57587,1997-01-01
+4445,Fyzioterapeut,57588,1997-01-01
+4446,Fyzioterapeut,59768,1993-01-01
+4447,Fyzioterapeut,59769,1993-01-01
+4448,kardiologie,16188,2016-07-01
+4449,kardiologie,32050,2011-01-01
+4450,kardiologie,32053,2011-01-01
+4451,kardiologie,43997,2004-01-01
+4452,kardiologie,47592,1998-04-22
+4453,Dentální hygienistka,5147,2020-02-01
+4454,Dentální hygienistka,7043,2019-03-27
+4455,Dentální hygienistka,19697,2015-08-01
+4456,Fyzioterapeut,1327,2021-03-18
+4457,Fyzioterapeut,2601,2021-01-01
+4458,Fyzioterapeut,5352,2019-11-12
+4459,Fyzioterapeut,5353,2019-11-12
+4460,Fyzioterapeut,5631,2019-10-09
+4461,Fyzioterapeut,6007,2019-09-01
+4462,Fyzioterapeut,8184,2018-11-01
+4463,Fyzioterapeut,8935,2018-07-01
+4464,Fyzioterapeut,10438,2018-02-02
+4465,Fyzioterapeut,12366,2017-05-04
+4466,Fyzioterapeut,14441,2015-11-09
+4467,Fyzioterapeut,14792,2016-07-29
+4468,Fyzioterapeut,16033,2015-12-01
+4469,Fyzioterapeut,16787,2015-01-01
+4470,Fyzioterapeut,16793,2015-01-01
+4471,Fyzioterapeut,17014,2016-03-01
+4472,Fyzioterapeut,18464,2015-10-15
+4473,Fyzioterapeut,18465,2015-10-15
+4474,Fyzioterapeut,19709,2015-08-11
+4475,Fyzioterapeut,19710,2015-08-11
+4476,Fyzioterapeut,20623,2015-05-01
+4477,Fyzioterapeut,21157,2015-01-01
+4478,Fyzioterapeut,21378,2015-01-01
+4479,Fyzioterapeut,21875,2012-05-01
+4480,Fyzioterapeut,22390,2014-10-01
+4481,Fyzioterapeut,25702,2013-10-01
+4482,Fyzioterapeut,25703,2013-10-01
+4483,Fyzioterapeut,28607,2012-03-01
+4484,Fyzioterapeut,29799,2012-01-01
+4485,Fyzioterapeut,38039,2006-10-01
+4486,Fyzioterapeut,39666,2007-02-01
+4487,Fyzioterapeut,39826,2007-01-01
+4488,Fyzioterapeut,41442,2006-04-01
+4489,Fyzioterapeut,45749,2001-09-01
+4490,Fyzioterapeut,55315,1993-01-01
+4491,Fyzioterapeut,57062,1995-02-01
+4492,Fyzioterapeut,59408,1976-12-01
+4493,kardiologie,1793,2021-06-01
+4494,kardiologie,10654,2018-01-01
+4495,kardiologie,21829,2015-01-01
+4496,kardiologie,35868,2009-04-01
+4497,kardiologie,40723,2006-05-01
+4498,kardiologie,40724,2006-05-01
+4499,kardiologie,48691,1998-07-01
+4500,kardiologie,49928,1994-03-01
+4501,sexuologie,39858,2007-01-01
+4502,Dentální hygienistka,4100,2020-04-01
+4503,Dentální hygienistka,13675,2017-01-01
+4504,Dentální hygienistka,15644,2016-07-01
+4505,Dentální hygienistka,27543,2013-01-01
+4506,Dentální hygienistka,35467,2009-07-01
+4507,Dentální hygienistka,36764,2008-09-01
+4508,Fyzioterapeut,206,2021-08-18
+4509,Fyzioterapeut,207,2021-08-18
+4510,Fyzioterapeut,1823,2021-01-13
+4511,Fyzioterapeut,1824,2021-01-13
+4512,Fyzioterapeut,7643,2019-01-04
+4513,Fyzioterapeut,7644,2019-01-04
+4514,Fyzioterapeut,8620,2018-09-03
+4515,Fyzioterapeut,8621,2018-09-03
+4516,Fyzioterapeut,9343,2018-06-13
+4517,Fyzioterapeut,12779,2017-02-17
+4518,Fyzioterapeut,12829,2017-01-27
+4519,Fyzioterapeut,12830,2017-01-27
+4520,Fyzioterapeut,12964,2017-02-08
+4521,Fyzioterapeut,12965,2017-02-08
+4522,Fyzioterapeut,13442,2017-01-01
+4523,Fyzioterapeut,14972,2016-08-16
+4524,Fyzioterapeut,21326,2014-09-03
+4525,Fyzioterapeut,21327,2014-09-03
+4526,Fyzioterapeut,21992,2014-06-25
+4527,Fyzioterapeut,32273,2011-01-01
+4528,Fyzioterapeut,36339,2009-01-01
+4529,Fyzioterapeut,40395,2005-01-01
+4530,Fyzioterapeut,40746,2003-10-01
+4531,Fyzioterapeut,42139,2005-04-01
+4532,Fyzioterapeut,42144,2005-04-01
+4533,Fyzioterapeut,42147,2005-04-01
+4534,Fyzioterapeut,42260,2005-01-01
+4535,Fyzioterapeut,42994,2004-07-01
+4536,Fyzioterapeut,44541,2003-07-01
+4537,Fyzioterapeut,44849,2003-05-01
+4538,Fyzioterapeut,49579,1995-04-01
+4539,Fyzioterapeut,49583,1996-01-01
+4540,Fyzioterapeut,58905,1976-12-01
+4541,kardiologie,6078,2019-10-01
+4542,kardiologie,15641,2016-06-01
+4543,kardiologie,32247,2011-01-01
+4544,kardiologie,44480,2001-01-01
+4545,kardiologie,51869,1993-06-01
+4546,kardiologie,58868,1976-12-01
+4547,Dentální hygienistka,72,2021-09-20
+4548,Dentální hygienistka,588,2021-08-30
+4549,Dentální hygienistka,2811,2020-09-21
+4550,Dentální hygienistka,7206,2019-03-01
+4551,Dentální hygienistka,8137,2019-01-01
+4552,Dentální hygienistka,12796,2017-03-01
+4553,Dentální hygienistka,13178,2017-02-01
+4554,Dentální hygienistka,15126,2016-09-01
+4555,Dentální hygienistka,21028,2015-01-01
+4556,Dentální hygienistka,26330,2013-03-01
+4557,Dentální hygienistka,28077,2012-01-01
+4558,Dentální hygienistka,46931,1997-09-01
+4559,Fyzioterapeut,930,2021-05-03
+4560,Fyzioterapeut,1405,2021-03-11
+4561,Fyzioterapeut,1612,2021-01-05
+4562,Fyzioterapeut,2174,2021-01-04
+4563,Fyzioterapeut,2175,2021-01-04
+4564,Fyzioterapeut,4740,2020-02-01
+4565,Fyzioterapeut,4741,2020-02-01
+4566,Fyzioterapeut,6122,2019-09-01
+4567,Fyzioterapeut,6477,2019-06-01
+4568,Fyzioterapeut,7008,2019-04-01
+4569,Fyzioterapeut,7567,2019-02-01
+4570,Fyzioterapeut,8193,2018-11-01
+4571,Fyzioterapeut,8194,2018-11-01
+4572,Fyzioterapeut,8568,2018-09-01
+4573,Fyzioterapeut,8939,2018-08-01
+4574,Fyzioterapeut,8950,2018-08-01
+4575,Fyzioterapeut,9477,2018-06-01
+4576,Fyzioterapeut,10027,2018-04-01
+4577,Fyzioterapeut,10833,2018-01-01
+4578,Fyzioterapeut,11880,2017-09-01
+4579,Fyzioterapeut,13179,2017-02-01
+4580,Fyzioterapeut,17010,2016-03-01
+4581,Fyzioterapeut,17410,2016-01-01
+4582,Fyzioterapeut,17411,2016-01-01
+4583,Fyzioterapeut,20011,2015-08-01
+4584,Fyzioterapeut,20156,2013-04-10
+4585,Fyzioterapeut,21895,2014-06-01
+4586,Fyzioterapeut,23904,2014-01-01
+4587,Fyzioterapeut,53033,1992-07-01
+4588,Fyzioterapeut,57408,2000-01-01
+4589,kardiologie,17645,2015-10-01
+4590,kardiologie,19724,2015-07-01
+4591,kardiologie,21733,2014-10-01
+4592,kardiologie,25850,2013-06-01
+4593,kardiologie,41188,2006-01-01
+4594,kardiologie,43707,2004-01-01
+4595,Dentální hygienistka,6629,2019-06-01
+4596,Dentální hygienistka,6888,2019-04-04
+4597,Dentální hygienistka,8835,2018-08-01
+4598,Dentální hygienistka,12485,2017-05-01
+4599,Dentální hygienistka,19248,2015-01-15
+4600,Dentální hygienistka,20958,2015-04-01
+4601,Dentální hygienistka,21099,2015-02-01
+4602,Dentální hygienistka,21219,2015-04-30
+4603,Dentální hygienistka,23930,2014-03-01
+4604,Dentální hygienistka,24782,2013-11-01
+4605,Dentální hygienistka,34998,2009-10-01
+4606,Dentální hygienistka,37121,2008-04-01
+4607,Fyzioterapeut,717,2021-05-31
+4608,Fyzioterapeut,921,2021-05-05
+4609,Fyzioterapeut,1171,2021-04-01
+4610,Fyzioterapeut,1583,2021-02-10
+4611,Fyzioterapeut,2188,2020-12-03
+4612,Fyzioterapeut,2189,2020-12-16
+4613,Fyzioterapeut,2190,2020-12-16
+4614,Fyzioterapeut,4456,2020-01-01
+4615,Fyzioterapeut,4804,2020-01-15
+4616,Fyzioterapeut,4805,2020-01-15
+4617,Fyzioterapeut,4806,2020-01-16
+4618,Fyzioterapeut,4807,2020-01-16
+4619,Fyzioterapeut,4934,2020-01-01
+4620,Fyzioterapeut,4945,2020-01-01
+4621,Fyzioterapeut,5915,2019-08-29
+4622,Fyzioterapeut,5917,2019-08-29
+4623,Fyzioterapeut,5919,2019-08-29
+4624,Fyzioterapeut,5921,2019-08-29
+4625,Fyzioterapeut,6967,2019-09-01
+4626,Fyzioterapeut,7733,2019-01-01
+4627,Fyzioterapeut,11300,2017-11-01
+4628,Fyzioterapeut,11532,2017-09-27
+4629,Fyzioterapeut,12482,2017-05-01
+4630,Fyzioterapeut,13367,2017-01-01
+4631,Fyzioterapeut,13373,2017-01-01
+4632,Fyzioterapeut,13801,2016-11-01
+4633,Fyzioterapeut,16584,2016-04-01
+4634,Fyzioterapeut,17288,2016-01-01
+4635,Fyzioterapeut,17381,2016-02-01
+4636,Fyzioterapeut,17405,2016-01-01
+4637,Fyzioterapeut,20139,2003-12-01
+4638,Fyzioterapeut,22482,2014-07-01
+4639,Fyzioterapeut,22793,2014-03-01
+4640,Fyzioterapeut,22794,2014-03-01
+4641,Fyzioterapeut,24770,2013-01-03
+4642,Fyzioterapeut,33209,2010-09-01
+4643,Fyzioterapeut,35873,2009-01-01
+4644,Fyzioterapeut,39457,2007-05-01
+4645,Fyzioterapeut,39466,2007-05-02
+4646,Fyzioterapeut,42242,2005-01-01
+4647,kardiologie,1309,2021-05-01
+4648,kardiologie,13368,2017-01-01
+4649,kardiologie,13374,2017-01-01
+4650,kardiologie,20144,2005-07-01
+4651,kardiologie,24184,2014-01-01
+4652,kardiologie,24187,2014-01-01
+4653,kardiologie,32028,2011-01-01
+4654,kardiologie,39439,2007-05-01
+4655,kardiologie,43591,2004-01-01
+4656,kardiologie,50479,1994-01-01
+4657,sexuologie,24414,2013-01-01
+4658,Dentální hygienistka,3234,2020-06-04
+4659,Dentální hygienistka,6139,2019-08-01
+4660,Fyzioterapeut,1149,2021-04-05
+4661,Fyzioterapeut,2237,2020-12-19
+4662,Fyzioterapeut,2453,2021-01-01
+4663,Fyzioterapeut,3405,2020-06-11
+4664,Fyzioterapeut,5703,2019-10-01
+4665,Fyzioterapeut,6460,2019-05-23
+4666,Fyzioterapeut,12241,2017-04-18
+4667,Fyzioterapeut,12264,2017-04-18
+4668,Fyzioterapeut,12400,2017-05-01
+4669,Fyzioterapeut,12836,2017-02-01
+4670,Fyzioterapeut,15139,2016-07-27
+4671,Fyzioterapeut,28594,2012-09-01
+4672,Fyzioterapeut,34715,2010-01-01
+4673,Fyzioterapeut,38777,2007-01-01
+4674,Fyzioterapeut,40582,2006-07-01
+4675,Fyzioterapeut,51430,2001-07-01
+4676,Fyzioterapeut,58943,1992-01-01
+4677,kardiologie,57154,2002-01-01
+4678,Dentální hygienistka,1693,2021-03-01
+4679,Dentální hygienistka,2597,2020-12-01
+4680,Dentální hygienistka,2745,2020-11-01
+4681,Dentální hygienistka,3164,2020-08-01
+4682,Dentální hygienistka,5432,2020-01-01
+4683,Dentální hygienistka,5556,2013-01-03
+4684,Dentální hygienistka,8121,2018-11-01
+4685,Dentální hygienistka,8387,2018-10-10
+4686,Dentální hygienistka,8876,2018-08-01
+4687,Dentální hygienistka,9823,2018-05-01
+4688,Dentální hygienistka,11093,2017-11-13
+4689,Dentální hygienistka,11580,2017-09-05
+4690,Dentální hygienistka,12826,2017-03-01
+4691,Dentální hygienistka,12844,2017-03-01
+4692,Dentální hygienistka,12867,2017-02-27
+4693,Dentální hygienistka,14058,2016-10-18
+4694,Dentální hygienistka,14069,2016-11-01
+4695,Dentální hygienistka,16122,2016-07-01
+4696,Dentální hygienistka,20018,2014-12-01
+4697,Dentální hygienistka,23361,2014-04-01
+4698,Dentální hygienistka,25824,2013-10-01
+4699,Dentální hygienistka,27385,2013-01-01
+4700,Dentální hygienistka,29485,2012-07-01
+4701,Dentální hygienistka,30404,2012-01-01
+4702,Dentální hygienistka,37346,2008-01-01
+4703,Dentální hygienistka,50716,1993-09-01
+4704,Fyzioterapeut,112,2021-09-02
+4705,Fyzioterapeut,539,2021-07-01
+4706,Fyzioterapeut,1310,2021-03-22
+4707,Fyzioterapeut,1516,2021-03-01
+4708,Fyzioterapeut,2471,2020-11-21
+4709,Fyzioterapeut,2473,2020-11-18
+4710,Fyzioterapeut,3032,2020-08-10
+4711,Fyzioterapeut,3162,2020-09-01
+4712,Fyzioterapeut,3588,2020-05-01
+4713,Fyzioterapeut,4781,2020-01-22
+4714,Fyzioterapeut,4790,2020-01-22
+4715,Fyzioterapeut,5114,2020-01-01
+4716,Fyzioterapeut,5506,2019-10-15
+4717,Fyzioterapeut,5705,2019-09-27
+4718,Fyzioterapeut,5990,2019-09-01
+4719,Fyzioterapeut,6117,2019-10-01
+4720,Fyzioterapeut,7575,2019-01-16
+4721,Fyzioterapeut,8411,2018-10-10
+4722,Fyzioterapeut,10191,2018-03-01
+4723,Fyzioterapeut,10525,2018-02-01
+4724,Fyzioterapeut,11659,2017-09-11
+4725,Fyzioterapeut,11877,2017-09-01
+4726,Fyzioterapeut,12341,2017-06-01
+4727,Fyzioterapeut,13682,2016-12-05
+4728,Fyzioterapeut,13804,2016-11-01
+4729,Fyzioterapeut,14784,2016-09-01
+4730,Fyzioterapeut,15423,2012-01-01
+4731,Fyzioterapeut,15427,2012-01-01
+4732,Fyzioterapeut,15519,2016-09-01
+4733,Fyzioterapeut,15596,2014-05-15
+4734,Fyzioterapeut,15803,2016-04-18
+4735,Fyzioterapeut,15804,2016-04-18
+4736,Fyzioterapeut,16168,2016-07-01
+4737,Fyzioterapeut,17140,2016-02-15
+4738,Fyzioterapeut,21660,2014-06-10
+4739,Fyzioterapeut,22015,2014-08-01
+4740,Fyzioterapeut,22239,2014-10-01
+4741,Fyzioterapeut,24752,2013-08-22
+4742,Fyzioterapeut,25877,2013-01-01
+4743,Fyzioterapeut,25879,2013-01-01
+4744,Fyzioterapeut,25883,2013-01-01
+4745,Fyzioterapeut,25962,2013-02-04
+4746,Fyzioterapeut,28513,2012-10-01
+4747,Fyzioterapeut,29548,2012-01-01
+4748,Fyzioterapeut,30376,2012-01-01
+4749,Fyzioterapeut,30915,2011-10-01
+4750,Fyzioterapeut,31223,2011-04-01
+4751,Fyzioterapeut,31383,2011-05-01
+4752,Fyzioterapeut,31970,2011-06-01
+4753,Fyzioterapeut,32293,2011-01-01
+4754,Fyzioterapeut,32843,2011-01-01
+4755,Fyzioterapeut,33418,2010-09-06
+4756,Fyzioterapeut,33419,2010-09-01
+4757,Fyzioterapeut,33783,2010-07-01
+4758,Fyzioterapeut,33784,2010-07-01
+4759,Fyzioterapeut,33786,2010-07-01
+4760,Fyzioterapeut,35487,2009-07-01
+4761,Fyzioterapeut,37066,2008-01-01
+4762,Fyzioterapeut,40598,2006-07-01
+4763,Fyzioterapeut,42680,2004-12-01
+4764,Fyzioterapeut,42844,2004-09-01
+4765,Fyzioterapeut,42845,2004-09-01
+4766,Fyzioterapeut,44992,2003-01-01
+4767,Fyzioterapeut,49244,1995-01-01
+4768,Fyzioterapeut,49274,1997-04-01
+4769,Fyzioterapeut,55569,1976-12-01
+4770,Fyzioterapeut,55571,1976-12-01
+4771,Fyzioterapeut,55612,1992-11-01
+4772,Fyzioterapeut,57468,2000-01-01
+4773,Fyzioterapeut,59916,1994-01-01
+4774,kardiologie,1466,2021-03-01
+4775,kardiologie,5360,2019-09-30
+4776,kardiologie,21027,2015-01-01
+4777,kardiologie,21317,2015-01-01
+4778,kardiologie,21975,2014-01-01
+4779,kardiologie,26605,2013-07-01
+4780,kardiologie,26607,2013-07-01
+4781,kardiologie,30609,2012-01-01
+4782,kardiologie,31955,2011-02-01
+4783,kardiologie,35852,2009-01-01
+4784,kardiologie,41280,2006-01-01
+4785,kardiologie,41301,2006-01-01
+4786,kardiologie,41302,2006-01-01
+4787,kardiologie,49253,1995-01-01
+4788,Dentální hygienistka,9429,2018-06-01
+4789,Dentální hygienistka,11005,2017-12-11
+4790,Dentální hygienistka,13275,2017-01-01
+4791,Dentální hygienistka,20326,2015-04-27
+4792,Dentální hygienistka,25617,2013-01-01
+4793,Dentální hygienistka,30656,2012-01-01
+4794,Dentální hygienistka,35102,2009-10-01
+4795,Fyzioterapeut,2813,2020-09-15
+4796,Fyzioterapeut,3076,2020-07-08
+4797,Fyzioterapeut,3077,2020-07-08
+4798,Fyzioterapeut,3875,2020-03-31
+4799,Fyzioterapeut,4263,2020-02-12
+4800,Fyzioterapeut,4267,2020-03-01
+4801,Fyzioterapeut,4307,2020-02-03
+4802,Fyzioterapeut,4734,2020-01-08
+4803,Fyzioterapeut,5500,2019-10-11
+4804,Fyzioterapeut,8909,2018-07-09
+4805,Fyzioterapeut,11146,2018-01-01
+4806,Fyzioterapeut,14014,2016-11-01
+4807,Fyzioterapeut,14525,2016-01-01
+4808,Fyzioterapeut,14526,2016-01-01
+4809,Fyzioterapeut,14527,2016-01-01
+4810,Fyzioterapeut,17227,2015-12-18
+4811,Fyzioterapeut,22712,2014-01-01
+4812,Fyzioterapeut,22713,2014-01-01
+4813,Fyzioterapeut,24381,2013-01-01
+4814,Fyzioterapeut,30298,2012-01-01
+4815,Fyzioterapeut,44918,2003-01-01
+4816,Fyzioterapeut,47683,1998-01-01
+4817,Fyzioterapeut,60779,1976-06-01
+4818,Fyzioterapeut,60780,1976-06-01
+4819,Fyzioterapeut,60781,1976-06-01
+4820,Fyzioterapeut,60852,1976-12-01
+4821,Fyzioterapeut,60853,1976-12-01
+4822,Fyzioterapeut,60854,1976-12-01
+4823,kardiologie,14580,2016-06-01
+4824,kardiologie,25010,2013-04-01
+4825,kardiologie,31000,2011-07-01
+4826,kardiologie,32404,2011-01-01
+4827,kardiologie,60806,1976-12-01
+4828,Dentální hygienistka,7098,2019-07-01
+4829,Dentální hygienistka,8900,2018-09-01
+4830,Dentální hygienistka,14182,2016-10-01
+4831,Dentální hygienistka,14479,2016-10-01
+4832,Fyzioterapeut,1521,2021-03-01
+4833,Fyzioterapeut,2707,2020-10-19
+4834,Fyzioterapeut,5136,2019-12-05
+4835,Fyzioterapeut,8754,2018-09-01
+4836,Fyzioterapeut,14486,2016-10-01
+4837,Fyzioterapeut,16723,2016-06-01
+4838,Fyzioterapeut,16953,2014-10-01
+4839,Fyzioterapeut,18454,2015-11-11
+4840,Fyzioterapeut,20940,2015-06-01
+4841,Fyzioterapeut,21738,2015-01-01
+4842,Fyzioterapeut,21744,2015-01-09
+4843,Fyzioterapeut,22556,2014-09-01
+4844,Fyzioterapeut,22855,2014-07-01
+4845,Fyzioterapeut,23859,2014-02-01
+4846,Fyzioterapeut,23860,2014-02-01
+4847,Fyzioterapeut,23861,2014-01-01
+4848,Fyzioterapeut,25696,2013-09-01
+4849,Fyzioterapeut,25700,2013-02-01
+4850,Fyzioterapeut,29357,2012-07-01
+4851,Fyzioterapeut,29367,2012-07-01
+4852,Fyzioterapeut,34428,2010-01-01
+4853,Fyzioterapeut,38085,2007-01-01
+4854,Fyzioterapeut,38394,2007-09-01
+4855,Fyzioterapeut,38507,2007-09-01
+4856,Fyzioterapeut,42003,2005-01-01
+4857,Fyzioterapeut,42032,2005-01-01
+4858,Fyzioterapeut,46403,1998-11-01
+4859,Fyzioterapeut,46404,1998-11-01
+4860,Fyzioterapeut,48248,1995-09-01
+4861,Fyzioterapeut,48892,1994-07-01
+4862,Fyzioterapeut,56399,1997-09-01
+4863,Fyzioterapeut,56400,1994-11-01
+4864,Fyzioterapeut,56420,1993-11-01
+4865,Fyzioterapeut,56438,2000-09-01
+4866,Fyzioterapeut,57805,1999-02-01
+4867,Fyzioterapeut,58220,1993-01-01
+4868,kardiologie,978,2021-07-12
+4869,kardiologie,12023,2017-07-15
+4870,kardiologie,16239,2016-09-01
+4871,kardiologie,16748,2016-03-01
+4872,kardiologie,19124,2016-01-01
+4873,kardiologie,19671,2015-01-01
+4874,kardiologie,21450,2015-02-01
+4875,kardiologie,26934,2013-01-01
+4876,kardiologie,32279,2011-01-01
+4877,kardiologie,38084,2007-01-01
+4878,kardiologie,38400,2007-09-01
+4879,kardiologie,38443,2007-09-01
+4880,kardiologie,38463,2007-09-01
+4881,kardiologie,38513,2007-09-01
+4882,kardiologie,38556,2007-09-01
+4883,kardiologie,38576,2007-09-01
+4884,kardiologie,45567,2002-07-01
+4885,kardiologie,48246,1995-09-01
+4886,kardiologie,56407,1994-04-01
+4887,kardiologie,56535,1993-02-01
+4888,sexuologie,38365,2007-09-01
+4889,sexuologie,38421,2007-09-01
+4890,sexuologie,38534,2007-09-01
+4891,soudní lékařství,38422,2007-09-01
+4892,soudní lékařství,38535,2007-09-01
+4893,Dentální hygienistka,14808,2015-06-05
+4894,Dentální hygienistka,27429,2013-03-01
+4895,Dentální hygienistka,33832,2010-07-01
+4896,Dentální hygienistka,39804,2007-03-01
+4897,Fyzioterapeut,99,2021-08-18
+4898,Fyzioterapeut,1762,2021-01-18
+4899,Fyzioterapeut,6711,2019-04-03
+4900,Fyzioterapeut,7085,2019-05-01
+4901,Fyzioterapeut,11113,2017-12-01
+4902,Fyzioterapeut,12474,2017-03-27
+4903,Fyzioterapeut,12476,2017-04-05
+4904,Fyzioterapeut,14819,2012-01-01
+4905,Fyzioterapeut,14856,2016-04-27
+4906,Fyzioterapeut,14869,2016-04-27
+4907,Fyzioterapeut,14960,2016-02-26
+4908,Fyzioterapeut,17505,2016-02-01
+4909,Fyzioterapeut,18790,2015-01-01
+4910,Fyzioterapeut,23375,2014-03-01
+4911,Fyzioterapeut,27438,2013-03-01
+4912,Fyzioterapeut,27440,2013-03-01
+4913,Fyzioterapeut,29816,2012-01-01
+4914,Fyzioterapeut,29943,2012-01-01
+4915,Fyzioterapeut,29944,2012-01-01
+4916,Fyzioterapeut,29946,2012-01-01
+4917,Fyzioterapeut,31554,2011-01-01
+4918,Fyzioterapeut,32577,2011-01-01
+4919,Fyzioterapeut,35659,2009-01-01
+4920,Fyzioterapeut,36952,2008-07-01
+4921,Fyzioterapeut,37127,2008-01-01
+4922,Fyzioterapeut,37569,2000-01-01
+4923,Fyzioterapeut,37623,1996-01-01
+4924,Fyzioterapeut,39807,2007-02-01
+4925,Fyzioterapeut,40444,2006-09-04
+4926,Fyzioterapeut,48901,1996-10-01
+4927,Fyzioterapeut,48902,1996-10-01
+4928,Fyzioterapeut,55455,1993-02-01
+4929,Fyzioterapeut,57223,1999-04-01
+4930,Fyzioterapeut,58031,1993-02-01
+4931,Fyzioterapeut,58212,1993-02-01
+4932,kardiologie,14803,2015-01-01
+4933,kardiologie,18777,2015-01-01
+4934,kardiologie,22460,2014-07-01
+4935,kardiologie,42557,2005-01-01
+4936,Dentální hygienistka,194,2021-09-01
+4937,Dentální hygienistka,3093,2020-08-03
+4938,Dentální hygienistka,12276,2017-04-22
+4939,Dentální hygienistka,30496,2012-01-01
+4940,Fyzioterapeut,1292,2021-04-01
+4941,Fyzioterapeut,1541,2021-03-01
+4942,Fyzioterapeut,3097,2020-07-30
+4943,Fyzioterapeut,3503,2020-05-20
+4944,Fyzioterapeut,7675,2019-02-25
+4945,Fyzioterapeut,8501,2018-10-01
+4946,Fyzioterapeut,8690,2018-10-01
+4947,Fyzioterapeut,12150,2017-06-16
+4948,Fyzioterapeut,17078,2015-12-01
+4949,Fyzioterapeut,31282,2011-01-01
+4950,Fyzioterapeut,35015,2009-01-01
+4951,Fyzioterapeut,36038,2009-01-01
+4952,Fyzioterapeut,37321,2008-01-01
+4953,Fyzioterapeut,40363,2006-10-01
+4954,Fyzioterapeut,45246,2003-06-01
+4955,Fyzioterapeut,48034,1995-07-01
+4956,Fyzioterapeut,48211,2002-04-01
+4957,Fyzioterapeut,48745,1995-09-01
+4958,Fyzioterapeut,48746,1995-09-01
+4959,Fyzioterapeut,48747,1995-09-01
+4960,Fyzioterapeut,52366,1994-10-01
+4961,kardiologie,32553,2011-01-01
+4962,kardiologie,39360,2007-07-01
+4963,kardiologie,52375,1995-07-01
+4964,kardiologie,52377,1994-01-01
+4965,soudní lékařství,32502,2011-01-01
+4966,Dentální hygienistka,280,2021-08-05
+4967,Dentální hygienistka,2734,2020-11-01
+4968,Dentální hygienistka,6514,2019-05-30
+4969,Dentální hygienistka,9747,2018-05-01
+4970,Dentální hygienistka,22626,2014-08-11
+4971,Dentální hygienistka,36079,2009-01-01
+4972,Dentální hygienistka,54386,1994-11-04
+4973,Fyzioterapeut,991,2021-04-28
+4974,Fyzioterapeut,1417,2021-03-10
+4975,Fyzioterapeut,1445,2021-03-08
+4976,Fyzioterapeut,1651,2021-02-08
+4977,Fyzioterapeut,2735,2020-10-08
+4978,Fyzioterapeut,2852,2020-10-01
+4979,Fyzioterapeut,3120,2020-08-01
+4980,Fyzioterapeut,3563,2020-04-01
+4981,Fyzioterapeut,4779,2020-01-14
+4982,Fyzioterapeut,4793,2020-01-15
+4983,Fyzioterapeut,5943,2019-09-15
+4984,Fyzioterapeut,6327,2019-08-01
+4985,Fyzioterapeut,6742,2019-05-01
+4986,Fyzioterapeut,7045,2019-03-27
+4987,Fyzioterapeut,8859,2018-08-01
+4988,Fyzioterapeut,9748,2018-05-01
+4989,Fyzioterapeut,11059,2017-12-01
+4990,Fyzioterapeut,11427,2017-10-09
+4991,Fyzioterapeut,11492,2017-10-01
+4992,Fyzioterapeut,11827,2017-08-04
+4993,Fyzioterapeut,11912,2017-08-01
+4994,Fyzioterapeut,11938,2017-07-01
+4995,Fyzioterapeut,12559,2017-04-07
+4996,Fyzioterapeut,12597,2017-03-09
+4997,Fyzioterapeut,12789,2017-03-01
+4998,Fyzioterapeut,13697,2016-12-01
+4999,Fyzioterapeut,19052,2015-08-01
+5000,Fyzioterapeut,19053,2015-08-01
+5001,Fyzioterapeut,21653,2015-01-01
+5002,Fyzioterapeut,21968,2015-01-01
+5003,Fyzioterapeut,21970,2015-01-01
+5004,Fyzioterapeut,22494,2014-01-15
+5005,Fyzioterapeut,22539,2014-09-01
+5006,Fyzioterapeut,22558,2014-09-01
+5007,Fyzioterapeut,22620,2014-07-29
+5008,Fyzioterapeut,22990,2014-05-15
+5009,Fyzioterapeut,22991,2014-05-15
+5010,Fyzioterapeut,23008,2014-06-01
+5011,Fyzioterapeut,25454,2013-09-03
+5012,Fyzioterapeut,25455,2013-09-03
+5013,Fyzioterapeut,26497,2013-08-01
+5014,Fyzioterapeut,26498,2013-08-01
+5015,Fyzioterapeut,27339,2013-01-01
+5016,Fyzioterapeut,29215,2012-05-14
+5017,Fyzioterapeut,29226,2012-07-01
+5018,Fyzioterapeut,29228,2012-07-01
+5019,Fyzioterapeut,30924,2011-01-01
+5020,Fyzioterapeut,31660,2011-07-01
+5021,Fyzioterapeut,32134,2011-01-01
+5022,Fyzioterapeut,32155,2011-01-01
+5023,Fyzioterapeut,32368,2011-01-01
+5024,Fyzioterapeut,33631,2010-05-01
+5025,Fyzioterapeut,37146,2008-04-07
+5026,Fyzioterapeut,39659,2007-01-01
+5027,Fyzioterapeut,44719,1994-11-01
+5028,Fyzioterapeut,45783,2001-05-01
+5029,Fyzioterapeut,46394,2003-01-01
+5030,Fyzioterapeut,46395,2000-05-01
+5031,Fyzioterapeut,46397,1999-01-01
+5032,Fyzioterapeut,46398,1998-11-01
+5033,Fyzioterapeut,48328,1997-04-01
+5034,Fyzioterapeut,49905,1994-02-01
+5035,Fyzioterapeut,51178,1994-02-01
+5036,Fyzioterapeut,51180,1994-02-01
+5037,Fyzioterapeut,51216,1993-11-01
+5038,Fyzioterapeut,52513,1995-11-01
+5039,Fyzioterapeut,52515,1993-01-01
+5040,Fyzioterapeut,54379,1994-01-01
+5041,Fyzioterapeut,54380,1993-09-01
+5042,Fyzioterapeut,57189,2000-01-01
+5043,Fyzioterapeut,57190,2000-01-01
+5044,Fyzioterapeut,57191,2000-01-01
+5045,Fyzioterapeut,57699,1997-08-01
+5046,kardiologie,3133,2020-07-27
+5047,kardiologie,10646,2018-01-01
+5048,kardiologie,12374,2017-05-01
+5049,kardiologie,26281,2013-01-01
+5050,kardiologie,27772,2013-01-01
+5051,kardiologie,38662,2007-09-17
+5052,kardiologie,44264,2004-01-01
+5053,kardiologie,44331,2004-01-01
+5054,kardiologie,48318,1997-04-01
+5055,kardiologie,52495,1993-02-01
+5056,sexuologie,44293,2004-01-01
+5057,soudní lékařství,44283,2004-01-01
+5058,Dentální hygienistka,5272,2019-10-01
+5059,Dentální hygienistka,5351,2020-01-01
+5060,Fyzioterapeut,1491,2021-03-03
+5061,Fyzioterapeut,5719,2019-10-01
+5062,Fyzioterapeut,5853,2019-10-01
+5063,Fyzioterapeut,6737,2019-04-08
+5064,Fyzioterapeut,6926,2019-05-01
+5065,Fyzioterapeut,15975,1995-05-18
+5066,Fyzioterapeut,16080,2016-06-01
+5067,Fyzioterapeut,28374,2012-09-01
+5068,Fyzioterapeut,42376,2005-04-01
+5069,Fyzioterapeut,55346,1999-03-01
+5070,kardiologie,40105,2007-01-01
+5071,kardiologie,45042,2003-04-14
+5072,Dentální hygienistka,16540,2016-01-01
+5073,Fyzioterapeut,473,2021-07-01
+5074,Fyzioterapeut,1611,2021-02-15
+5075,Fyzioterapeut,3525,2020-05-15
+5076,Fyzioterapeut,5710,2019-09-24
+5077,Fyzioterapeut,6290,2019-08-01
+5078,Fyzioterapeut,6598,2019-06-01
+5079,Fyzioterapeut,8080,2019-01-01
+5080,Fyzioterapeut,12197,2017-06-09
+5081,Fyzioterapeut,15019,2008-01-01
+5082,Fyzioterapeut,15940,2016-07-04
+5083,Fyzioterapeut,15958,2016-01-01
+5084,Fyzioterapeut,17046,2016-01-01
+5085,Fyzioterapeut,17067,2016-01-01
+5086,Fyzioterapeut,19887,2015-06-01
+5087,Fyzioterapeut,19890,2015-06-01
+5088,Fyzioterapeut,23456,2014-04-23
+5089,Fyzioterapeut,28258,2013-01-01
+5090,Fyzioterapeut,28259,2013-01-01
+5091,Fyzioterapeut,28260,2013-01-01
+5092,Fyzioterapeut,28261,2013-01-01
+5093,Fyzioterapeut,28264,2013-01-01
+5094,Fyzioterapeut,32981,2011-03-16
+5095,Fyzioterapeut,33222,2010-10-13
+5096,Fyzioterapeut,33225,2010-11-01
+5097,Fyzioterapeut,33441,2010-08-01
+5098,Fyzioterapeut,34609,2010-01-01
+5099,Fyzioterapeut,34610,2010-01-01
+5100,Fyzioterapeut,36651,2008-01-01
+5101,Fyzioterapeut,36654,2008-01-01
+5102,Fyzioterapeut,36657,2008-01-01
+5103,Fyzioterapeut,36660,2008-01-01
+5104,Fyzioterapeut,37461,2008-01-01
+5105,Fyzioterapeut,38771,2007-07-01
+5106,Fyzioterapeut,44930,2003-04-01
+5107,Fyzioterapeut,44935,2003-01-01
+5108,Fyzioterapeut,44945,2003-04-01
+5109,Fyzioterapeut,46061,2000-07-01
+5110,Fyzioterapeut,49054,1995-03-01
+5111,Fyzioterapeut,49637,1994-04-01
+5112,Fyzioterapeut,53505,1995-03-01
+5113,Fyzioterapeut,58117,1991-01-01
+5114,kardiologie,1170,2021-01-01
+5115,kardiologie,4237,2020-06-01
+5116,kardiologie,10197,2000-01-01
+5117,kardiologie,23462,2014-04-01
+5118,kardiologie,37005,2008-03-01
+5119,kardiologie,53499,1995-03-01
+5120,sexuologie,5626,2019-10-07
+5121,Dentální hygienistka,935,2021-05-01
+5122,Dentální hygienistka,6475,2019-06-07
+5123,Dentální hygienistka,7513,2019-01-28
+5124,Dentální hygienistka,7878,2019-01-01
+5125,Dentální hygienistka,7887,2019-01-01
+5126,Dentální hygienistka,19259,2014-09-29
+5127,Dentální hygienistka,27855,2013-01-01
+5128,Fyzioterapeut,721,2021-06-01
+5129,Fyzioterapeut,7071,2019-03-22
+5130,Fyzioterapeut,13267,2017-01-13
+5131,Fyzioterapeut,15002,2014-07-14
+5132,Fyzioterapeut,31473,2011-01-01
+5133,Fyzioterapeut,32781,2011-04-01
+5134,Fyzioterapeut,34752,2010-01-01
+5135,Fyzioterapeut,35372,2009-01-01
+5136,Fyzioterapeut,36337,2009-01-01
+5137,Fyzioterapeut,51353,1996-10-01
+5138,Fyzioterapeut,51372,1994-12-01
+5139,Fyzioterapeut,51376,1994-09-01
+5140,Fyzioterapeut,54743,1994-01-01
+5141,Fyzioterapeut,57442,1999-01-01
+5142,kardiologie,12587,2017-03-10
+5143,kardiologie,15604,2016-01-01
+5144,kardiologie,18488,2015-11-11
+5145,kardiologie,23830,2014-02-01
+5146,kardiologie,54755,1994-01-01
+5147,kardiologie,57433,1999-01-01
+5148,kardiologie,58821,1976-12-01
