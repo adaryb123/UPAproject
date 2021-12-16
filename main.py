@@ -4,6 +4,10 @@ import pandas as pd
 import numpy as np
 import Region as rg
 
+from pandas import json_normalize
+from pymongo import MongoClient
+import certifi
+from flatten_json import flatten
 
 csv_file_path_population = r'Dataset/130142-21data043021.csv'
 csv_file_path_facilities = r'Dataset/export-sluzby-2021-10.csv'
@@ -22,7 +26,7 @@ def get_domain_dict(df_fac, reg_name, domains_list):
     for dom in domains_list:
         if dom in df_domain_region['OborPece'].tolist():
             domain_dict[dom] = {}
-
+    higher_region = ''
     for idx, row_fac in df_domain_region.iterrows():
         facility_dict = {}
         facility_dict['NazevCely'] = row_fac['NazevCely']
@@ -32,11 +36,11 @@ def get_domain_dict(df_fac, reg_name, domains_list):
         facility_dict['FormaPece'] = row_fac['FormaPece']
         facility_dict['DruhPece'] = row_fac['DruhPece']
         facility_dict['GPS'] = row_fac['GPS']
-
+        higher_region = row_fac['Kraj']
         domain_dict[row_fac['OborPece'].replace('nan', 'neznamy')][
             str(idx)] = facility_dict
 
-    return domain_dict
+    return higher_region, domain_dict
 
 def insert_population_csv(file_path_population, encoding_population, file_path_facilities, encoding_facilities):
     # Loading csv to pandas dataframe
@@ -71,8 +75,8 @@ def insert_population_csv(file_path_population, encoding_population, file_path_f
             region.population = pop_dict
 
             # Iterate over all facilities in region and add to domain
-            region.domain = get_domain_dict(df_fac, region.name, domains_list)
-
+            higher_region, region.domain = get_domain_dict(df_fac, region.name, domains_list)
+            region.higher_region = higher_region
             print("Inserting region: ", region.name)
             region.save()
             region = rg.Region(row['vuzemi_txt'])
@@ -97,11 +101,11 @@ def insert_population_csv(file_path_population, encoding_population, file_path_f
     region.population = pop_dict
 
     # Iterate over all facilities in region and add to domain
-    region.domain = get_domain_dict(df_fac, region.name, domains_list)
-
+    higher_region, region.domain = get_domain_dict(df_fac, region.name, domains_list)
+    region.higher_region = higher_region
     region.save()
 
-
+print('kokotko')
 driver.connect_to_db()
 delete_existing()
 insert_population_csv(csv_file_path_population,'utf8', csv_file_path_facilities, 'cp1250')

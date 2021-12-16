@@ -8,5 +8,3 @@ def connect_to_db():
     certificate = certifi.where()
 
     me.connect(db=database_name, host=address, tlsCAFile=certificate)
-
-

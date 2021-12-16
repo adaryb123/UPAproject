@@ -3,3 +3,7 @@ numpy
 jupyter
 mongoengine
 certifi
+seaborn
+matplotlib
+pathlib
+scipy

@@ -7,6 +7,7 @@ from mongoengine import *
 class Region(DynamicDocument):
     type = StringField()
     name = StringField()
+    higher_region = StringField()
     region_code = StringField()
     population = DictField(DictField())
     ############################
