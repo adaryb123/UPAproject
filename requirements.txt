@@ -6,3 +6,4 @@ certifi
 seaborn
 matplotlib
 pathlib
+scipy
